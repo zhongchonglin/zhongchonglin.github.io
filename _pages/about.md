@@ -7,9 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am growing up at Beihang Univeristy as a graduate student now in Beijing, China.
+Zhongchong Lin, a Ph.D. in Condensed Matter Physics from Peking University and an introduced talent in Fujian Province, China, holds the position of associate professor. 
 
-Currently, my main research interest is machine vision, based on a background in mechanical engineering. If you have any idea that you want to contact me after reviewing my homepage, I would be more than happy to receive your letter. Of course, discussing life with me is also a good choice. In fact, I am very eager to meet like-minded friends.
+We  focuses on the study of the relationship between the structure and properties of new magnetic functional materials. Utilizing key technologies from large scientific facilities such as neutron scattering and synchrotron radiation, We have made a series of original research achievements and significant advancements in the structural and magnetic studies of permanent magnets, soft magnets, and  two-dimensional magnetic compounds. We have published over 20 papers in internationally renowned journals with Citations > 300,impact factors > 200.
+
+Welcome to students interested in magnetic physics to join our research team!
+
 
 
 ## 🔥 News
