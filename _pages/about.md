@@ -11,13 +11,13 @@ redirect_from:
 <p style="text-align:justify;text-justify:inter-ideograph;">We  focuses on the study of the relationship between the structure and properties of new magnetic functional materials. Utilizing key technologies from large scientific facilities such as neutron scattering and synchrotron radiation, We have made a series of original research achievements and significant advancements in the structural and magnetic studies of permanent magnets, soft magnets, and  two-dimensional magnetic compounds. We have published over 20 papers in internationally renowned journals with Citations > 300, impact factors > 200.</p> 
 
 <p style="color:blue">Welcome to students interested in magnetic physics to join our research team!</p>
-</p>
 
 
 ## 🔥 News
-
-* 2024.05: I have officially started using and updating my academic homepage.
-* 2024.07: I have officially started using and updating my academic homepage.
+### 2024
+* Sept. 2024. Welcome our new group member Jinhuan He (何金桓)!
+* Sept. 2024. Welcome our new group member Yucheng Ye (叶宇城)!
+* July. 2024. Welcome our new group member Liqiang Zeng (曾力强)!
 
 ## 🔥 News
 
