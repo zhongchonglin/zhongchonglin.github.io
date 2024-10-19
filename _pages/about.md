@@ -26,9 +26,9 @@ redirect_from:
 
 ## 🔥 News
 ### 2024
-* Sept. 2024. Welcome our new group member Jinhuan He (何金桓)!
-* Sept. 2024. Welcome our new group member Yucheng Ye (叶宇城)!
-* July. 2024. Welcome our new group member Liqiang Zeng (曾力强)!
+* Sept. 2024. 🎉Welcome our new group member Jinhuan He (何金桓)!
+* Sept. 2024. 🎉Welcome our new group member Yucheng Ye (叶宇城)!
+* July. 2024. 🎉Welcome our new group member Liqiang Zeng (曾力强)!
 
 
 ## 📝 Publications
@@ -43,7 +43,7 @@ redirect_from:
             </div>
             <div class="paper-box-text">
 
-  <p><a href="https://www.sciencedirect.com/science/article/abs/pii/S1359645423009047">Interstitial nitrogen-modified Y2Fe16SiNy compounds towards enhanced high-frequency magnetic properties</a> <br />
+  <p><a href="https://www.sciencedirect.com/science/article/abs/pii/S1359645423009047"><p style="text-align:justify;text-justify:inter-ideograph;">Interstitial nitrogen-modified Y2Fe16SiNy compounds towards enhanced high-frequency magnetic properties</p></a> <br />
                <strong>Lin Z</strong>, Tian G, Zhang P, Hu Q, Xia Y, Qiao L, Wu R, Wang M, Liu Z, Wang Y, Yang W, Liu S, Zhou D, Han R, He L, Xia W, Wang C* and Yang J*.
               </p>
               <ul>
