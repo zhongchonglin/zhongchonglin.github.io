@@ -31,18 +31,18 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://www.researchgate.net/profile/Zhongchong-Lin"
+  researchgate    : "https://www.researchgate.net/profile/Zhongchong-Lin"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-9861-493X"
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : "https://www.researchgate.net/profile/Zhongchong-Lin"
+  googlescholar    : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : # Username
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
