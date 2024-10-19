@@ -78,3 +78,25 @@ redirect_from:
               </ul>
             </div>
   </div>
+
+
+## 📷️ Group Pictures
+* Sept. 2024. 🎉Welcome our new group member Jinhuan He (何金桓)!
+* Sept. 2024. 🎉Welcome our new group member Yucheng Ye (叶宇城)!
+* July  2024. 🎉Welcome our new group member Liqiang Zeng (曾力强)!
+
+
+## 🗣️ Group Members
+* Sept. 2024. 🎉Welcome our new group member Jinhuan He (何金桓)!
+* Sept. 2024. 🎉Welcome our new group member Yucheng Ye (叶宇城)!
+* July  2024. 🎉Welcome our new group member Liqiang Zeng (曾力强)!
+
+## 🎓️ Alumni
+* Sept. 2024. 🎉Welcome our new group member Jinhuan He (何金桓)!
+* Sept. 2024. 🎉Welcome our new group member Yucheng Ye (叶宇城)!
+* July  2024. 🎉Welcome our new group member Liqiang Zeng (曾力强)!
+
+## 🔗 Links
+* Sept. 2024. 🎉Welcome our new group member Jinhuan He (何金桓)!
+* Sept. 2024. 🎉Welcome our new group member Yucheng Ye (叶宇城)!
+* July  2024. 🎉Welcome our new group member Liqiang Zeng (曾力强)!
