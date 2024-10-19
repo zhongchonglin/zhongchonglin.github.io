@@ -7,11 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-<p> Zhongchong Lin, a Ph.D. in Condensed Matter Physics from Peking University and an introduced talent in Fujian Province, China, holds the position of associate professor. 
+<p style="Zhongchong Lin, a Ph.D. in Condensed Matter Physics from Peking University and an introduced talent in Fujian Province, China, holds the position of associate professor. ;">
 
-<p> We  focuses on the study of the relationship between the structure and properties of new magnetic functional materials. Utilizing key technologies from large scientific facilities such as neutron scattering and synchrotron radiation, We have made a series of original research achievements and significant advancements in the structural and magnetic studies of permanent magnets, soft magnets, and  two-dimensional magnetic compounds. We have published over 20 papers in internationally renowned journals with Citations > 300,impact factors > 200.
 
-<p> Welcome to students interested in magnetic physics to join our research team!
+Zhongchong Lin, a Ph.D. in Condensed Matter Physics from Peking University and an introduced talent in Fujian Province, China, holds the position of associate professor. 
+
+We  focuses on the study of the relationship between the structure and properties of new magnetic functional materials. Utilizing key technologies from large scientific facilities such as neutron scattering and synchrotron radiation, We have made a series of original research achievements and significant advancements in the structural and magnetic studies of permanent magnets, soft magnets, and  two-dimensional magnetic compounds. We have published over 20 papers in internationally renowned journals with Citations > 300,impact factors > 200.
+
+Welcome to students interested in magnetic physics to join our research team!
 
 
 
