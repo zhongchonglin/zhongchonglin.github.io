@@ -15,13 +15,13 @@ redirect_from:
 
 ## 🔬 Research interest
 ### Spintronics and Control of Physical Properties
-Dedicated to the growth of two-dimensional van der Waals magnets and the study of non-collinear spin order in low-dimensional strongly correlated systems.
+<p style="text-align:justify;text-justify:inter-ideograph;">Dedicat to the growth of two-dimensional van der Waals magnets and the study of non-collinear spin order in low-dimensional strongly correlated systems.</p>
 ### High-Frequency Magnetization Theory and High-Frequency Magnetic Materials
-Focused on the theory of dual anisotropy Snoek limit and research on related GHz electromagnetic wave absorbing materials.
+<p style="text-align:justify;text-justify:inter-ideograph;">Focused on the theory of dual anisotropy Snoek limit and research on related GHz electromagnetic wave absorbing materials.</p>
 ### Design of Novel Permanent Magnetic Materials and Magnetic Control
-Committed to studying new phase structures of permanent magnetic materials and the relationships of intrinsic magnetic parameters.
+<p style="text-align:justify;text-justify:inter-ideograph;">Committed to studying new phase structures of permanent magnetic materials and the relationships of intrinsic magnetic parameters.</p>
 ### Scientific Application of Key Technologies for Intrinsic Structure and Magnetic Detection
-Devoted to utilizing neutron scattering/synchrotron radiation collaborative microanalysis techniques to achieve spin control and structural study under multi-field coupling effects.
+<p style="text-align:justify;text-justify:inter-ideograph;">Devoted to utilizing neutron scattering/synchrotron radiation collaborative microanalysis techniques to achieve spin control and structural study under multi-field coupling effects.</p>
 
 
 ## 🔥 News
