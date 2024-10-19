@@ -81,22 +81,20 @@ redirect_from:
 
 
 ## 📷️ Group Pictures
-* Sept. 2024. 🎉Welcome our new group member Jinhuan He (何金桓)!
-* Sept. 2024. 🎉Welcome our new group member Yucheng Ye (叶宇城)!
-* July  2024. 🎉Welcome our new group member Liqiang Zeng (曾力强)!
+怎么加图片
 
 
 ## 🗣️ Group Members
-* Sept. 2024. 🎉Welcome our new group member Jinhuan He (何金桓)!
-* Sept. 2024. 🎉Welcome our new group member Yucheng Ye (叶宇城)!
-* July  2024. 🎉Welcome our new group member Liqiang Zeng (曾力强)!
+* Liqiang Zeng (曾力强)
+2024 PhD Student Exploration of Two-Dimensional Magnetic Materials
+* Yucheng Ye (叶宇城) 2024 Master Student Exploration of Two-Dimensional Magnetic Materials
+* Jinhuan He (何金桓) 2021 Undergraduate Student Exploration of Two-Dimensional Magnetic Materials
 
 ## 🎓️ Alumni
-* Sept. 2024. 🎉Welcome our new group member Jinhuan He (何金桓)!
-* Sept. 2024. 🎉Welcome our new group member Yucheng Ye (叶宇城)!
-* July  2024. 🎉Welcome our new group member Liqiang Zeng (曾力强)!
+
+
 
 ## 🔗 Links
-* Sept. 2024. 🎉Welcome our new group member Jinhuan He (何金桓)!
-* Sept. 2024. 🎉Welcome our new group member Yucheng Ye (叶宇城)!
-* July  2024. 🎉Welcome our new group member Liqiang Zeng (曾力强)!
+* AAAA
+* BBBB
+* https://faculty.pku.edu.cn/~6BnYZf/zh_CN/index.htm
