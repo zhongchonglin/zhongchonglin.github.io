@@ -32,28 +32,24 @@ redirect_from:
 
 
 ## 📝 Publications
-
-
+（#Co-first; *Corresponding）
+### 2024
 <div class="paper-box">
             <div class="paper-box-image">
               <div>
-                <div class="badge">IEEE Sensors Journal (Q1)</div><img src="images/editing-talk.png" alt="sym"
+                <div class="badge">IEEE Sensors Journal (Q1)</div><img src="images/Graphical Abstract1.png" alt="sym"
                   width="100%" />
               </div>
             </div>
             <div class="paper-box-text">
 
-  <p><a href="https://doi.org/10.1109/JSEN.2023.3344124">Detection of Defects in Adhesive Coating Based on
-                  Machine Vision</a> <br />
-                <strong>Xinrui Tao</strong>, Hanjun Gao, Qiong Wu*, et.al.
+  <p><a href="https://www.sciencedirect.com/science/article/abs/pii/S1359645423009047">Interstitial nitrogen-modified Y2Fe16SiNy compounds towards enhanced high-frequency magnetic properties</a> <br />
+               <strong>Lin Z</strong>, Tian G, Zhang P, Hu Q, Xia Y, Qiao L, Wu R, Wang M, Liu Z, Wang Y, Yang W, Liu S, Zhou D, Han R, He L, Xia W, Wang C* and Yang J*.
               </p>
               <ul>
-                <li>A machine vision detection method for detecting adhesive coating defects after lining spraying has
-                  been proposed.</li>
-                <li>The problem of coating integrity under high aspect ratio and unstable lighting conditions has been
-                  effectively resolved .</li>
-                <li>In the design of the hardware system, full consideration has been given to the deflection
-                  compensation of the detection equipment</li>
+                <li>The excellent impedance matching. Upon nitrogention, the synergistic effect of the magneto-volume and the chemical bonding reduces the electrical conductivity of the Y2Fe16Si compound by charge neutralization, remarkably decreasing the composites' permittivity. The decreased permittivity combines with the increased permeability to promote impedance matching of the composites.</li>
+                <li>The high operating frequency. With the introduction of interstitial nitrogen, the ratio of out-of-plane to in-plane anisotropy field increases by anisotropic lattice expansion. It together with enhanced magnetization raises the Snoek limit and operating frequency of the composites.</li>
+                <li>•	The extraordinary absorbing performance. Due to the advantage of the interstitial nitrogen effect in improving magnetic loss, impedance matching, and operating frequency, Y2Fe16SiNy-paraffin composites have the maximum effective absorption bandwidth of 5.84 GHz (11.31 - 17.15 GHz) in a thickness of 1.2 mm, and the minimum RL of -50.52 dB in a thickness of 1.5 mm, showing thinner thickness, stronger absorption, broader bandwidth, and higher working frequency compared to Y2Fe16Si-paraffin composites.</li>
               </ul>
             </div>
 </div>
