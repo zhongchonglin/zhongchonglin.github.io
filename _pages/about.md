@@ -6,6 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<div class="text-align-justify demo">
+    <div class="inner-item">左边 div</div>
+    <div class="inner-item">右边 div</div>
 
 <p>Zhongchong Lin, a Ph.D. in Condensed Matter Physics from Peking University and an introduced talent in Fujian Province, China, holds the position of associate professor.</p> 
 
@@ -13,11 +16,13 @@ redirect_from:
 
 <p style="color:blue">Welcome to students interested in magnetic physics to join our research team!</p>
 
+</div>
 
 
 ## 🔥 News
 
 * 2024.05: I have officially started using and updating my academic homepage.
+* 2024.07: I have officially started using and updating my academic homepage.
 
 ## 🔥 News
 
