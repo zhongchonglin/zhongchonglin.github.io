@@ -80,11 +80,7 @@ redirect_from:
   </div>
 
 
-## 📷️ Group Pictures
-怎么加图片
-
-
-## 🗣️ Group Members
+## 🗣️ Members
 * Liqiang Zeng (曾力强)    2024 PhD Student
 <p>Exploration of Two-Dimensional Magnetic Materials</p>
 * Yucheng Ye (叶宇城)     2024 Master Student
@@ -94,7 +90,8 @@ redirect_from:
 
 ## 🎓️ Alumni
 
-
+## 📷️ Pictures
+怎么加图片
 
 ## 🔗 Links
 * AAAA
