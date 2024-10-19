@@ -94,6 +94,5 @@ redirect_from:
 怎么加图片
 
 ## 🔗 Links
-* AAAA
+* AAAA(怎么点击就到网页呢，比如到百度)
 * BBBB
-* https://faculty.pku.edu.cn/~6BnYZf/zh_CN/index.htm
