@@ -86,11 +86,11 @@ redirect_from:
 
 ## 🗣️ Group Members
 * Liqiang Zeng (曾力强)    2024 PhD Student
-Exploration of Two-Dimensional Magnetic Materials
+<p>Exploration of Two-Dimensional Magnetic Materials</p>
 * Yucheng Ye (叶宇城)     2024 Master Student
-Exploration of Two-Dimensional Magnetic Materials
+<p>Exploration of Two-Dimensional Magnetic Materials</p>
 * Jinhuan He (何金桓)     2021 Undergraduate Student
-Exploration of Two-Dimensional Magnetic Materials
+<p>Exploration of Two-Dimensional Magnetic Materials</p>
 
 ## 🎓️ Alumni
 
