@@ -13,15 +13,22 @@ redirect_from:
 <p style="color:blue">Welcome to students interested in magnetic physics to join our research team!</p>
 
 
+## 🔬 Research interest
+### Spintronics and Control of Physical Properties
+Dedicated to the growth of two-dimensional van der Waals magnets and the study of non-collinear spin order in low-dimensional strongly correlated systems.
+### High-Frequency Magnetization Theory and High-Frequency Magnetic Materials
+Focused on the theory of dual anisotropy Snoek limit and research on related GHz electromagnetic wave absorbing materials.
+### Design of Novel Permanent Magnetic Materials and Magnetic Control
+Committed to studying new phase structures of permanent magnetic materials and the relationships of intrinsic magnetic parameters.
+### Scientific Application of Key Technologies for Intrinsic Structure and Magnetic Detection
+Devoted to utilizing neutron scattering/synchrotron radiation collaborative microanalysis techniques to achieve spin control and structural study under multi-field coupling effects.
+
+
 ## 🔥 News
 ### 2024
 * Sept. 2024. Welcome our new group member Jinhuan He (何金桓)!
 * Sept. 2024. Welcome our new group member Yucheng Ye (叶宇城)!
 * July. 2024. Welcome our new group member Liqiang Zeng (曾力强)!
-
-## 🔥 News
-
-* 2025.09 - 0000.00, Ph.D, the School of Mechanical Engineering, Shanghai Jiao Tong University, Shanghai.
 
 
 ## 📝 Publications
