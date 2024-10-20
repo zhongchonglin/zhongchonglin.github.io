@@ -71,3 +71,15 @@
     order: 1
 }
 
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.main-container { /* 将 .main-container 替换为实际的主要容器类名 */
+    width: 100%;
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+}
