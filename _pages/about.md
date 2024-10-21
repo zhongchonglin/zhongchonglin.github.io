@@ -86,8 +86,6 @@ redirect_from:
 ### 2023
 
 <div class="paper-box">
-
-          
 </div>
 
 <div class="paper-box">
