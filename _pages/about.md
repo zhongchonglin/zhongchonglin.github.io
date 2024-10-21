@@ -93,8 +93,8 @@ redirect_from:
 
 <div class="paper-box">
 <div style="height: 1.0em;"></div> 
-  <p><a href="https://pubs.acs.org/doi/10.1021/acsnano.3c13034">Harnessing Van der Waals CrPS<sub>4</sub> and Surface Oxides for Nonmonotonic Preset Field Induced Exchange Bias in Fe<sub>3</sub>GeTe<sub>2</sub></a> <br>
-                Balan A P*, Kumar A, Scholz T, <strong>Lin Z</strong>, Shahee A, Fu S, Denneulin T, Vas J, Kovács A, Dunin-Borkowski R E, Wang H I, Yang J, Lotsch B V, Nowak U and Kläui M*.
+  <p><a href="https://pubs.acs.org/doi/10.1021/acsnano.3c13034">Efficient current-induced spin torques and field-free magnetization switching in a room-temperature van der Waals magnet</a> <br>
+                Yun C<sup>#<sup>, Guo H<sup>#</sup>, <strong>Lin Z</strong>, Peng L, Liang Z, Meng M, Zhang B, Zhao Z, Wang L, Ma Y, Liu Y, Li W, Ning S, Hou Y*, Yang J* and Luo Z*.
               </p>
             </div>
 
