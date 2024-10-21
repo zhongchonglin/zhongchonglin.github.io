@@ -50,6 +50,12 @@ redirect_from:
 <p>2024</p>
 
 <div class="paper-box">
+
+          
+</div>
+
+
+<div class="paper-box">
             <div class="paper-box-image">
               <div>
                 <div class="badge">IEEE Sensors Journal (Q1)</div><img src="images/Graphical Abstract1.png" alt="sym"
