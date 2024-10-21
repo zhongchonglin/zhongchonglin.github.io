@@ -82,7 +82,7 @@ redirect_from:
                   compensation of the detection equipment</li>
               </ul>
             </div>
-  </div>
+ 
 
 
 
