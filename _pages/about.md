@@ -80,13 +80,7 @@ redirect_from:
   <p><a href="https://pubs.acs.org/doi/10.1021/acsnano.3c13034">Harnessing Van der Waals CrPS<sub>4</sub> and Surface Oxides for Nonmonotonic Preset Field Induced Exchange Bias in Fe<sub>3</sub>GeTe<sub>2</sub></a> <br>
                 Balan A P*, Kumar A, Scholz T, <strong>Lin Z</strong>, Shahee A, Fu S, Denneulin T, Vas J, Kovács A, Dunin-Borkowski R E, Wang H I, Yang J, Lotsch B V, Nowak U and Kläui M*.
               </p>
-              <ul>
-                <li>A machine vision detection method for detecting adhesive coating defects after lining spraying has
-                  been proposed.</li>
-                <li>The problem of coating integrity under high aspect ratio and unstable lighting conditions has been
-                  effectively resolved .</li>
-                <li>In the design of the hardware system, full consideration has been given to the deflection
-                  compensation of the detection equipment</li>
+
               </ul>
             </div>
  
