@@ -61,7 +61,7 @@
 }
 
 .paper-box .paper-box-image img {
-    max-width: 400px;
+    max-width: 300px;
     box-shadow: 3px 3px 6px #888;
     object-fit: cover
 }
@@ -71,15 +71,19 @@
     order: 1
 }
 
-body {
-    margin: 0;
-    padding: 0;
-    width: 100%;
-}
 
-.main-container { /* 将 .main-container 替换为实际的主要容器类名 */
-    width: 100%;
-    max-width: 100%;
-    margin: 0;
-    padding: 0;
+@media (min-width: 48em) {
+    .paper-box .paper-box-image {
+        justify-content:left;
+        min-width: 200px;
+        max-width: 40%;
+        order: 1
+    }
+
+    .paper-box .paper-box-text {
+        justify-content: left;
+        padding-left: 2em;
+        max-width: 60%;
+        order: 2
+    }
 }
