@@ -87,3 +87,309 @@
         order: 2
     }
 }
+
+
+@media (min-width: 80em) {
+    #main {
+        max-width:1280px
+    }
+}
+
+@media (min-width: 57.8125em) {
+    .page {
+        width:83.0508474576%;
+        float: right;
+        margin-right: 0;
+        padding-left: 4.2372881356%;
+        padding-right: 0%
+    }
+}
+
+.page .page__inner-wrap {
+    clear: both;
+    width: 100%;
+    float: left;
+    margin-left: 0;
+    margin-right: 0
+}
+
+.page .page__inner-wrap .page__content,.page .page__inner-wrap .page__meta,.page .page__inner-wrap .comment__date,.page .page__inner-wrap .page__share {
+    clear: both;
+    width: 100%;
+    float: left;
+    margin-left: 0;
+    margin-right: 0
+}
+
+.page__title {
+    margin-top: 0;
+    line-height: 1
+}
+
+.page__title+.page__meta,.page__title+.comment__date {
+    margin-top: -0.5em
+}
+
+.page__lead {
+    font-family: "Trebuchet MS",Helvetica,sans-serif;
+    font-size: 1.2em
+}
+
+.page__content #about-me {
+    margin-top: -10em
+}
+
+.page__content #about-me:before {
+    content: '';
+    display: block;
+    position: relative;
+    width: 0;
+    height: 10em;
+    margin-top: -10em
+}
+
+.page__content h1 {
+    margin-top: 1em;
+    padding-bottom: 0.5em;
+    border-bottom: 1px solid #f2f3f3
+}
+
+.page__content p,.page__content li,.page__content dl {
+    font-size: 1em
+}
+
+.page__content p {
+    margin: 0 0 .5em
+}
+
+.page__content a {
+    text-decoration: underline
+}
+
+.page__content a:hover {
+    text-decoration: underline
+}
+
+.page__content a:hover img {
+    box-shadow: 0 0 10px rgba(0,0,0,0.25)
+}
+
+.page__content dt {
+    margin-top: 1em;
+    font-family: "Trebuchet MS",Helvetica,sans-serif;
+    font-weight: bold
+}
+
+.page__content dd {
+    margin-left: 1em;
+    font-family: "Trebuchet MS",Helvetica,sans-serif;
+    font-size: 1em
+}
+
+.page__content .small {
+    font-size: 1em
+}
+
+.page__content blockquote+.small {
+    margin-top: -1.5em;
+    padding-left: 1.25rem
+}
+
+.page__hero {
+    position: relative;
+    margin-bottom: 2em;
+    clear: both;
+    animation: intro 0.3s both;
+    animation-delay: 0.25s
+}
+
+.page__hero::after {
+    clear: both;
+    content: "";
+    display: table
+}
+
+.page__hero--overlay {
+    position: relative;
+    margin-bottom: 2em;
+    padding: 3em 0;
+    clear: both;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    animation: intro 0.3s both;
+    animation-delay: 0.25s
+}
+
+.page__hero--overlay::after {
+    clear: both;
+    content: "";
+    display: table
+}
+
+.page__hero--overlay a {
+    color: #fff
+}
+
+.page__hero--overlay .wrapper {
+    padding-left: 1em;
+    padding-right: 1em
+}
+
+@media (min-width: 80em) {
+    .page__hero--overlay .wrapper {
+        max-width:1280px
+    }
+}
+
+.page__hero--overlay .page__title,.page__hero--overlay .page__meta,.page__hero--overlay .comment__date,.page__hero--overlay .page__lead,.page__hero--overlay .btn,.page__hero--overlay #goog-wm-sb {
+    color: #fff;
+    text-shadow: 1px 1px 4px rgba(0,0,0,0.5)
+}
+
+.page__hero--overlay .page__lead {
+    max-width: 768px
+}
+
+.page__hero--overlay .page__title {
+    font-size: 1.953em
+}
+
+@media (min-width: 37.5em) {
+    .page__hero--overlay .page__title {
+        font-size:2.441em
+    }
+}
+
+.page__hero-image {
+    width: 100%;
+    height: auto;
+    -ms-interpolation-mode: bicubic
+}
+
+.page__hero-caption {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    margin: 0 auto;
+    padding: 2px 5px;
+    color: #fff;
+    font-family: Georgia,Times,serif;
+    font-size: .6875em;
+    background: #000;
+    text-align: right;
+    z-index: 5;
+    opacity: 0.5;
+    border-radius: 4px 0 4px 0
+}
+
+@media (min-width: 57.8125em) {
+    .page__hero-caption {
+        padding:5px 10px
+    }
+}
+
+.page__hero-caption a {
+    color: #fff;
+    text-decoration: none
+}
+
+.page__share {
+    margin-top: 2em;
+    padding-top: 1em;
+    border-top: 1px solid #f2f3f3
+}
+
+@media (max-width: 37.5em) {
+    .page__share .btn span,.page__share #goog-wm-sb span {
+        border:0;
+        clip: rect(0 0 0 0);
+        height: 1px;
+        margin: -1px;
+        overflow: hidden;
+        padding: 0;
+        position: absolute;
+        width: 1px
+    }
+}
+
+.page__share-title {
+    margin-bottom: 10px;
+    font-size: 1em;
+    text-transform: uppercase
+}
+
+.page__meta,.comment__date {
+    margin-top: 2em;
+    color: #9ba1a6;
+    font-family: "Trebuchet MS",Helvetica,sans-serif;
+    font-size: 1em
+}
+
+.page__meta p,.comment__date p {
+    margin: 0
+}
+
+.page__meta a,.comment__date a {
+    color: inherit
+}
+
+.page__meta-title {
+    margin-bottom: 10px;
+    font-size: 1em;
+    text-transform: uppercase
+}
+
+.page__taxonomy .sep {
+    display: none
+}
+
+.page__taxonomy strong {
+    margin-right: 10px
+}
+
+.page__taxonomy-item {
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 8px;
+    padding: 5px 10px;
+    text-decoration: none;
+    border: 1px solid #bdc1c4;
+    border-radius: 4px
+}
+
+.page__taxonomy-item:hover {
+    text-decoration: none;
+    color: #1a386a
+}
+
+.page__comments {
+    clear: both;
+    width: 100%;
+    float: left;
+    margin-left: 0;
+    margin-right: 0
+}
+
+.page__comments-title {
+    margin-top: 2rem;
+    margin-bottom: 10px;
+    padding-top: 2rem;
+    font-size: 1em;
+    border-top: 1px solid #f2f3f3;
+    text-transform: uppercase
+}
+
+.page__comments-form {
+    padding: 1em;
+    background: #f2f3f3;
+    transition: all 0.2s ease-in-out
+}
+
+.page__comments-form.disabled input,.page__comments-form.disabled button,.page__comments-form.disabled textarea,.page__comments-form.disabled label {
+    pointer-events: none;
+    cursor: not-allowed;
+    filter: alpha(opacity=65);
+    box-shadow: none;
+    opacity: 0.65
+}
