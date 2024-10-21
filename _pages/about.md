@@ -39,7 +39,7 @@ redirect_from:
 
 
 ## 🔥 News <a id="news"> </a>
-### <font color=BLUE>2024</font>
+###<font size=3 color=BLACK>2024</font>
 * Sept. 2024. 🎉Welcome our new group member Jinhuan He (何金桓)!
 * Sept. 2024. 🎉Welcome our new group member Yucheng Ye (叶宇城)!
 * July  2024. 🎉Welcome our new group member Liqiang Zeng (曾力强)!
@@ -47,7 +47,7 @@ redirect_from:
 
 ## 📝 Publications <a id="publications"></a>
 （<sup>#</sup>Co-first; <sup>*</sup>Corresponding）
-### 2024
+### <font size=3 color=BLACK>2024</font>
 
 <div class="paper-box">
 
@@ -83,7 +83,7 @@ redirect_from:
             </div>
  
 
-### 2023
+### <font size=3 color=BLACK>2023</font>
 
 <div class="paper-box">
 </div>
@@ -140,6 +140,19 @@ redirect_from:
 <div style="height: 1.0em;"></div> 
   <p><a href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.19.024037"> High-performance Fe<sub>x</sub>GeTe<sub>2</sub>−based (x = 4 or 5) van der Waals magnetic tunnel junctions </a> <br>
                 Wu B<sup>#</sup>, Fang S<sup>#</sup>, Yang J, Liu S, Peng Y, Li Q, <strong>Lin Z</strong>, Shi J, Yang W, Luo Z, Wang C, Yang J*, Lu J* and Du H*.
+              </p>
+            </div>
+
+
+### <font size=3 color=BLACK>2022</font>
+
+<div class="paper-box">
+</div>
+
+<div class="paper-box">
+<div style="height: 1.0em;"></div> 
+  <p><a href="https://www.science.org/doi/10.1126/sciadv.adj3955">Efficient current-induced spin torques and field-free magnetization switching in a room-temperature van der Waals magnet</a> <br>
+                Yun C<sup>#</sup>, Guo H<sup>#</sup>, <strong>Lin Z</strong>, Peng L, Liang Z, Meng M, Zhang B, Zhao Z, Wang L, Ma Y, Liu Y, Li W, Ning S, Hou Y*, Yang J* and Luo Z*.
               </p>
             </div>
 
