@@ -47,7 +47,7 @@ redirect_from:
 
 ## 📝 Publications <a id="publications"></a>
 （<sup>#</sup>Co-first; <sup>*</sup>Corresponding）
-<p>2024</p>
+### 2024
 
 <div class="paper-box">
 
