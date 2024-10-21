@@ -39,7 +39,7 @@ redirect_from:
 
 
 ## 🔥 News <a id="news"> </a>
-### <p style="color:blue">2024</strong></p>
+<p><p style="color:blue">2024</strong></p>
 * Sept. 2024. 🎉Welcome our new group member Jinhuan He (何金桓)!
 * Sept. 2024. 🎉Welcome our new group member Yucheng Ye (叶宇城)!
 * July  2024. 🎉Welcome our new group member Liqiang Zeng (曾力强)!
@@ -92,13 +92,18 @@ redirect_from:
 
 <div class="paper-box">
 <div style="height: 1.0em;"></div> 
-  <p><a href="https://pubs.acs.org/doi/10.1021/acsnano.3c13034">Efficient current-induced spin torques and field-free magnetization switching in a room-temperature van der Waals magnet</a> <br>
+  <p><a href="https://www.science.org/doi/10.1126/sciadv.adj3955">Efficient current-induced spin torques and field-free magnetization switching in a room-temperature van der Waals magnet</a> <br>
                 Yun C<sup>#</sup>, Guo H<sup>#</sup>, <strong>Lin Z</strong>, Peng L, Liang Z, Meng M, Zhang B, Zhao Z, Wang L, Ma Y, Liu Y, Li W, Ning S, Hou Y*, Yang J* and Luo Z*.
               </p>
             </div>
 
 
-
+<div class="paper-box">
+<div style="height: 1.0em;"></div> 
+  <p><a href="https://www.sciencedirect.com/science/article/pii/S092583882301263X">Study on neutron diffraction and correlated magnetic properties of (R<sub>1-x</sub>Zr<sub>x</sub>)Fe<sub>12-y</sub>Mo<sub>y</sub> with low Mo concentration</a> <br>
+                Wang F, Fan S, <strong>Lin Z</strong>, Xia Y, Li H, Yang W, Han J, Du H, Yang J and Yang Y*.
+              </p>
+            </div>
 
 
 <div class="paper-box">
