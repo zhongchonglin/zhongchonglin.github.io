@@ -69,13 +69,6 @@ redirect_from:
 </div>
 
 <div class="paper-box">
-            <div class="paper-box-image">
-              <div>
-                <div class="badge">IEEE Sensors Journal (Q1)</div><img src="images/3953273590_704e3899d5_m.jpg" alt="sym" width="100%">
-              </div>
-            </div>
-            <div class="paper-box-text">
-
   <p><a href="https://doi.org/10.1109/JSEN.2023.3344124">Detection of Defects in Adhesive Coating Based on
                   Machine Vision</a> <br>
                 <strong>Xinrui Tao</strong>, Hanjun Gao, Qiong Wu*, et.al.
