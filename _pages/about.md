@@ -69,9 +69,8 @@ redirect_from:
 </div>
 
 <div class="paper-box">
-  <p><a href="https://doi.org/10.1109/JSEN.2023.3344124">Detection of Defects in Adhesive Coating Based on
-                  Machine Vision</a> <br>
-                <strong>Xinrui Tao</strong>, Hanjun Gao, Qiong Wu*, et.al.
+  <p><a href="https://pubs.acs.org/doi/10.1021/acsnano.3c13034">Harnessing Van der Waals CrPS4 and Surface Oxides for Nonmonotonic Preset Field Induced Exchange Bias in Fe3GeTe2</a> <br>
+                Balan A P, Kumar A, Scholz T, Lin Z, Shahee A, Fu S, Denneulin T, Vas J, Kovács A, Dunin-Borkowski R E, Wang H I, Yang J, Lotsch B V, Nowak U and Kläui M
               </p>
               <ul>
                 <li>A machine vision detection method for detecting adhesive coating defects after lining spraying has
