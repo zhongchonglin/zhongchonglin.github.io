@@ -93,7 +93,7 @@ redirect_from:
 <div class="paper-box">
 <div style="height: 1.0em;"></div> 
   <p><a href="https://pubs.acs.org/doi/10.1021/acsnano.3c13034">Efficient current-induced spin torques and field-free magnetization switching in a room-temperature van der Waals magnet</a> <br>
-                Yun C<sup>#<sup>, Guo H<sup>#</sup>, <strong>Lin Z</strong>, Peng L, Liang Z, Meng M, Zhang B, Zhao Z, Wang L, Ma Y, Liu Y, Li W, Ning S, Hou Y*, Yang J* and Luo Z*.
+                Yun C<sup>#</sup>, Guo H<sup>#</sup>, <strong>Lin Z</strong>, Peng L, Liang Z, Meng M, Zhang B, Zhao Z, Wang L, Ma Y, Liu Y, Li W, Ning S, Hou Y*, Yang J* and Luo Z*.
               </p>
             </div>
 
