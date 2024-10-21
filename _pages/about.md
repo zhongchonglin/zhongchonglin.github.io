@@ -81,7 +81,6 @@ redirect_from:
                 Balan A P*, Kumar A, Scholz T, <strong>Lin Z</strong>, Shahee A, Fu S, Denneulin T, Vas J, Kovács A, Dunin-Borkowski R E, Wang H I, Yang J, Lotsch B V, Nowak U and Kläui M*.
               </p>
 
-              </ul>
             </div>
  
 
