@@ -46,7 +46,7 @@ redirect_from:
 
 
 ## 📝 Publications <a id="publications"></a>
-（#Co-first; *Corresponding）
+（<sup>#</sup>Co-first; <sup>*</sup>Corresponding）
 ### 2024
 <div class="paper-box">
             <div class="paper-box-image">
