@@ -137,7 +137,7 @@ redirect_from:
 
 
 <div class="paper-box">
-<div style="height: 1.0em;"></div> 
+<div style="height: 1.5em;"></div> 
   <p><a href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.19.024037"> High-performance Fe<sub>x</sub>GeTe<sub>2</sub>−based (x = 4 or 5) van der Waals magnetic tunnel junctions </a> <br>
                 Wu B<sup>#</sup>, Fang S<sup>#</sup>, Yang J, Liu S, Peng Y, Li Q, <strong>Lin Z</strong>, Shi J, Yang W, Luo Z, Wang C, Yang J*, Lu J* and Du H*.
               </p>
