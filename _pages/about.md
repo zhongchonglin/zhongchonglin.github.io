@@ -68,7 +68,10 @@ redirect_from:
             </div>
 </div>
 
-
+ <p><a href="https://www.sciencedirect.com/science/article/abs/pii/S1359645423009047"><p style="text-align:justify;text-justify:inter-ideograph;">Interstitial nitrogen-modified Y2Fe16SiNy compounds towards enhanced high-frequency magnetic properties</p></a>
+               <strong>Lin Z</strong>, Tian G, Zhang P, Hu Q, Xia Y, Qiao L, Wu R, Wang M, Liu Z, Wang Y, Yang W, Liu S, Zhou D, Han R, He L, Xia W, Wang C* and Yang J*.
+              </p>
+              
 
 <div class="paper-box">
             <div class="paper-box-image">
