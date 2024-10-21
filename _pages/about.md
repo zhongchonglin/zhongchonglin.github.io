@@ -24,14 +24,14 @@ redirect_from:
 <p style="text-align:justify;text-justify:inter-ideograph;">Devoted to utilizing neutron scattering/synchrotron radiation collaborative microanalysis techniques to achieve spin control and structural study under multi-field coupling effects.</p>
 
 
-## 🔥 News
+## 🔥 News (#news)
 ### 2024
 * Sept. 2024. 🎉Welcome our new group member Jinhuan He (何金桓)!
 * Sept. 2024. 🎉Welcome our new group member Yucheng Ye (叶宇城)!
 * July  2024. 🎉Welcome our new group member Liqiang Zeng (曾力强)!
 
 
-## 📝 Publications
+## 📝 Publications <a id="publications"></a>
 （#Co-first; *Corresponding）
 ### 2024
 <div class="paper-box">
@@ -80,7 +80,7 @@ redirect_from:
   </div>
 
 
-## 🗣️ Members
+## 🗣️ Members <a id="members"></a>
 * Liqiang Zeng (曾力强)    2024 PhD Student
 <p>Exploration of Two-Dimensional Magnetic Materials</p>
 * Yucheng Ye (叶宇城)     2024 Master Student
@@ -90,7 +90,7 @@ redirect_from:
 
 ## 🎓️ Alumni
 
-## 📷️ Pictures
+## 📷️ Pictures <a id="Pictures"></a>
 怎么加图片
 
 ## 🔗 Links
