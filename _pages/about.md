@@ -87,7 +87,7 @@ redirect_from:
 
 
 
-<div class="paper-box">
+<div class="paper-box"><div style="height: 1.0em;">
             <div class="paper-box-image">
               <div>
                 <div class="badge">IEEE Sensors Journal (Q1)</div><img src="images/3953273590_704e3899d5_m.jpg" alt="sym" width="100%">
