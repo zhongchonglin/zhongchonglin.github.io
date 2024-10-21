@@ -105,6 +105,54 @@ redirect_from:
 
 
 <div class="paper-box">
+<div style="height: 1.0em;"></div> 
+  <p><a href="https://doi.org/10.1038/s41467-023-41688-7">Magnetically-dressed CrSBr exciton-polaritons in ultrastrong coupling regime</a> <br>
+                Wang T, Zhang D, Yang S, <strong>Lin Z</strong>, Chen Q, Yang J, Gong Q, Chen Z*, Ye Y* and Liu W*.
+              </p>
+            </div>
+
+
+<div class="paper-box">
+<div style="height: 1.0em;"></div> 
+  <p><a href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.19.064008"> Layer-dependent magnetoresistance and spin-transfer torque in MnSe<sub>2</sub>-based magnetic tunnel junctions</a> <br>
+                Wu B, Yang J, Liu S, Fang S, <strong>Liu Z</strong>, Lin Z, Shi J, Yang W, Luo Z, Wang C, Du H*, Yang J* and Lu J*.
+              </p>
+            </div>
+
+
+<div class="paper-box">
+<div style="height: 1.0em;"></div> 
+  <p><a href="https://www.sciencedirect.com/science/article/abs/pii/S2542529323001554"> Effect of Zr substitution on the structure and magnetic properties of (Y, Zr)(Fe, Ti)<sub>12</sub> compounds</a> <br>
+                Fan S, Wang F, Xia Y, Wu B, Qian H, <strong>Lin Z</strong>, Wang Y, Du H*, Yang J* and Yang Y*.
+              </p>
+            </div>
+
+
+<div class="paper-box">
+<div style="height: 1.0em;"></div> 
+  <p><a href="https://doi.org/10.1021/jacs.3c10777"> Controlling the 2D magnetism of CrBr<sub>3</sub> by van der Waals stacking engineering</a> <br>
+                Yang S<sup>#</sup>, Xu X<sup>#</sup>*, Han B, Gu P, Guzman R, Song Y, <strong>Lin Z</strong>, Gao P, Zhou W, Yang J, Chen Z and Ye Y*.
+              </p>
+            </div>
+
+
+<div class="paper-box">
+<div style="height: 1.0em;"></div> 
+  <p><a href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.19.024037"> High-performance Fe<sub>x</sub>GeTe<sub>2</sub>−based (x = 4 or 5) van der Waals magnetic tunnel junctions </a> <br>
+                [20]	Wu B<sup>#</sup>, Fang S<sup>#</sup>, Yang J, Liu S, Peng Y, Li Q, <strong>Lin Z</strong>, Shi J, Yang W, Luo Z, Wang C, Yang J*, Lu J* and Du H*.
+              </p>
+            </div>
+
+
+
+
+
+
+
+
+
+
+<div class="paper-box">
             <div class="paper-box-image">
               <div>
                 <div class="badge">IEEE Sensors Journal (Q1)</div><img src="images/Graphical Abstract1.png" alt="sym"
