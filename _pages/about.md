@@ -14,10 +14,10 @@ redirect_from:
 
 <p style="text-align:justify;text-justify:inter-ideograph;"><font size=3 color=BLACK>Zhongchong Lin, Associate professor</font></p> 
 
-<p><strong>Education and Career：</strong></p>
-<p>07/2022 - present  福建师范大学副教授</p>
+<p><strong><font color=BLACK>Education and Career：</font></strong></p>
+<p>07/2022 - present  <font color=BLACK>福建师范大学副教授</font></p>
 <p>Associate professor at Fujian Normal University</p>
-<p>09/2019 - 07/2024  北京大学物理学院硕博连读</p>
+<p>09/2019 - 07/2024  <font color=BLACK>北京大学物理学院硕博连读</font></p>
 <p>PhD in School of Physics, Peking University</p>
 
 <p style="text-align:justify;text-justify:inter-ideograph;">We  focuses on the study of the relationship between the structure and properties of new magnetic functional materials. Utilizing key technologies from large scientific facilities such as neutron scattering and synchrotron radiation, We have made a series of original research achievements and significant advancements in the structural and magnetic studies of permanent magnets, soft magnets, and  two-dimensional magnetic compounds. We have published over 20 papers in internationally renowned journals with Citations > 300, impact factors > 200.</p> 
