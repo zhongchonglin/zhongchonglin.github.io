@@ -13,7 +13,7 @@ redirect_from:
  <a id="research"></a>
 
 <p style="text-align:justify;text-justify:inter-ideograph;"><font size=3 color=BLACK>Zhongchong Lin, Associate professor
-Education and Career：
+<p>Education and Career：</p>
 07/2022 - present  福建师范大学副教授
 Associate professor at Fujian Normal University
 09/2019 - 07/2024  北京大学物理学院硕博连读
