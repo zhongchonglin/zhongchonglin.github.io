@@ -64,7 +64,7 @@ redirect_from:
             </div>
             <div class="paper-box-text">
 
-  <p><a href="https://www.sciencedirect.com/science/article/abs/pii/S1359645423009047"><p style="text-align:justify;text-justify:inter-ideograph;">Interstitial nitrogen-modified Y2Fe16SiNy compounds towards enhanced high-frequency magnetic properties</p></a>
+  <p><a href="https://www.sciencedirect.com/science/article/abs/pii/S1359645423009047"><p style="text-align:justify;text-justify:inter-ideograph;">Interstitial nitrogen-modified Y<sub>2</sub>Fe<sub>16</sub>SiN<sub>y</sub> compounds towards enhanced high-frequency magnetic properties</p></a>
                <strong>Lin Z</strong>, Tian G, Zhang P, Hu Q, Xia Y, Qiao L, Wu R, Wang M, Liu Z, Wang Y, Yang W, Liu S, Zhou D, Han R, He L, Xia W, Wang C* and Yang J*.
               </p>
               <ul>
@@ -82,6 +82,23 @@ redirect_from:
               </p>
             </div>
  
+
+
+### <p style="color:blue"><strong>2024</strong></p>
+
+<div class="paper-box">
+
+          
+</div>
+
+<div class="paper-box">
+<div style="height: 1.0em;"></div> 
+  <p><a href="https://pubs.acs.org/doi/10.1021/acsnano.3c13034">Harnessing Van der Waals CrPS<sub>4</sub> and Surface Oxides for Nonmonotonic Preset Field Induced Exchange Bias in Fe<sub>3</sub>GeTe<sub>2</sub></a> <br>
+                Balan A P*, Kumar A, Scholz T, <strong>Lin Z</strong>, Shahee A, Fu S, Denneulin T, Vas J, Kovács A, Dunin-Borkowski R E, Wang H I, Yang J, Lotsch B V, Nowak U and Kläui M*.
+              </p>
+            </div>
+
+
 
 
 
@@ -104,6 +121,13 @@ redirect_from:
               </ul>
             </div>
 </div>
+
+
+
+
+
+
+
 
 
 ## 🗣️ Members <a id="members"></a>
