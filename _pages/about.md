@@ -39,7 +39,7 @@ redirect_from:
 
 
 ## 🔥 News <a id="news"> </a>
-###<font size=3 color=BLACK>2024</font>
+### <font size=3 color=BLACK>2024</font>
 * Sept. 2024. 🎉Welcome our new group member Jinhuan He (何金桓)!
 * Sept. 2024. 🎉Welcome our new group member Yucheng Ye (叶宇城)!
 * July  2024. 🎉Welcome our new group member Liqiang Zeng (曾力强)!
