@@ -86,7 +86,7 @@ redirect_from:
  
 
 
-<div style="height: 1.0em;">
+
 <div class="paper-box">
             <div class="paper-box-image">
               <div>
