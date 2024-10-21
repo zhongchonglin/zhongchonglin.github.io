@@ -18,9 +18,8 @@ redirect_from:
 <p>07/2022 - present  <font color=BLACK><strong>XXX副教授</strong></font></p>
 <p>Associate professor at xxx Normal University</p>
 <p>09/2019 - 07/2024  <font color=BLACK><strong>xxx物理学院硕博连读</strong></font></p>
-<p>PhD in School of Physics, xxx University</p>
+<p>PhD in School of Physics, xxx University</p><br> 
 
-<p> </p>
 <p style="text-align:justify;text-justify:inter-ideograph;">We  focuses on the study of the relationship between the structure and properties of new magnetic functional materials. Utilizing key technologies from large scientific facilities such as neutron scattering and synchrotron radiation, We have made a series of original research achievements and significant advancements in the structural and magnetic studies of permanent magnets, soft magnets, and  two-dimensional magnetic compounds. We have published over 20 papers in internationally renowned journals with Citations > 300, impact factors > 200.</p> 
 
 <p style="color:blue">Welcome to students interested in magnetic physics to join our research team!</p>
