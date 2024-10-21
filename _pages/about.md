@@ -8,7 +8,10 @@ redirect_from:
 ---
 
 
-# About
+
+
+ <a id="research"></a>
+ 
 <p style="text-align:justify;text-justify:inter-ideograph;"><font size=3 color=BLACK>Zhongchong Lin, a Ph.D. in Condensed Matter Physics from Peking University and an introduced talent in Fujian Province, China, holds the position of associate professor.</font></p> 
 
 <p style="text-align:justify;text-justify:inter-ideograph;">We  focuses on the study of the relationship between the structure and properties of new magnetic functional materials. Utilizing key technologies from large scientific facilities such as neutron scattering and synchrotron radiation, We have made a series of original research achievements and significant advancements in the structural and magnetic studies of permanent magnets, soft magnets, and  two-dimensional magnetic compounds. We have published over 20 papers in internationally renowned journals with Citations > 300, impact factors > 200.</p> 
@@ -27,7 +30,7 @@ redirect_from:
 <p style="text-align:justify;text-justify:inter-ideograph;">Devoted to utilizing neutron scattering/synchrotron radiation collaborative microanalysis techniques to achieve spin control and structural study under multi-field coupling effects.</p>
 
 
-## 🔥 News (#news)
+## 🔥 News <a id="news"> </a>
 ### 2024
 * Sept. 2024. 🎉Welcome our new group member Jinhuan He (何金桓)!
 * Sept. 2024. 🎉Welcome our new group member Yucheng Ye (叶宇城)!
@@ -91,11 +94,11 @@ redirect_from:
 * Jinhuan He (何金桓)     2021 Undergraduate Student
 <p>Exploration of Two-Dimensional Magnetic Materials</p>
 
-## 🎓️ Alumni
+## 🎓️ Alumni  <a id="alumni"> </a>
 
-## 📷️ Pictures <a id="Pictures"></a>
+## 📷️ Pictures <a id="pictures"></a>
 怎么加图片
 
-## 🔗 Links
+## 🔗 Links <a id="links"> </a>
 * AAAA(怎么点击就到网页呢，比如到百度)
 * BBBB
