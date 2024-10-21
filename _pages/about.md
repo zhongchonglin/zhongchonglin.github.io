@@ -80,7 +80,6 @@ redirect_from:
   <p><a href="https://pubs.acs.org/doi/10.1021/acsnano.3c13034">Harnessing Van der Waals CrPS<sub>4</sub> and Surface Oxides for Nonmonotonic Preset Field Induced Exchange Bias in Fe<sub>3</sub>GeTe<sub>2</sub></a> <br>
                 Balan A P*, Kumar A, Scholz T, <strong>Lin Z</strong>, Shahee A, Fu S, Denneulin T, Vas J, Kovács A, Dunin-Borkowski R E, Wang H I, Yang J, Lotsch B V, Nowak U and Kläui M*.
               </p>
-
             </div>
  
 
