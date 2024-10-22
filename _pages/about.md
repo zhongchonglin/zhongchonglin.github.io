@@ -265,8 +265,8 @@ redirect_from:
             </div>
             <div class="paper-box-text">
 
-  <p><a href="https://onlinelibrary.wiley.com/doi/10.1002/adfm.202106592"><p style="text-align:justify;text-justify:inter-ideograph;">Controlling spin orientation and metamagnetic transitions in anisotropic van der Waals antiferromagnet CrPS<sub>4</sub> by hydrostatic pressure</p></a>
-               Peng Y<sup>#</sup>, <strong>Lin Z<sup>#</sup></strong>, Tian G, Yang J, Zhang P, Wang F, Gu P, Liu X, Wang C W, Avdeev M, Liu F, Zhou D, Han R, Shen P, Yang W*, Liu S, Ye Y and Yang J*.
+  <p><a href="https://doi.org/10.1016/j.actamat.2020.08.084"><p style="text-align:justify;text-justify:inter-ideograph;"> Effect of Ce substitution on the structural and magnetic properties of Nd<sub>2</sub>Fe<sub>14</sub>B</p></a>
+               <strong>Lin Z<sub>#</sub></strong>, Zha L<sub>#</sub>, Wang F, Liu Z, Wu R, Yang J, Xue M, Yang W*, Tian G, Ma X, Qiao L, Franz A, An Q, Liu W, Wang C and Yang J*.
               </p>
               <ul>
                 <li><p style="text-align:justify;text-justify:inter-ideograph;">For the first time, control of the Néel vector in the CrPS<sub>4</sub> antiferromagnet was achieved using hydrostatic pressure techniques.</p></li>
