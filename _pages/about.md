@@ -201,7 +201,7 @@ redirect_from:
 <div class="paper-box">
             <div class="paper-box-image">
               <div>
-                <div class="badge">IEEE Sensors Journal (Q1)</div><img src="images/Graphical Abstract1.png" alt="sym"
+                <div class="badge">IEEE Sensors Journal (Q1)</div><img src="images/2021pressure.png" alt="sym"
                   width="100%" />
               </div>
             </div>
@@ -259,7 +259,7 @@ redirect_from:
 <div class="paper-box">
             <div class="paper-box-image">
               <div>
-                <div class="badge">IEEE Sensors Journal (Q1)</div><img src="images/Graphical Abstract1.png" alt="sym"
+                <div class="badge">IEEE Sensors Journal (Q1)</div><img src="images/2020NCFB.png" alt="sym"
                   width="100%" />
               </div>
             </div>
@@ -280,7 +280,7 @@ redirect_from:
 <div class="paper-box">
             <div class="paper-box-image">
               <div>
-                <div class="badge">IEEE Sensors Journal (Q1)</div><img src="images/Graphical Abstract1.png" alt="sym"
+                <div class="badge">IEEE Sensors Journal (Q1)</div><img src="images/2020NFBN.png" alt="sym"
                   width="100%" />
               </div>
             </div>
