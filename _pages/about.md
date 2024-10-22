@@ -269,9 +269,9 @@ redirect_from:
                <strong>Lin Z<sub>#</sub></strong>, Zha L<sub>#</sub>, Wang F, Liu Z, Wu R, Yang J, Xue M, Yang W*, Tian G, Ma X, Qiao L, Franz A, An Q, Liu W, Wang C and Yang J*.
               </p>
               <ul>
-                <li><p style="text-align:justify;text-justify:inter-ideograph;">For the first time, control of the Néel vector in the CrPS<sub>4</sub> antiferromagnet was achieved using hydrostatic pressure techniques.</p></li>
-                <li><p style="text-align:justify;text-justify:inter-ideograph;">It was determined that pressure-induced changes in magnetocrystalline anisotropy are driven by the compression of the one-dimensional CrS<sub>6</sub> chains along the b-axis.</p></li>
-                <li><p style="text-align:justify;text-justify:inter-ideograph;">Using first-principles calculations, the magnetic exchange interactions of CrPS<sub>4</sub> under different pressures were studied.</p></li>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;">Determine the preferential occupancy characteristics of Ce in Nd-Ce-Fe-B.</p></li>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;">he relationship among the magnetic moment at each Fe site, the Boron atom effect, and the Wigner-Seitz volume was elucidated.</p></li>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;">Discover phase separation and further discuss the relationship between Ce valence states and magnetism.</p></li>
               </ul>
             </div>
 </div>
