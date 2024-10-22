@@ -69,9 +69,9 @@ redirect_from:
                <strong><u>Lin Z</u></strong>, Tian G, Zhang P, Hu Q, Xia Y, Qiao L, Wu R, Wang M, Liu Z, Wang Y, Yang W, Liu S, Zhou D, Han R, He L, Xia W, Wang C* and Yang J*.
               </p>
               <ul>
-                <li><p style="text-align:justify;text-justify:inter-ideograph;"><strong>The excellent impedance matching.</strong> Upon nitrogention, the decreased permittivity combines with the increased permeability to promote impedance matching of the composites.</p></li>
-                <li><p style="text-align:justify;text-justify:inter-ideograph;"><strong>The high operating frequency.</strong> With the introduction of interstitial nitrogen, the ratio of out-of-plane to in-plane anisotropy field increases and together with enhanced magnetization raises the Snoek limit.</p></li>
-                <li><p style="text-align:justify;text-justify:inter-ideograph;"><strong>The extraordinary absorbing performance.</strong> Y2Fe16SiNy shows thinner thickness, stronger absorption, broader bandwidth, and higher working frequency compared to Y2Fe16Si-paraffin composites.</p></li>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;">Upon nitrogention, the decreased permittivity combines with the increased permeability to promote impedance matching of the composites.</p></li>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;">With the introduction of interstitial nitrogen, the ratio of out-of-plane to in-plane anisotropy field increases and together with enhanced magnetization raises the Snoek limit.</p></li>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;"> The nitrides show thin thickness, strong absorption, broad bandwidth, and high working frequency.</p></li>
               </ul>
             </div>
 </div>
