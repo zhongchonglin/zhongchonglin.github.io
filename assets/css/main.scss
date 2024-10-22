@@ -1697,9 +1697,9 @@ tr,td,th {
     text-decoration: underline
 }
 
-// .page__footer .fas,.page__footer .fab,.page__footer .far,.page__footer .fal {
-//     color: #9ba1a6
-// }
+.page__footer .fas,.page__footer .fab,.page__footer .far,.page__footer .fal {
+    color: #9ba1a6
+}
 
 .page__footer-copyright {
     font-family: "Trebuchet MS",Helvetica,sans-serif;
@@ -3462,6 +3462,10 @@ input[type="file"]:focus,input[type="radio"]:focus,input[type="checkbox"]:focus,
 //     src: url("../fonts/fa-solid-900.eot?") format("embedded-opentype"),url("../fonts/fa-solid-900.woff2") format("woff2"),url("../fonts/fa-solid-900.woff") format("woff"),url("../fonts/fa-solid-900.ttf") format("truetype"),url("../fonts/fa-solid-900.svg") format("svg")
 // }
 
+.fa,.fas {
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 900
+}
 
 /*!
  * Font Awesome Free 5.5.0 by @fontawesome - https://fontawesome.com
