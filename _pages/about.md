@@ -276,7 +276,7 @@ redirect_from:
 
   <p><a href="https://doi.org/10.1016/j.actamat.2020.08.084"><p style="text-align:justify;text-justify:inter-ideograph;"> Effect of Ce substitution on the structural and magnetic properties of Nd<sub>2</sub>Fe<sub>14</sub>B</p></a>
                <p>Acta Materialia, 2020, 200: 502–509.</p>
-               <strong><u>Lin Z</u><sub>#</sub></strong>, Zha L<sub>#</sub>, Wang F, Liu Z, Wu R, Yang J, Xue M, Yang W*, Tian G, Ma X, Qiao L, Franz A, An Q, Liu W, Wang C and Yang J*.
+               <strong><u>Lin Z</u><sup>#</sup></strong>, Zha L<sup>#</sup>, Wang F, Liu Z, Wu R, Yang J, Xue M, Yang W*, Tian G, Ma X, Qiao L, Franz A, An Q, Liu W, Wang C and Yang J*.
               </p>
               <ul>
                 <li><p style="text-align:justify;text-justify:inter-ideograph;">Determine the preferential occupancy characteristics of Ce in Nd-Ce-Fe-B.</p></li>
@@ -298,7 +298,7 @@ redirect_from:
 
   <p><a href="https://www.sciencedirect.com/science/article/pii/S0304885319340892"><p style="text-align:justify;text-justify:inter-ideograph;"> Interstitial nitrogen atomic effect on the magnetic properties of Nd<sub>2</sub>Fe<sub>14</sub>B compound</p></a>
                <p>Journal of Magnetism and Magnetic Materials, 2020, 514: 167128.</p>
-               Zha L<sub>#</sub>, <strong><u>Lin Z<sub>#</sub></u></strong>, Wang F, Liu Z, Xue M, Yang J, Yang W, Tian G, Han J, Wang C, Du H, Yang Y and Yang J*.
+               Zha L<sup>#</sup>, <strong><u>Lin Z<sup>#</sup></u></strong>, Wang F, Liu Z, Xue M, Yang J, Yang W, Tian G, Han J, Wang C, Du H, Yang Y and Yang J*.
               </p>
               <ul>
                 <li><p style="text-align:justify;text-justify:inter-ideograph;">Structure analyses showed the nitrogen concentration (δ) is about 0.352(48) with the volume-expansion ratio (ΔV/V) of 0.6613% in the unit cell.</p></li>
@@ -313,7 +313,7 @@ redirect_from:
 <div style="height: 1.0em;"></div> 
   <p><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202001200">Magnetic structure and metamagnetic transitions in the van der Waals antiferromagnet CrPS<sub>4</sub></a> <br>
                 <p>Advanced Materials, 2020, 32(28): 2001200.</p>
-                eng Y<sub>#</sub>, Ding S<sub>#</sub>, Cheng M<sub>#</sub>, Hu Q, Yang J, Wang F, Xue M, Liu Z, <strong><u>Lin Z</u></strong>, Avdeev M, Hou Y, Yang W, Zheng Y* and Yang J*.
+                eng Y<sup>#</sup>, Ding S<sup>#</sup>, Cheng M<sup>#</sup>, Hu Q, Yang J, Wang F, Xue M, Liu Z, <strong><u>Lin Z</u></strong>, Avdeev M, Hou Y, Yang W, Zheng Y* and Yang J*.
               </p>
             </div>
 
