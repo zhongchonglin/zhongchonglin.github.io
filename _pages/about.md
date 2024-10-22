@@ -93,8 +93,8 @@ redirect_from:
 <div class="paper-box">
 <div style="height: 1.0em;"></div> 
   <p><a href="https://www.science.org/doi/10.1126/sciadv.adj3955">Efficient current-induced spin torques and field-free magnetization switching in a room-temperature van der Waals magnet</a> <br>
-                <p>Science Advances, 2023, 9(49) eadj3955.</p><br>
-                Yun C<sup>#</sup>, Guo H<sup>#</sup>, <strong><u>Lin Z</u></strong>, Peng L, Liang Z, Meng M, Zhang B, Zhao Z, Wang L, Ma Y, Liu Y, Li W, Ning S, Hou Y*, Yang J* and Luo Z*.
+                <p>Science Advances, 2023, 9(49) eadj3955.</p>
+                Yun C<sup>#</sup>, Guo H<sup>#</sup>, <strong><u>Lin Z</u></strong>, Peng L, <p>Liang Z, Meng M, Zhang B, Zhao Z, Wang L, Ma Y, Liu Y, Li W, Ning S, Hou Y*, Yang J* and Luo Z*.</p>
               </p>
             </div>
 
@@ -102,8 +102,8 @@ redirect_from:
 <div class="paper-box">
 <div style="height: 1.0em;"></div> 
   <p><a href="https://www.sciencedirect.com/science/article/pii/S092583882301263X">Study on neutron diffraction and correlated magnetic properties of (R<sub>1-x</sub>Zr<sub>x</sub>)Fe<sub>12-y</sub>Mo<sub>y</sub> with low Mo concentration</a> <br>
-                <p>Journal of Alloys and Compounds, 2023, 952: 169960.</p><br>
-                Wang F, Fan S, <strong><u>Lin Z</u></strong>, Xia Y, Li H, Yang W, Han J, Du H, Yang J and Yang Y*.
+                <p>Journal of Alloys and Compounds, 2023, 952: 169960.</p>
+                <p>Wang F, Fan S, <strong><u>Lin Z</u></strong>, Xia Y, Li H, Yang W, Han J, Du H, Yang J and Yang Y*.</p>
               </p>
             </div>
 
@@ -111,8 +111,8 @@ redirect_from:
 <div class="paper-box">
 <div style="height: 1.0em;"></div> 
   <p><a href="https://doi.org/10.1038/s41467-023-41688-7">Magnetically-dressed CrSBr exciton-polaritons in ultrastrong coupling regime</a> <br>
-                <p>Nature Communications, 2023, 14: 5966.</p><br>
-                Wang T, Zhang D, Yang S, <strong><u>Lin Z</u></strong>, Chen Q, Yang J, Gong Q, Chen Z*, Ye Y* and Liu W*.
+                <p>Nature Communications, 2023, 14: 5966.</p>
+                <p>Wang T, Zhang D, Yang S, <strong><u>Lin Z</u></strong>, Chen Q, Yang J, Gong Q, Chen Z*, Ye Y* and Liu W*.</p>
               </p>
             </div>
 
@@ -120,8 +120,8 @@ redirect_from:
 <div class="paper-box">
 <div style="height: 1.0em;"></div> 
   <p><a href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.19.064008"> Layer-dependent magnetoresistance and spin-transfer torque in MnSe<sub>2</sub>-based magnetic tunnel junctions</a> <br>
-                <p>Physical Review Applied, 2023, 19(6): 064008.</p><br>
-                Wu B, Yang J, Liu S, Fang S, Liu Z, <strong><u>Lin Z</u></strong>, Shi J, Yang W, Luo Z, Wang C, Du H*, Yang J* and Lu J*.
+                <p>Physical Review Applied, 2023, 19(6): 064008.</p>
+                <p>Wu B, Yang J, Liu S, Fang S, Liu Z, <strong><u>Lin Z</u></strong>, Shi J, Yang W, Luo Z, Wang C, Du H*, Yang J* and Lu J*.</p>
               </p>
             </div>
 
@@ -129,8 +129,8 @@ redirect_from:
 <div class="paper-box">
 <div style="height: 1.0em;"></div> 
   <p><a href="https://www.sciencedirect.com/science/article/abs/pii/S2542529323001554"> Effect of Zr substitution on the structure and magnetic properties of (Y, Zr)(Fe, Ti)<sub>12</sub> compounds</a> <br>
-                <p>Materials Today Physics, 2023, 35: 101119.</p><br>
-                Fan S, Wang F, Xia Y, Wu B, Qian H, <strong><u>Lin Z</u></strong>, Wang Y, Du H*, Yang J* and Yang Y*.
+                <p>Materials Today Physics, 2023, 35: 101119.</p>
+                <p>Fan S, Wang F, Xia Y, Wu B, Qian H, <strong><u>Lin Z</u></strong>, Wang Y, Du H*, Yang J* and Yang Y*.</p>
               </p>
             </div>
 
@@ -138,8 +138,8 @@ redirect_from:
 <div class="paper-box">
 <div style="height: 1.0em;"></div> 
   <p><a href="https://doi.org/10.1021/jacs.3c10777"> Controlling the 2D magnetism of CrBr<sub>3</sub> by van der Waals stacking engineering</a> <br>
-                <p>Journal of the American Chemical Society, 2023, 145(51): 28184-28190.</p><br>
-                Yang S<sup>#</sup>, Xu X<sup>#</sup>*, Han B, Gu P, Guzman R, Song Y, <strong><u>Lin Z</u></strong>, Gao P, Zhou W, Yang J, Chen Z and Ye Y*.
+                <p>Journal of the American Chemical Society, 2023, 145(51): 28184-28190.</p>
+                <p>Yang S<sup>#</sup>, Xu X<sup>#</sup>*, Han B, Gu P, Guzman R, Song Y, <strong><u>Lin Z</u></strong>, Gao P, Zhou W, Yang J, Chen Z and Ye Y*.</p>
               </p>
             </div>
 
@@ -147,8 +147,8 @@ redirect_from:
 <div class="paper-box">
 <div style="height: 1.0em;"></div> 
   <p><a href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.19.024037"> High-performance Fe<sub>x</sub>GeTe<sub>2</sub>−based (x = 4 or 5) van der Waals magnetic tunnel junctions </a> <br>
-                 <p>Physical Review Applied, 2023, 19(2): 024037.</p><br>
-                 Wu B<sup>#</sup>, Fang S<sup>#</sup>, Yang J, Liu S, Peng Y, Li Q, <strong><u>Lin Z</u></strong>, Shi J, Yang W, Luo Z, Wang C, Yang J*, Lu J* and Du H*.
+                 <p>Physical Review Applied, 2023, 19(2): 024037.</p>
+                 <p>Wu B<sup>#</sup>, Fang S<sup>#</sup>, Yang J, Liu S, Peng Y, Li Q, <strong><u>Lin Z</u></strong>, Shi J, Yang W, Luo Z, Wang C, Yang J*, Lu J* and Du H*.</p>
               </p>
             </div>
 
@@ -168,8 +168,8 @@ redirect_from:
             <div class="paper-box-text">
 
   <p><a href="https://iopscience.iop.org/article/10.1088/1674-1056/ac6eed/meta"><p style="text-align:justify;text-justify:inter-ideograph;">Magnetic van der Waals materials: Synthesis, structure, magnetism, and their potential applications</p></a>
-               <p>Chinese Physics B, 2022, 31: 087506. (TOPICAL REVIEW— Celebrating 30 Years of Chinese Physics B)</p><br>
-               <strong><u>Lin Z</u></strong>, Peng Y, Wu B, Wang C, Luo Z and Yang J*.
+               <p>Chinese Physics B, 2022, 31: 087506. (TOPICAL REVIEW— Celebrating 30 Years of Chinese Physics B)</p>
+               <p><strong><u>Lin Z</u></strong>, Peng Y, Wu B, Wang C, Luo Z and Yang J*.</p>
               </p>
               <ul>
                 <li><p style="text-align:justify;text-justify:inter-ideograph;">Analyze the types and magnetic structures of two-dimensional van der Waals magnetic materials.</p></li>
@@ -182,8 +182,8 @@ redirect_from:
 <div class="paper-box">
 <div style="height: 1.0em;"></div> 
   <p><a href="https://www.sciencedirect.com/science/article/pii/S1359645422010394">Phase separation and chemistry evolution in Fe-rich Sm(Co<sub>bal</sub>Fe<sub>0.31</sub>Cu<sub>0.07</sub>Zr<sub>0.025</sub><sub>7.7</sub> magnets: The effect of initial defect</a> <br>
-                <p>Acta Materialia, 2022, 245: 118664.</p><br>
-                Li Q, Wang C, <strong><u>Lin Z</u></strong>, Wang L, Xiao Y, Zhang P, Cao X, Fang Y*, Liao Q, Yang J, Zhang Y, Zhu M and Li W*.
+                <p>Acta Materialia, 2022, 245: 118664.</p>
+                <p>Li Q, Wang C, <strong><u>Lin Z</u></strong>, Wang L, Xiao Y, Zhang P, Cao X, Fang Y*, Liao Q, Yang J, Zhang Y, Zhu M and Li W*.</p>
               </p>
             </div>
 
@@ -191,8 +191,8 @@ redirect_from:
 <div class="paper-box">
 <div style="height: 1.0em;"></div> 
   <p><a href="https://www.sciencedirect.com/science/article/pii/S0304885322010964">Preparation, structure and magnetic properties of high-purity Mn<sub>4</sub>C</a> <br>
-                <p>Journal of Magnetism and Magnetic Materials, 2022, 564: 170211.</p><br>
-                Wang F, Fan S, <strong><u>Lin Z</u></strong>, Wu B, Yang W, Wang C, Xu Q, Liu S, Yang J, Du H* and Han J*.
+                <p>Journal of Magnetism and Magnetic Materials, 2022, 564: 170211.</p>
+                <p>Wang F, Fan S, <strong><u>Lin Z</u></strong>, Wu B, Yang W, Wang C, Xu Q, Liu S, Yang J, Du H* and Han J*.</p>
               </p>
             </div>
 
@@ -200,8 +200,8 @@ redirect_from:
 <div class="paper-box">
 <div style="height: 1.0em;"></div> 
   <p><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202108847">2D FeOCl: A highly in-plane anisotropic antiferromagnetic semiconductor synthesized via temperature-oscillation chemical vapor transport</a> <br>
-                <p>Advanced Materials, 2022, 34(14): 2108847.</p><br>
-                Zeng Y, Gu P, Zhao Z, Zhang B, <strong><u>Lin Z</u></strong>, Peng Y, Li W, Zhao W, Leng Y, Tan P, Yang T, Zhang Z, Song Y, Yang J, Ye Y, Tian K* and Hou Y*.
+                <p>Advanced Materials, 2022, 34(14): 2108847.</p>
+                <p>Zeng Y, Gu P, Zhao Z, Zhang B, <strong><u>Lin Z</u></strong>, Peng Y, Li W, Zhao W, Leng Y, Tan P, Yang T, Zhang Z, Song Y, Yang J, Ye Y, Tian K* and Hou Y*.</p>
               </p>
             </div>
 
@@ -221,8 +221,8 @@ redirect_from:
             <div class="paper-box-text">
 
   <p><a href="https://onlinelibrary.wiley.com/doi/10.1002/adfm.202106592"><p style="text-align:justify;text-justify:inter-ideograph;">Controlling spin orientation and metamagnetic transitions in anisotropic van der Waals antiferromagnet CrPS<sub>4</sub> by hydrostatic pressure</p></a>
-               <p>Advanced Functional Material, 2021, 32(7): 2106592.</p><br>
-               Peng Y<sup>#</sup>, <strong><u>Lin Z</u><sup>#</sup></strong>, Tian G, Yang J, Zhang P, Wang F, Gu P, Liu X, Wang C W, Avdeev M, Liu F, Zhou D, Han R, Shen P, Yang W*, Liu S, Ye Y and Yang J*.
+               <p>Advanced Functional Material, 2021, 32(7): 2106592.</p>
+               <p>Peng Y<sup>#</sup>, <strong><u>Lin Z</u><sup>#</sup></strong>, Tian G, Yang J, Zhang P, Wang F, Gu P, Liu X, Wang C W, Avdeev M, Liu F, Zhou D, Han R, Shen P, Yang W*, Liu S, Ye Y and Yang J*.</p>
               </p>
               <ul>
                 <li><p style="text-align:justify;text-justify:inter-ideograph;">For the first time, control of the Néel vector in the CrPS<sub>4</sub> antiferromagnet was achieved using hydrostatic pressure techniques.</p></li>
@@ -235,8 +235,8 @@ redirect_from:
 <div class="paper-box">
 <div style="height: 1.0em;"></div> 
   <p><a href="https://pubs.aip.org/aip/adv/article/11/1/015209/1070054/Intergranular-interaction-in-nanocrystalline-Ce-Fe">Intergranular interaction in nanocrystalline Ce-Fe-B melt-spinning ribbons via first order reversal curve analysis</a> <br>
-                <p>AIP Advances, 2021, 11(1): 015209.</p><br>
-                Zha L, <strong><u>Lin Z</u></strong>, Wang F, Kim C, Xue M, Yang J, Han L, Yang W, Liu S, Han J, Wang C, Xia W* and Yang J*.
+                <p>AIP Advances, 2021, 11(1): 015209.</p>
+                <p>Zha L, <strong><u>Lin Z</u></strong>, Wang F, Kim C, Xue M, Yang J, Han L, Yang W, Liu S, Han J, Wang C, Xia W* and Yang J*.</p>
               </p>
             </div>
 
@@ -244,8 +244,8 @@ redirect_from:
 <div class="paper-box">
 <div style="height: 1.0em;"></div> 
   <p><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9466497">The microwave absorption properties of Fe<sub>16</sub>N<sub>2</sub> nanoparticles</a> <br>
-                <p>IEEE Transactions on Magnetics, 2021, 58(2): 2800204.</p><br>
-                Wang Y, <strong><u>Lin Z</u></strong>, Liu Z, Qiao G, Zhang P, Li K, Yang W, Han J, Liu S, Wang C, Qiao L and Yang J*.
+                <p>IEEE Transactions on Magnetics, 2021, 58(2): 2800204.</p>
+                <p>Wang Y, <strong><u>Lin Z</u></strong>, Liu Z, Qiao G, Zhang P, Li K, Yang W, Han J, Liu S, Wang C, Qiao L and Yang J*.</p>
               </p>
             </div>
 
@@ -253,8 +253,8 @@ redirect_from:
 <div class="paper-box">
 <div style="height: 1.0em;"></div> 
   <p><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.224410">Anomalous Hall effect in magnetic insulator heterostructures: Contributions from spin-Hall and magnetic-proximity effects</a> <br>
-                <p>Physical Review B, 2021, 104(22): 224410.</p><br>
-                Ding S, Liang Z, Yun C, Wu R, Xue M, <strong><u>Lin Z</u></strong>, Ross A, Becker S, Yang W, Ma X, Chen D, Sun K, Jakob G, Kläui M and Yang J*.
+                <p>Physical Review B, 2021, 104(22): 224410.</p>
+                <p>Ding S, Liang Z, Yun C, Wu R, Xue M, <strong><u>Lin Z</u></strong>, Ross A, Becker S, Yang W, Ma X, Chen D, Sun K, Jakob G, Kläui M and Yang J*.</p>
               </p>
             </div>
 
@@ -275,8 +275,8 @@ redirect_from:
             <div class="paper-box-text">
 
   <p><a href="https://doi.org/10.1016/j.actamat.2020.08.084"><p style="text-align:justify;text-justify:inter-ideograph;"> Effect of Ce substitution on the structural and magnetic properties of Nd<sub>2</sub>Fe<sub>14</sub>B</p></a>
-               <p>Acta Materialia, 2020, 200: 502–509.</p><br>
-               <strong><u>Lin Z</u><sup>#</sup></strong>, Zha L<sup>#</sup>, Wang F, Liu Z, Wu R, Yang J, Xue M, Yang W*, Tian G, Ma X, Qiao L, Franz A, An Q, Liu W, Wang C and Yang J*.
+               <p>Acta Materialia, 2020, 200: 502–509.</p>
+               <p><strong><u>Lin Z</u><sup>#</sup></strong>, Zha L<sup>#</sup>, Wang F, Liu Z, Wu R, Yang J, Xue M, Yang W*, Tian G, Ma X, Qiao L, Franz A, An Q, Liu W, Wang C and Yang J*.</p>
               </p>
               <ul>
                 <li><p style="text-align:justify;text-justify:inter-ideograph;">Determine the preferential occupancy characteristics of Ce in Nd-Ce-Fe-B.</p></li>
@@ -297,8 +297,8 @@ redirect_from:
             <div class="paper-box-text">
 
   <p><a href="https://www.sciencedirect.com/science/article/pii/S0304885319340892"><p style="text-align:justify;text-justify:inter-ideograph;"> Interstitial nitrogen atomic effect on the magnetic properties of Nd<sub>2</sub>Fe<sub>14</sub>B compound</p></a>
-               <p>Journal of Magnetism and Magnetic Materials, 2020, 514: 167128.</p><br>
-               Zha L<sup>#</sup>, <strong><u>Lin Z<sup>#</sup></u></strong>, Wang F, Liu Z, Xue M, Yang J, Yang W, Tian G, Han J, Wang C, Du H, Yang Y and Yang J*.
+               <p>Journal of Magnetism and Magnetic Materials, 2020, 514: 167128.</p>
+               <p>Zha L<sup>#</sup>, <strong><u>Lin Z<sup>#</sup></u></strong>, Wang F, Liu Z, Xue M, Yang J, Yang W, Tian G, Han J, Wang C, Du H, Yang Y and Yang J*.</p>
               </p>
               <ul>
                 <li><p style="text-align:justify;text-justify:inter-ideograph;">Structure analyses showed the nitrogen concentration (δ) is about 0.352(48) with the volume-expansion ratio (ΔV/V) of 0.6613% in the unit cell.</p></li>
@@ -312,8 +312,8 @@ redirect_from:
 <div class="paper-box">
 <div style="height: 1.0em;"></div> 
   <p><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202001200">Magnetic structure and metamagnetic transitions in the van der Waals antiferromagnet CrPS<sub>4</sub></a> <br>
-                <p>Advanced Materials, 2020, 32(28): 2001200.</p><br>
-                eng Y<sup>#</sup>, Ding S<sup>#</sup>, Cheng M<sup>#</sup>, Hu Q, Yang J, Wang F, Xue M, Liu Z, <strong><u>Lin Z</u></strong>, Avdeev M, Hou Y, Yang W, Zheng Y* and Yang J*.
+                <p>Advanced Materials, 2020, 32(28): 2001200.</p>
+                <p>Peng Y<sup>#</sup>, Ding S<sup>#</sup>, Cheng M<sup>#</sup>, Hu Q, Yang J, Wang F, Xue M, Liu Z, <strong><u>Lin Z</u></strong>, Avdeev M, Hou Y, Yang W, Zheng Y* and Yang J*.</p>
               </p>
             </div>
 
@@ -321,11 +321,11 @@ redirect_from:
 
 
 ## 🗣️ Members <a id="members"></a>
-* Liqiang Zeng (曾力强)    2024 PhD Student
+* <font size=3 color=BLACK>Liqiang Zeng (曾力强)    2024 PhD Student</font>
 <p>Exploration of Two-Dimensional Magnetic Materials</p>
-* Yucheng Ye (叶宇城)     2024 Master Student
+* <font size=3 color=BLACK>Yucheng Ye (叶宇城)     2024 Master Student</font>
 <p>Exploration of Two-Dimensional Magnetic Materials</p>
-* Jinhuan He (何金桓)     2021 Undergraduate Student
+* <font size=3 color=BLACK>Jinhuan He (何金桓)     2021 Undergraduate Student</font>
 <p>Exploration of Two-Dimensional Magnetic Materials</p>
 
 ## 🎓️ Alumni  <a id="alumni"> </a>
