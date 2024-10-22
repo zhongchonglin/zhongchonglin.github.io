@@ -64,7 +64,7 @@ redirect_from:
             </div>
             <div class="paper-box-text">
 
-  <p><a href="https://www.sciencedirect.com/science/article/abs/pii/S1359645423009047"><p style="text-align:justify;text-justify:inter-ideograph;"><font style="background: blue"; "color: white">Acta Materialia</font> Interstitial nitrogen-modified Y<sub>2</sub>Fe<sub>16</sub>SiN<sub>y</sub> compounds towards enhanced high-frequency magnetic properties</p></a>
+  <p><a href="https://www.sciencedirect.com/science/article/abs/pii/S1359645423009047"><p style="text-align:justify;text-justify:inter-ideograph;"><font style="background: blue"><font style="color: white">Acta Materialia</font></font> Interstitial nitrogen-modified Y<sub>2</sub>Fe<sub>16</sub>SiN<sub>y</sub> compounds towards enhanced high-frequency magnetic properties</p></a>
                <strong>Lin Z</strong>, Tian G, Zhang P, Hu Q, Xia Y, Qiao L, Wu R, Wang M, Liu Z, Wang Y, Yang W, Liu S, Zhou D, Han R, He L, Xia W, Wang C* and Yang J*.
               </p>
               <ul>
