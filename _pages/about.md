@@ -171,7 +171,7 @@ redirect_from:
 
 <div class="paper-box">
 <div style="height: 1.0em;"></div> 
-  <p><a href="https://www.sciencedirect.com/science/article/pii/S1359645422010394">Phase separation and chemistry evolution in Fe-rich Sm(Co<sub>bal</sub>Fe<sub>0.31</sub>Cu<sub>0.07</sub>Zr<sub>0.025(/sub))<sub>7.7</sub> magnets: The effect of initial defect</a> <br>
+  <p><a href="https://www.sciencedirect.com/science/article/pii/S1359645422010394">Phase separation and chemistry evolution in Fe-rich Sm(Co<sub>bal</sub>Fe<sub>0.31</sub>Cu<sub>0.07</sub>Zr<sub>0.025</sub><sub>7.7</sub> magnets: The effect of initial defect</a> <br>
                 Li Q, Wang C, <strong>Lin Z</strong>, Wang L, Xiao Y, Zhang P, Cao X, Fang Y*, Liao Q, Yang J, Zhang Y, Zhu M and Li W*.
               </p>
             </div>
@@ -251,11 +251,47 @@ redirect_from:
 
 
 
+### <font size=3 color=BLACK>2020</font>
+
+<div class="paper-box">
+</div>
+
+<div class="paper-box">
+            <div class="paper-box-image">
+              <div>
+                <div class="badge">IEEE Sensors Journal (Q1)</div><img src="images/Graphical Abstract1.png" alt="sym"
+                  width="100%" />
+              </div>
+            </div>
+            <div class="paper-box-text">
+
+  <p><a href="https://onlinelibrary.wiley.com/doi/10.1002/adfm.202106592"><p style="text-align:justify;text-justify:inter-ideograph;">Controlling spin orientation and metamagnetic transitions in anisotropic van der Waals antiferromagnet CrPS<sub>4</sub> by hydrostatic pressure</p></a>
+               Peng Y<sup>#</sup>, <strong>Lin Z<sup>#</sup></strong>, Tian G, Yang J, Zhang P, Wang F, Gu P, Liu X, Wang C W, Avdeev M, Liu F, Zhou D, Han R, Shen P, Yang W*, Liu S, Ye Y and Yang J*.
+              </p>
+              <ul>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;">For the first time, control of the Néel vector in the CrPS<sub>4</sub> antiferromagnet was achieved using hydrostatic pressure techniques.</p></li>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;">It was determined that pressure-induced changes in magnetocrystalline anisotropy are driven by the compression of the one-dimensional CrS<sub>6</sub> chains along the b-axis.</p></li>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;">Using first-principles calculations, the magnetic exchange interactions of CrPS<sub>4</sub> under different pressures were studied.</p></li>
+              </ul>
+            </div>
+</div>
+
+<div class="paper-box">
+<div style="height: 1.0em;"></div> 
+  <p><a href="https://pubs.aip.org/aip/adv/article/11/1/015209/1070054/Intergranular-interaction-in-nanocrystalline-Ce-Fe">Intergranular interaction in nanocrystalline Ce-Fe-B melt-spinning ribbons via first order reversal curve analysis</a> <br>
+                Zha L, <strong>Lin Z</strong>, Wang F, Kim C, Xue M, Yang J, Han L, Yang W, Liu S, Han J, Wang C, Xia W* and Yang J*.
+              </p>
+            </div>
 
 
+<div class="paper-box">
+<div style="height: 1.0em;"></div> 
+  <p><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9466497">The microwave absorption properties of Fe<sub>16</sub>N<sub>2</sub> nanoparticles</a> <br>
+                Wang Y, <strong>Lin Z</strong>, Liu Z, Qiao G, Zhang P, Li K, Yang W, Han J, Liu S, Wang C, Qiao L and Yang J*.
+              </p>
+            </div>
 
-
-
+ </div>
 
 
 
