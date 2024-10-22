@@ -300,18 +300,12 @@ redirect_from:
 
 <div class="paper-box">
 <div style="height: 1.0em;"></div> 
-  <p><a href="https://pubs.aip.org/aip/adv/article/11/1/015209/1070054/Intergranular-interaction-in-nanocrystalline-Ce-Fe">Intergranular interaction in nanocrystalline Ce-Fe-B melt-spinning ribbons via first order reversal curve analysis</a> <br>
-                Zha L, <strong>Lin Z</strong>, Wang F, Kim C, Xue M, Yang J, Han L, Yang W, Liu S, Han J, Wang C, Xia W* and Yang J*.
+  <p><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202001200">Magnetic structure and metamagnetic transitions in the van der Waals antiferromagnet CrPS<sub>4</sub></a> <br>
+                Peng Y<sub>#</sub>, Ding S<sub>#</sub>, Cheng M<sub>#</sub>, Hu Q, Yang J, Wang F, Xue M, Liu Z, <strong>Lin Z</strong>, Avdeev M, Hou Y, Yang W, Zheng Y* and Yang J*.
               </p>
             </div>
 
 
-<div class="paper-box">
-<div style="height: 1.0em;"></div> 
-  <p><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9466497">The microwave absorption properties of Fe<sub>16</sub>N<sub>2</sub> nanoparticles</a> <br>
-                Wang Y, <strong>Lin Z</strong>, Liu Z, Qiao G, Zhang P, Li K, Yang W, Han J, Liu S, Wang C, Qiao L and Yang J*.
-              </p>
-            </div>
 
  </div>
 
