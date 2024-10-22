@@ -161,7 +161,7 @@ redirect_from:
 <div class="paper-box">
             <div class="paper-box-image">
               <div>
-                <div class="badge">Chinese Physics B (TOPICAL REVIEW— Celebrating 30 Years of Chinese Physics B) </div><img src="images/2022zs.png" alt="sym"
+                <div class="badge">Chinese Physics B (TOPICAL REVIEW— 30 Years of CPB) </div><img src="images/2022zs.png" alt="sym"
                   width="100%" />
               </div>
             </div>
