@@ -276,6 +276,28 @@ redirect_from:
             </div>
 </div>
 
+
+<div class="paper-box">
+            <div class="paper-box-image">
+              <div>
+                <div class="badge">IEEE Sensors Journal (Q1)</div><img src="images/Graphical Abstract1.png" alt="sym"
+                  width="100%" />
+              </div>
+            </div>
+            <div class="paper-box-text">
+
+  <p><a href="https://www.sciencedirect.com/science/article/pii/S0304885319340892"><p style="text-align:justify;text-justify:inter-ideograph;"> Interstitial nitrogen atomic effect on the magnetic properties of Nd<sub>2</sub>Fe<sub>14</sub>B compound</p></a>
+               Zha L<sub>#</sub>, <strong>Lin Z<sub>#</sub></strong>, Wang F, Liu Z, Xue M, Yang J, Yang W, Tian G, Han J, Wang C, Du H, Yang Y and Yang J*.
+              </p>
+              <ul>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;">Structure analyses showed the nitrogen concentration (δ) is about 0.352(48) with the volume-expansion ratio (ΔV/V) of 0.6613% in the unit cell.</p></li>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;">N has a site occupation preference (8:3) for the 4e (0, 0, 0.0652) site over the 4f (0.1000, 0.1000, 0) site.</p></li>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;">The Curie temperature of Nd2Fe14B compound increases from 312 °C to 331 °C after nitrogenation</p></li>
+              </ul>
+            </div>
+</div>
+
+
 <div class="paper-box">
 <div style="height: 1.0em;"></div> 
   <p><a href="https://pubs.aip.org/aip/adv/article/11/1/015209/1070054/Intergranular-interaction-in-nanocrystalline-Ce-Fe">Intergranular interaction in nanocrystalline Ce-Fe-B melt-spinning ribbons via first order reversal curve analysis</a> <br>
