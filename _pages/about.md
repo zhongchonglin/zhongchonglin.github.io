@@ -270,7 +270,7 @@ redirect_from:
               </p>
               <ul>
                 <li><p style="text-align:justify;text-justify:inter-ideograph;">Determine the preferential occupancy characteristics of Ce in Nd-Ce-Fe-B.</p></li>
-                <li><p style="text-align:justify;text-justify:inter-ideograph;">he relationship among the magnetic moment at each Fe site, the Boron atom effect, and the Wigner-Seitz volume was elucidated.</p></li>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;">The relationship among the magnetic moment at each Fe site, the Boron atom effect, and the Wigner-Seitz volume was elucidated.</p></li>
                 <li><p style="text-align:justify;text-justify:inter-ideograph;">Discover phase separation and further discuss the relationship between Ce valence states and magnetism.</p></li>
               </ul>
             </div>
