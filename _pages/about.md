@@ -290,7 +290,7 @@ redirect_from:
 <div class="paper-box">
             <div class="paper-box-image">
               <div>
-                <div class="badge">Journal of Magnetism and Magnetic Materials</div><img src="images/2020NFBN.png" alt="sym"
+                <div class="badge">IEEE Sensors Journal (Q1)</div><img src="images/2020NFBN.png" alt="sym"
                   width="100%" />
               </div>
             </div>
