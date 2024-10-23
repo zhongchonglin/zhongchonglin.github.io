@@ -246,8 +246,8 @@ redirect_from:
 <div class="paper-box">
 <div style="height: 1.0em;"></div> 
   <p style="white-space: normal;"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9466497">The microwave absorption properties of Fe<sub>16</sub>N<sub>2</sub> nanoparticles</a> <br>
-                <p>IEEE Transactions on Magnetics, 2021, 58(2): 2800204.</p>
-                <p>Wang Y, <strong><u>Lin Z</u></strong>, Liu Z, Qiao G, Zhang P, Li K, Yang W, Han J, Liu S, Wang C, Qiao L and Yang J*.</p>
+                <p style="white-space: normal;">IEEE Transactions on Magnetics, 2021, 58(2): 2800204.</p>
+                <p style="white-space: normal;">Wang Y, <strong><u>Lin Z</u></strong>, Liu Z, Qiao G, Zhang P, Li K, Yang W, Han J, Liu S, Wang C, Qiao L and Yang J*.</p>
               </p>
             </div>
 
