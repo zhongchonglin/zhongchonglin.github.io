@@ -110,7 +110,7 @@ redirect_from:
 
 <div class="paper-box">
 <div style="height: 1.0em;"></div> 
-  <p><a href="https://doi.org/10.1038/s41467-023-41688-7">Magnetically-dressed CrSBr exciton-polaritons in ultrastrong coupling regime</a> <p></p>
+  <p><a href="https://doi.org/10.1038/s41467-023-41688-7">Magnetically-dressed CrSBr exciton-polaritons in ultrastrong coupling regime</a> <p></p><br>
                 <p>Nature Communications, 2023, 14: 5966.</p>
                 <p>Wang T, Zhang D, Yang S, <strong><u>Lin Z</u></strong>, Chen Q, Yang J, Gong Q, Chen Z*, Ye Y* and Liu W*.</p>
               </p>
