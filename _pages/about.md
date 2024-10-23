@@ -104,7 +104,7 @@ redirect_from:
 <div style="height: 1.0em;"></div> 
   <p><a href="https://www.sciencedirect.com/science/article/pii/S092583882301263X">Study on neutron diffraction and correlated magnetic properties of (R<sub>1-x</sub>Zr<sub>x</sub>)Fe<sub>12-y</sub>Mo<sub>y</sub> with low Mo concentration</a> <br>
                 <p>Journal of Alloys and Compounds, 2023, 952: 169960.</p>
-                <p>Wang F, Fan S, <strong><u>Lin Z</u></strong>, Xia Y, Li H, Yang W, Han J, Du H, Yang J and Yang Y*, Liu Y, Li W, Ning S.</p>
+                <p>Wang F, Fan S, <strong><u>Lin Z</u></strong>, Xia Y, Li H, Yang W, Han J, Du H, Yang J and Yang Y*.</p>
               </p>
             </div>
 
