@@ -91,7 +91,7 @@ redirect_from:
 </div>
 
 
-<div >
+<div style="  border-bottom: 1px #efefef solid">
 <div style="height: 1.0em;"></div> 
   <p><a href="https://www.science.org/doi/10.1126/sciadv.adj3955">Efficient current-induced spin torques and field-free magnetization switching in a room-temperature van der Waals magnet</a> <br>
                 <p>Science Advances, 2023, 9(49) eadj3955.</p>
@@ -100,7 +100,7 @@ redirect_from:
             </div>
 
 
-<div >
+<div style="  border-bottom: 1px #efefef solid">
 <div style="height: 1.0em;"></div> 
   <p><a href="https://www.sciencedirect.com/science/article/pii/S092583882301263X">Study on neutron diffraction and correlated magnetic properties of (R<sub>1-x</sub>Zr<sub>x</sub>)Fe<sub>12-y</sub>Mo<sub>y</sub> with low Mo concentration</a> <br>
                 <p>Journal of Alloys and Compounds, 2023, 952: 169960.</p>
@@ -109,7 +109,7 @@ redirect_from:
             </div>
 
 
-<div >
+<div style="  border-bottom: 1px #efefef solid" >
 <div style="height: 1.0em;"></div> 
   <p style="white-space: normal;"><a href="https://www.sciencedirect.com/science/article/pii/S092583882301263X">Study on neutron diffraction and correlated magnetic properties of (R<sub>1-x</sub>Zr<sub>x</sub>)Fe<sub>12-y</sub>Mo<sub>y</sub> with low Mo concentration</a> <br>
                 <p>Journal of Alloys and Compounds, 2023, 952: 169960.</p>
@@ -118,7 +118,7 @@ redirect_from:
             </div>
 
 
-<div >
+<div style="  border-bottom: 1px #efefef solid">
 <div style="height: 1.0em;"></div> 
   <p><a href="https://doi.org/10.1038/s41467-023-41688-7">Magnetically-dressed CrSBr exciton-polaritons in ultrastrong coupling regime</a><br>
                 <p>Nature Communications, 2023, 14: 5966.</p>
@@ -127,7 +127,7 @@ redirect_from:
             </div>
 
 
-<div >
+<div style="  border-bottom: 1px #efefef solid">
 <div style="height: 1.0em;"></div> 
   <p><a href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.19.064008"> Layer-dependent magnetoresistance and spin-transfer torque in MnSe<sub>2</sub>-based magnetic tunnel junctions</a> <br>
                 <p>Physical Review Applied, 2023, 19(6): 064008.</p>
@@ -136,7 +136,7 @@ redirect_from:
             </div>
 
 
-<div >
+<div style="  border-bottom: 1px #efefef solid" >
 <div style="height: 1.0em;"></div> 
   <p><a href="https://www.sciencedirect.com/science/article/abs/pii/S2542529323001554"> Effect of Zr substitution on the structure and magnetic properties of (Y, Zr)(Fe, Ti)<sub>12</sub> compounds</a> <br>
                 <p>Materials Today Physics, 2023, 35: 101119.</p>
@@ -145,7 +145,7 @@ redirect_from:
             </div>
 
 
-<div>
+<div style="  border-bottom: 1px #efefef solid">
 <div style="height: 1.0em;"></div> 
   <p><a href="https://doi.org/10.1021/jacs.3c10777"> Controlling the 2D magnetism of CrBr<sub>3</sub> by van der Waals stacking engineering</a> <br>
                 <p>Journal of the American Chemical Society, 2023, 145(51): 28184-28190.</p>
@@ -154,7 +154,7 @@ redirect_from:
             </div>
 
 
-<div >
+<div style="  border-bottom: 1px #efefef solid">
 <div style="height: 1.0em;"></div> 
   <p><a href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.19.024037"> High-performance Fe<sub>x</sub>GeTe<sub>2</sub>−based (x = 4 or 5) van der Waals magnetic tunnel junctions </a> <br>
                  <p>Physical Review Applied, 2023, 19(2): 024037.</p>
