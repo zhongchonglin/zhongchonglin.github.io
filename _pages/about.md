@@ -91,13 +91,14 @@ redirect_from:
 </div>
 
 
-<div style="border-bottom: 1px #efefef solid">
-<div style="height: 0.5em;"></div> 
+<div>
+<div style="height: 1.0em;"></div> 
   <p><a href="https://www.science.org/doi/10.1126/sciadv.adj3955">Efficient current-induced spin torques and field-free magnetization switching in a room-temperature van der Waals magnet</a> <br>
                 <p>Science Advances, 2023, 9(49) eadj3955.</p>
                 <p>Yun C<sup>#</sup>, Guo H<sup>#</sup>, <strong><u>Lin Z</u></strong>, Peng L, Liang Z, Meng M, Zhang B, Zhao Z, Wang L, Ma Y, Liu Y, Li W, Ning S, Hou Y*, Yang J* and Luo Z*.</p>
               </p>
             </div>
+
 
 
 <div style="border-bottom: 1px #efefef solid">
@@ -244,7 +245,7 @@ redirect_from:
 
 <div class="paper-box">
 <div style="height: 1.0em;"></div> 
-  <p><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9466497">The microwave absorption properties of Fe<sub>16</sub>N<sub>2</sub> nanoparticles</a> <br>
+  <p style="white-space: normal;"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9466497">The microwave absorption properties of Fe<sub>16</sub>N<sub>2</sub> nanoparticles</a> <br>
                 <p>IEEE Transactions on Magnetics, 2021, 58(2): 2800204.</p>
                 <p>Wang Y, <strong><u>Lin Z</u></strong>, Liu Z, Qiao G, Zhang P, Li K, Yang W, Han J, Liu S, Wang C, Qiao L and Yang J*.</p>
               </p>
