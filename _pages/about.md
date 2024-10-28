@@ -48,9 +48,8 @@ redirect_from:
 ## 📝 Publications <a id="publications"></a>
 （<sup>#</sup>Co-first; <sup>*</sup>Corresponding）
 
-===
-### <font size=3 color=BLACK>2024</font>
-
+2024
+======
 
 
 
@@ -84,7 +83,7 @@ redirect_from:
             </div>
  
 
-### <font size=3 color=BLACK>2023</font>
+2023
 ======
 
 <div style="height: 1.0em;"></div> 
@@ -152,8 +151,7 @@ redirect_from:
               </p>
             </div>
 
-
-### <font size=3 color=BLACK>2022</font>
+2022
 ======
 
 <div style="height: 1.0em;"></div> 
