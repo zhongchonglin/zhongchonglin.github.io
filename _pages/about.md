@@ -72,7 +72,7 @@ redirect_from:
             </div>
 </div>
 
-<div>
+<div style="border-bottom: 1px #efefef solid">
 
   <p><a href="https://pubs.acs.org/doi/10.1021/acsnano.3c13034">Harnessing Van der Waals CrPS<sub>4</sub> and Surface Oxides for Nonmonotonic Preset Field Induced Exchange Bias in Fe<sub>3</sub>GeTe<sub>2</sub></a> <br>
                 <p>ACS Nano, 2024, 18: 8383-8391.</p>
@@ -87,7 +87,7 @@ redirect_from:
 
 
 
-<div style="height: 1.0em;border-bottom: 1px #efefef solid">
+<div style="border-bottom: 1px #efefef solid">
   <p style="white-space: normal;"><a href="https://www.science.org/doi/10.1126/sciadv.adj3955">Efficient current-induced spin torques and field-free magnetization switching in a room-temperature van der Waals magnet</a> <br>
                 <p>Science Advances, 2023, 9(49) eadj3955.</p>
                 <p>Yun C<sup>#</sup>, Guo H<sup>#</sup>, <strong><u>Lin Z</u></strong>, Peng L, Liang Z, Meng M, Zhang B, Zhao Z, Wang L, Ma Y, Liu Y, Li W, Ning S, Hou Y*, Yang J* and Luo Z*.</p>
