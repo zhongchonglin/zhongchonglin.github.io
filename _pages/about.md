@@ -53,7 +53,7 @@ redirect_from:
 
 
 
-<div class="paper-box">
+<div class="paper-box" style="margin-top: -1em;">
             <div class="paper-box-image">
               <div>
                 <div class="badge">Acta Materialia (Q1)</div><img src="images/Graphical Abstract1.png" alt="sym"
@@ -76,9 +76,9 @@ redirect_from:
 
 <div style="border-bottom: 1px #efefef solid">
 
-  <p><a href="https://pubs.acs.org/doi/10.1021/acsnano.3c13034">Harnessing Van der Waals CrPS<sub>4</sub> and Surface Oxides for Nonmonotonic Preset Field Induced Exchange Bias in Fe<sub>3</sub>GeTe<sub>2</sub></a> <br>
+  <p style="margin-top:0.5em"><a href="https://pubs.acs.org/doi/10.1021/acsnano.3c13034">Harnessing Van der Waals CrPS<sub>4</sub> and Surface Oxides for Nonmonotonic Preset Field Induced Exchange Bias in Fe<sub>3</sub>GeTe<sub>2</sub></a> <br>
                 <p>ACS Nano, 2024, 18: 8383-8391.</p>
-                <p>Balan A P*, Kumar A, Scholz T, <strong><u>Lin Z</u></strong>, Shahee A, Fu S, Denneulin T, Vas J, Kovács A, Dunin-Borkowski R E, Wang H I, Yang J, Lotsch B V, Nowak U and Kläui M*.</p>
+                <p >Balan A P*, Kumar A, Scholz T, <strong><u>Lin Z</u></strong>, Shahee A, Fu S, Denneulin T, Vas J, Kovács A, Dunin-Borkowski R E, Wang H I, Yang J, Lotsch B V, Nowak U and Kläui M*.</p>
               </p>
             </div>
  
@@ -86,11 +86,8 @@ redirect_from:
 2023
 ======
 
-<div style="height: 1.0em;"></div> 
 
-
-
-<div style="border-bottom: 1px #efefef solid">
+<div style="border-bottom: 1px #efefef solid;margin-top: -1em;">
   <p style="white-space: normal;"><a href="https://www.science.org/doi/10.1126/sciadv.adj3955">Efficient current-induced spin torques and field-free magnetization switching in a room-temperature van der Waals magnet</a> <br>
                 <p>Science Advances, 2023, 9(49) eadj3955.</p>
                 <p>Yun C<sup>#</sup>, Guo H<sup>#</sup>, <strong><u>Lin Z</u></strong>, Peng L, Liang Z, Meng M, Zhang B, Zhao Z, Wang L, Ma Y, Liu Y, Li W, Ning S, Hou Y*, Yang J* and Luo Z*.</p>
@@ -154,9 +151,9 @@ redirect_from:
 2022
 ======
 
-<div style="height: 1.0em;"></div> 
 
-<div class="paper-box" >
+
+<div class="paper-box"  style="margin-top: -1em;">
             <div class="paper-box-image">
               <div>
                 <div class="badge">Chinese Physics B (TOPICAL REVIEW— 30 Years of CPB) </div><img src="images/2022zs.png" alt="sym"
@@ -210,7 +207,7 @@ redirect_from:
 ======
 
 
-<div class="paper-box">
+<div class="paper-box" style="margin-top: -1em;">
             <div class="paper-box-image">
               <div>
                 <div class="badge">Advanced Functional Material (Q1)</div><img src="images/2021pressure.png" alt="sym"
@@ -258,11 +255,11 @@ redirect_from:
 
 
 
-### <font size=3 color=BLACK>2020</font>
+2020
+======
 
 
-
-<div  class="paper-box" >
+<div  class="paper-box" style="margin-top: -1em;" >
             <div class="paper-box-image">
               <div>
                 <div class="badge">Acta Materialia (Q1)</div><img src="images/2020NCFB.png" alt="sym"
