@@ -206,7 +206,7 @@ redirect_from:
 
 
 
-<div style="border-bottom: 1px #efefef solid">
+<div class="paper-box">
             <div class="paper-box-image">
               <div>
                 <div class="badge">Advanced Functional Material (Q1)</div><img src="images/2021pressure.png" alt="sym"
