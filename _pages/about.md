@@ -98,7 +98,7 @@ redirect_from:
 </div> 
 <div style="border-bottom: 1px #efefef solid">
 
-  <p style="white-space: normal;"><a href="https://www.sciencedirect.com/science/article/pii/S092583882301263X">Study on neutron diffraction and correlated magnetic properties of (R<sub>1-x</sub>Zr<sub>x</sub>)Fe<sub>12-y</sub>Mo<sub>y</sub> with low Mo concentration</a> <br>
+  <p style="white-space: normal;margin-top: 0.5em;"><a href="https://www.sciencedirect.com/science/article/pii/S092583882301263X">Study on neutron diffraction and correlated magnetic properties of (R<sub>1-x</sub>Zr<sub>x</sub>)Fe<sub>12-y</sub>Mo<sub>y</sub> with low Mo concentration</a> <br>
                 <p>Journal of Alloys and Compounds, 2023, 952: 169960.</p>
                 <p>Wang F, Fan S, <strong><u>Lin Z</u></strong>, Xia Y, Li H, Yang W, Han J, Du H, Yang J and Yang Y*.</p>
               </p>
@@ -107,7 +107,7 @@ redirect_from:
 
 <div style="border-bottom: 1px #efefef solid">
 
-  <p><a href="https://doi.org/10.1038/s41467-023-41688-7">Magnetically-dressed CrSBr exciton-polaritons in ultrastrong coupling regime</a><br>
+  <p  style="margin-top: 0.5em;"><a href="https://doi.org/10.1038/s41467-023-41688-7">Magnetically-dressed CrSBr exciton-polaritons in ultrastrong coupling regime</a><br>
                 <p>Nature Communications, 2023, 14: 5966.</p>
                 <p>Wang T, Zhang D, Yang S, <strong><u>Lin Z</u></strong>, Chen Q, Yang J, Gong Q, Chen Z*, Ye Y* and Liu W*.</p>
               </p>
@@ -193,13 +193,14 @@ redirect_from:
 
 
 <div >
-<div style="border-bottom: 1px #efefef solid"></div> 
+<div style="border-bottom: 1px #efefef solid">
   <p><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202108847">2D FeOCl: A highly in-plane anisotropic antiferromagnetic semiconductor synthesized via temperature-oscillation chemical vapor transport</a> <br>
                 <p>Advanced Materials, 2022, 34(14): 2108847.</p>
                 <p>Zeng Y, Gu P, Zhao Z, Zhang B, <strong><u>Lin Z</u></strong>, Peng Y, Li W, Zhao W, Leng Y, Tan P, Yang T, Zhang Z, Song Y, Yang J, Ye Y, Tian K* and Hou Y*.</p>
               </p>
             </div>
 
+</div> 
 
 <!-- ### <font size=3 color=BLACK></font> -->
 
