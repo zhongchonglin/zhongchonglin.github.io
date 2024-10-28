@@ -86,8 +86,8 @@ redirect_from:
 
 
 
-<div>
-<div style="height: 1.0em;border-bottom: 1px #efefef solid"></div> 
+
+<div style="height: 1.0em;border-bottom: 1px #efefef solid">
   <p><a href="https://www.science.org/doi/10.1126/sciadv.adj3955">Efficient current-induced spin torques and field-free magnetization switching in a room-temperature van der Waals magnet</a> <br>
                 <p>Science Advances, 2023, 9(49) eadj3955.</p>
                 <p>Yun C<sup>#</sup>, Guo H<sup>#</sup>, <strong><u>Lin Z</u></strong>, Peng L, Liang Z, Meng M, Zhang B, Zhao Z, Wang L, Ma Y, Liu Y, Li W, Ning S, Hou Y*, Yang J* and Luo Z*.</p>
@@ -104,7 +104,7 @@ redirect_from:
               </p>
             </div>
 
-
+</div> 
 <div style="border-bottom: 1px #efefef solid">
 
   <p><a href="https://doi.org/10.1038/s41467-023-41688-7">Magnetically-dressed CrSBr exciton-polaritons in ultrastrong coupling regime</a><br>
