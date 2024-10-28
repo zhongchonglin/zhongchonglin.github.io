@@ -246,7 +246,7 @@ redirect_from:
 
 
 <div style="border-bottom: 1px #efefef solid">
-<div style="height: 1.0em;"></div> 
+
   <p><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.224410">Anomalous Hall effect in magnetic insulator heterostructures: Contributions from spin-Hall and magnetic-proximity effects</a> <br>
                 <p>Physical Review B, 2021, 104(22): 224410.</p>
                 <p>Ding S, Liang Z, Yun C, Wu R, Xue M, <strong><u>Lin Z</u></strong>, Ross A, Becker S, Yang W, Ma X, Chen D, Sun K, Jakob G, Kläui M and Yang J*.</p>
@@ -259,7 +259,7 @@ redirect_from:
 
 
 
-<div style="border-bottom: 1px #efefef solid">
+<div  class="paper-box" >
             <div class="paper-box-image">
               <div>
                 <div class="badge">Acta Materialia (Q1)</div><img src="images/2020NCFB.png" alt="sym"
@@ -281,7 +281,7 @@ redirect_from:
 </div>
 
 
-<div style="border-bottom: 1px #efefef solid">
+<div  class="paper-box" >
             <div class="paper-box-image">
               <div>
                 <div class="badge">Journal of Magnetism and Magnetic Materials</div><img src="images/2020NFBN.png" alt="sym"
