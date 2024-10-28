@@ -49,10 +49,6 @@ redirect_from:
 （<sup>#</sup>Co-first; <sup>*</sup>Corresponding）
 ### <font size=3 color=BLACK>2024</font>
 
-<div class="paper-box">
-
-          
-</div>
 
 
 <div class="paper-box">
@@ -76,8 +72,8 @@ redirect_from:
             </div>
 </div>
 
-<div class="paper-box">
-<div style="height: 1.0em;"></div> 
+<div>
+
   <p><a href="https://pubs.acs.org/doi/10.1021/acsnano.3c13034">Harnessing Van der Waals CrPS<sub>4</sub> and Surface Oxides for Nonmonotonic Preset Field Induced Exchange Bias in Fe<sub>3</sub>GeTe<sub>2</sub></a> <br>
                 <p>ACS Nano, 2024, 18: 8383-8391.</p>
                 <p>Balan A P*, Kumar A, Scholz T, <strong><u>Lin Z</u></strong>, Shahee A, Fu S, Denneulin T, Vas J, Kovács A, Dunin-Borkowski R E, Wang H I, Yang J, Lotsch B V, Nowak U and Kläui M*.</p>
@@ -91,7 +87,7 @@ redirect_from:
 
 
 <div>
-<div style="height: 1.0em;"></div> 
+<div style="height: 1.0em;border-bottom: 1px #efefef solid"></div> 
   <p><a href="https://www.science.org/doi/10.1126/sciadv.adj3955">Efficient current-induced spin torques and field-free magnetization switching in a room-temperature van der Waals magnet</a> <br>
                 <p>Science Advances, 2023, 9(49) eadj3955.</p>
                 <p>Yun C<sup>#</sup>, Guo H<sup>#</sup>, <strong><u>Lin Z</u></strong>, Peng L, Liang Z, Meng M, Zhang B, Zhao Z, Wang L, Ma Y, Liu Y, Li W, Ning S, Hou Y*, Yang J* and Luo Z*.</p>
@@ -158,7 +154,7 @@ redirect_from:
 
 
 
-<div class="paper-box">
+<div class="paper-box" >
             <div class="paper-box-image">
               <div>
                 <div class="badge">Chinese Physics B (TOPICAL REVIEW— 30 Years of CPB) </div><img src="images/2022zs.png" alt="sym"
@@ -180,7 +176,7 @@ redirect_from:
 </div>
 
 <div >
-<div style="height: 1.0em;"></div> 
+<div style="border-bottom: 1px #efefef solid"></div> 
   <p><a href="https://www.sciencedirect.com/science/article/pii/S1359645422010394">Phase separation and chemistry evolution in Fe-rich Sm(Co<sub>bal</sub>Fe<sub>0.31</sub>Cu<sub>0.07</sub>Zr<sub>0.025</sub><sub>7.7</sub> magnets: The effect of initial defect</a> <br>
                 <p>Acta Materialia, 2022, 245: 118664.</p>
                 <p>Li Q, Wang C, <strong><u>Lin Z</u></strong>, Wang L, Xiao Y, Zhang P, Cao X, Fang Y*, Liao Q, Yang J, Zhang Y, Zhu M and Li W*.</p>
@@ -189,7 +185,7 @@ redirect_from:
 
 
 <div >
-<div style="height: 1.0em;"></div> 
+<div style="border-bottom: 1px #efefef solid"></div> 
   <p><a href="https://www.sciencedirect.com/science/article/pii/S0304885322010964">Preparation, structure and magnetic properties of high-purity Mn<sub>4</sub>C</a> <br>
                 <p>Journal of Magnetism and Magnetic Materials, 2022, 564: 170211.</p>
                 <p>Wang F, Fan S, <strong><u>Lin Z</u></strong>, Wu B, Yang W, Wang C, Xu Q, Liu S, Yang J, Du H* and Han J*.</p>
@@ -197,8 +193,8 @@ redirect_from:
             </div>
 
 
-<div c>
-<div style="height: 1.0em;"></div> 
+<div >
+<div style="border-bottom: 1px #efefef solid"></div> 
   <p><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202108847">2D FeOCl: A highly in-plane anisotropic antiferromagnetic semiconductor synthesized via temperature-oscillation chemical vapor transport</a> <br>
                 <p>Advanced Materials, 2022, 34(14): 2108847.</p>
                 <p>Zeng Y, Gu P, Zhao Z, Zhang B, <strong><u>Lin Z</u></strong>, Peng Y, Li W, Zhao W, Leng Y, Tan P, Yang T, Zhang Z, Song Y, Yang J, Ye Y, Tian K* and Hou Y*.</p>
@@ -208,10 +204,9 @@ redirect_from:
 
 ### <font size=3 color=BLACK>2021</font>
 
-<div class="paper-box">
-</div>
 
-<div class="paper-box">
+
+<div style="border-bottom: 1px #efefef solid">
             <div class="paper-box-image">
               <div>
                 <div class="badge">Advanced Functional Material (Q1)</div><img src="images/2021pressure.png" alt="sym"
@@ -232,7 +227,7 @@ redirect_from:
             </div>
 </div>
 
-<div class="paper-box">
+<div style="border-bottom: 1px #efefef solid">
 <div style="height: 1.0em;"></div> 
   <p><a href="https://pubs.aip.org/aip/adv/article/11/1/015209/1070054/Intergranular-interaction-in-nanocrystalline-Ce-Fe">Intergranular interaction in nanocrystalline Ce-Fe-B melt-spinning ribbons via first order reversal curve analysis</a> <br>
                 <p>AIP Advances, 2021, 11(1): 015209.</p>
@@ -241,8 +236,8 @@ redirect_from:
             </div>
 
 
-<div class="paper-box">
-<div style="height: 1.0em;"></div> 
+<div style="border-bottom: 1px #efefef solid">
+
   <p style="white-space: normal;"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9466497">The microwave absorption properties of Fe<sub>16</sub>N<sub>2</sub> nanoparticles</a> <br>
                 <p style="white-space: normal;">IEEE Transactions on Magnetics, 2021, 58(2): 2800204.</p>
                 <p style="white-space: normal;">Wang Y, <strong><u>Lin Z</u></strong>, Liu Z, Qiao G, Zhang P, Li K, Yang W, Han J, Liu S, Wang C, Qiao L and Yang J*.</p>
@@ -250,7 +245,7 @@ redirect_from:
             </div>
 
 
-<div class="paper-box">
+<div style="border-bottom: 1px #efefef solid">
 <div style="height: 1.0em;"></div> 
   <p><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.224410">Anomalous Hall effect in magnetic insulator heterostructures: Contributions from spin-Hall and magnetic-proximity effects</a> <br>
                 <p>Physical Review B, 2021, 104(22): 224410.</p>
@@ -262,10 +257,9 @@ redirect_from:
 
 ### <font size=3 color=BLACK>2020</font>
 
-<div class="paper-box">
-</div>
 
-<div class="paper-box">
+
+<div style="border-bottom: 1px #efefef solid">
             <div class="paper-box-image">
               <div>
                 <div class="badge">Acta Materialia (Q1)</div><img src="images/2020NCFB.png" alt="sym"
@@ -287,7 +281,7 @@ redirect_from:
 </div>
 
 
-<div class="paper-box">
+<div style="border-bottom: 1px #efefef solid">
             <div class="paper-box-image">
               <div>
                 <div class="badge">Journal of Magnetism and Magnetic Materials</div><img src="images/2020NFBN.png" alt="sym"
@@ -309,7 +303,7 @@ redirect_from:
 </div>
 
 
-<div class="paper-box">
+<div style="border-bottom: 1px #efefef solid">
 <div style="height: 1.0em;"></div> 
   <p><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202001200">Magnetic structure and metamagnetic transitions in the van der Waals antiferromagnet CrPS<sub>4</sub></a> <br>
                 <p>Advanced Materials, 2020, 32(28): 2001200.</p>
