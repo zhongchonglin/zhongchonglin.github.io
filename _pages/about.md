@@ -87,8 +87,7 @@ redirect_from:
 
 ### <font size=3 color=BLACK>2023</font>
 
-<div class="paper-box">
-</div>
+
 
 
 <div>
@@ -157,10 +156,9 @@ redirect_from:
 
 ### <font size=3 color=BLACK>2022</font>
 
-<div class="paper-box">
-</div>
 
-<div class="paper-box">
+
+<div >
             <div class="paper-box-image">
               <div>
                 <div class="badge">Chinese Physics B (TOPICAL REVIEW— 30 Years of CPB) </div><img src="images/2022zs.png" alt="sym"
