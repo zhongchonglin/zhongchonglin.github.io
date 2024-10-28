@@ -158,7 +158,7 @@ redirect_from:
 
 
 
-<div >
+<div class="paper-box">
             <div class="paper-box-image">
               <div>
                 <div class="badge">Chinese Physics B (TOPICAL REVIEW— 30 Years of CPB) </div><img src="images/2022zs.png" alt="sym"
@@ -179,7 +179,7 @@ redirect_from:
             </div>
 </div>
 
-<div class="paper-box">
+<div >
 <div style="height: 1.0em;"></div> 
   <p><a href="https://www.sciencedirect.com/science/article/pii/S1359645422010394">Phase separation and chemistry evolution in Fe-rich Sm(Co<sub>bal</sub>Fe<sub>0.31</sub>Cu<sub>0.07</sub>Zr<sub>0.025</sub><sub>7.7</sub> magnets: The effect of initial defect</a> <br>
                 <p>Acta Materialia, 2022, 245: 118664.</p>
@@ -188,7 +188,7 @@ redirect_from:
             </div>
 
 
-<div class="paper-box">
+<div >
 <div style="height: 1.0em;"></div> 
   <p><a href="https://www.sciencedirect.com/science/article/pii/S0304885322010964">Preparation, structure and magnetic properties of high-purity Mn<sub>4</sub>C</a> <br>
                 <p>Journal of Magnetism and Magnetic Materials, 2022, 564: 170211.</p>
@@ -197,7 +197,7 @@ redirect_from:
             </div>
 
 
-<div class="paper-box">
+<div c>
 <div style="height: 1.0em;"></div> 
   <p><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202108847">2D FeOCl: A highly in-plane anisotropic antiferromagnetic semiconductor synthesized via temperature-oscillation chemical vapor transport</a> <br>
                 <p>Advanced Materials, 2022, 34(14): 2108847.</p>
