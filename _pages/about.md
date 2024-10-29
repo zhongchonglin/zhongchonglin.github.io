@@ -36,7 +36,7 @@ redirect_from:
 <p style="text-align:justify;text-justify:inter-ideograph;">Committed to studying new phase structures of permanent magnetic materials and the relationships of intrinsic magnetic parameters.</p>
 ### <font size=3 color=BLACK>Scientific Application of Key Technologies for Intrinsic Structure and Magnetic Detection</font>
 <p style="text-align:justify;text-justify:inter-ideograph;">Devoted to utilizing neutron scattering/synchrotron radiation collaborative microanalysis techniques to achieve spin control and structural study under multi-field coupling effects.</p>
-
+<p></p><br>
 
 ## 🔥 News <a id="news"> </a>
 ### <font size=3 color=BLACK>2024</font>
@@ -320,7 +320,7 @@ redirect_from:
               </p>
             </div>
 
-
+<p></p><br>
 
 ## 🗣️ Members <a id="members"></a>
 * <font size=3 color=BLACK>Liqiang Zeng (曾力强)    2024 PhD Student</font>
@@ -329,6 +329,7 @@ redirect_from:
 <p>Exploration of Two-Dimensional Magnetic Materials</p>
 * <font size=3 color=BLACK>Jinhuan He (何金桓)     2021 Undergraduate Student</font>
 <p>Exploration of Two-Dimensional Magnetic Materials</p>
+<p></p><br>
 
 ## 🎓️ Alumni  <a id="alumni"> </a>
 
