@@ -58,7 +58,7 @@ redirect_from:
 </div>
 
 
-<div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
+<div class="paper-box" style="margin-top:0.5em">
             <div class="paper-box-image">
               <div>
                 <div class="badge">Acta Materialia (Q1)</div><img src="images/Graphical Abstract1.png" alt="sym"
