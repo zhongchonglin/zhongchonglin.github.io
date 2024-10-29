@@ -58,7 +58,7 @@ redirect_from:
 </div>
 
 
-<div class="paper-box">
+<div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
             <div class="paper-box-image">
               <div>
                 <div class="badge">Acta Materialia (Q1)</div><img src="images/Graphical Abstract1.png" alt="sym"
@@ -79,9 +79,8 @@ redirect_from:
             </div>
 </div>
 
-<div class="paper-box">
-
-  <p style="margin-top:0.5em"><a href="https://pubs.acs.org/doi/10.1021/acsnano.3c13034">Harnessing Van der Waals CrPS<sub>4</sub> and Surface Oxides for Nonmonotonic Preset Field Induced Exchange Bias in Fe<sub>3</sub>GeTe<sub>2</sub></a> <br>
+<div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
+  <p><a href="https://pubs.acs.org/doi/10.1021/acsnano.3c13034">Harnessing Van der Waals CrPS<sub>4</sub> and Surface Oxides for Nonmonotonic Preset Field Induced Exchange Bias in Fe<sub>3</sub>GeTe<sub>2</sub></a> <br>
                 <p>ACS Nano, 2024, 18: 8383-8391.</p>
                 <p style="margin-bottom:0em">Balan A P*, Kumar A, Scholz T, <strong><u>Lin Z</u></strong>, Shahee A, Fu S, Denneulin T, Vas J, Kovács A, Dunin-Borkowski R E, Wang H I, Yang J, Lotsch B V, Nowak U and Kläui M*.</p>
               </p>
@@ -179,7 +178,7 @@ redirect_from:
             </div>
 </div>
 
-<div class="paper-box">
+
 <div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
   <p><a href="https://www.sciencedirect.com/science/article/pii/S1359645422010394">Phase separation and chemistry evolution in Fe-rich Sm(Co<sub>bal</sub>Fe<sub>0.31</sub>Cu<sub>0.07</sub>Zr<sub>0.025</sub><sub>7.7</sub> magnets: The effect of initial defect</a> <br>
                 <p>Acta Materialia, 2022, 245: 118664.</p>
