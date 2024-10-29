@@ -42,8 +42,8 @@ redirect_from:
 ### <font size=3 color=BLACK>2024</font>
 * Sept. 2024. 🎉Welcome our new group member Jinhuan He (何金桓)!
 * Sept. 2024. 🎉Welcome our new group member Yucheng Ye (叶宇城)!
-* July  2024. 🎉Welcome our new group member Liqiang Zeng (曾力强)!<br>
-<p></p>
+* July  2024. 🎉Welcome our new group member Liqiang Zeng (曾力强)!
+<p></p><br>
 
 ## 📝 Publications <a id="publications"></a>
 （<sup>#</sup>Co-first; <sup>*</sup>Corresponding）
