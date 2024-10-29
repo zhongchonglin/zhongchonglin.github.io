@@ -47,7 +47,10 @@ redirect_from:
 
 ## 📝 Publications <a id="publications"></a>
 （<sup>#</sup>Co-first; <sup>*</sup>Corresponding）
-### <font size=3 color=BLACK>2024</font>
+<p></p><br>
+ <font size=3 color=BLUE><strong>2024</strong></font>
+<div class="paper-box">
+</div>
 
 <div class="paper-box">
 
@@ -153,7 +156,10 @@ redirect_from:
             </div>
 
 
-### <font size=3 color=BLACK>2022</font>
+<p></p><br>
+ <font size=3 color=BLUE><strong>2022</strong></font>
+<div class="paper-box">
+</div>
 
 <div class="paper-box">
 </div>
@@ -206,7 +212,10 @@ redirect_from:
             </div>
 
 
-### <font size=3 color=BLACK>2021</font>
+<p></p><br>
+ <font size=3 color=BLUE><strong>2021</strong></font>
+<div class="paper-box">
+</div>
 
 <div class="paper-box">
 </div>
@@ -261,7 +270,10 @@ redirect_from:
 
 
 
-### <font size=3 color=BLACK>2020</font>
+<p></p><br>
+ <font size=3 color=BLUE><strong>2020</strong></font>
+<div class="paper-box">
+</div>
 
 <div class="paper-box">
 </div>
