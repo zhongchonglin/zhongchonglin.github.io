@@ -74,7 +74,7 @@ redirect_from:
               <ul>
                 <li><p style="text-align:justify;text-justify:inter-ideograph;">Upon nitrogention, the decreased permittivity combines with the increased permeability to promote impedance matching of the composites.</p></li>
                 <li><p style="text-align:justify;text-justify:inter-ideograph;">With the introduction of interstitial nitrogen, the ratio of out-of-plane to in-plane anisotropy field increases and together with enhanced magnetization raises the Snoek limit.</p></li>
-                <li><p style="text-align:justify;text-justify:inter-ideograph;margin-bottom:0em"> The nitrides show thin thickness, strong absorption, broad bandwidth, and high working frequency.</p></li>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;margin-bottom:-0.5em"> The nitrides show thin thickness, strong absorption, broad bandwidth, and high working frequency.</p></li>
               </ul>
             </div>
 </div>
