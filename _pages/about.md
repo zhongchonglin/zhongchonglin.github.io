@@ -188,7 +188,6 @@ redirect_from:
             </div>
 
 
-<div class="paper-box">
 <div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
   <p><a href="https://www.sciencedirect.com/science/article/pii/S0304885322010964">Preparation, structure and magnetic properties of high-purity Mn<sub>4</sub>C</a> <br>
                 <p>Journal of Magnetism and Magnetic Materials, 2022, 564: 170211.</p>
@@ -197,7 +196,6 @@ redirect_from:
             </div>
 
 
-<div class="paper-box">
 <div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
   <p><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202108847">2D FeOCl: A highly in-plane anisotropic antiferromagnetic semiconductor synthesized via temperature-oscillation chemical vapor transport</a> <br>
                 <p>Advanced Materials, 2022, 34(14): 2108847.</p>
