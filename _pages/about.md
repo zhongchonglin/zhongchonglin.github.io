@@ -28,13 +28,17 @@ redirect_from:
 
 
 ## 🔬 Research interest
-### <font size=3 color=BLACK>Spintronics and Control of Physical Properties</font>
+### <font size=3 color=BLACK>magnetoelectronics(Spintronics) and Control of Physical Properties</font>
+<font size=3 color=BLACK>磁（自旋）电子学与物性调控</font>
 <p style="text-align:justify;text-justify:inter-ideograph;">Dedicat to the growth of two-dimensional van der Waals magnets and the study of non-collinear spin order in low-dimensional strongly correlated systems.</p>
 ### <font size=3 color=BLACK>High-Frequency Magnetization Theory and High-Frequency Magnetic Materials</font>
+<font size=3 color=BLACK>高频磁化理论与高频磁性材料</font>
 <p style="text-align:justify;text-justify:inter-ideograph;">Focused on the theory of dual anisotropy Snoek limit and research on related GHz electromagnetic wave absorbing materials.</p>
 ### <font size=3 color=BLACK>Design of Novel Permanent Magnetic Materials and Magnetic Control</font>
+<font size=3 color=BLACK>新型永磁材料设计与磁性调控</font>
 <p style="text-align:justify;text-justify:inter-ideograph;">Committed to studying new phase structures of permanent magnetic materials and the relationships of intrinsic magnetic parameters.</p>
 ### <font size=3 color=BLACK>Scientific Application of Key Technologies for Intrinsic Structure and Magnetic Detection</font>
+<font size=3 color=BLACK>本征结构与磁性探测关键技术的科学应用</font>
 <p style="text-align:justify;text-justify:inter-ideograph;">Devoted to utilizing neutron scattering/synchrotron radiation collaborative microanalysis techniques to achieve spin control and structural study under multi-field coupling effects.</p>
 <p></p><br>
 
@@ -47,7 +51,6 @@ redirect_from:
 
 ## 📝 Publications <a id="publications"></a>
 （<sup>#</sup>Co-first; <sup>*</sup>Corresponding）
-<p></p><br>
  <font size=3 color=BLUE><strong>2024</strong></font>
 <div class="paper-box">
 </div>
@@ -304,7 +307,7 @@ redirect_from:
               <ul>
                 <li><p style="text-align:justify;text-justify:inter-ideograph;">Structure analyses showed the nitrogen concentration (δ) is about 0.352(48) with the volume-expansion ratio (ΔV/V) of 0.6613% in the unit cell.</p></li>
                 <li><p style="text-align:justify;text-justify:inter-ideograph;">N has a site occupation preference (8:3) for the 4e (0, 0, 0.0652) site over the 4f (0.1000, 0.1000, 0) site.</p></li>
-                <li><p style="text-align:justify;text-justify:inter-ideograph;margin-bottom:-0.5em">The Curie temperature of Nd2Fe14B compound increases from 312 °C to 331 °C after nitrogenation</p></li>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;margin-bottom:-0.5em">The Curie temperature of Nd2Fe14B compound increases from 312 °C to 331 °C after nitrogenation.</p></li>
               </ul>
             </div>
 </div>
