@@ -85,7 +85,7 @@ redirect_from:
             </div>
  
 <p></p><br>
- <font size=3 color=BLUE>2023</font>
+ <font size=3 color=BLUE><strong>2023</strong></font>
 <div class="paper-box">
 </div>
 
