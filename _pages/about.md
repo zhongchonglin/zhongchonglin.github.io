@@ -142,7 +142,7 @@ redirect_from:
 <div style="height: 1.0em;"></div> 
   <p><a href="https://doi.org/10.1021/jacs.3c10777"> Controlling the 2D magnetism of CrBr<sub>3</sub> by van der Waals stacking engineering</a> <br>
                 <p>Journal of the American Chemical Society, 2023, 145(51): 28184-28190.</p>
-                <p style="margin-bottom:0em>Yang S<sup>#</sup>, Xu X<sup>#</sup>*, Han B, Gu P, Guzman R, Song Y, <strong><u>Lin Z</u></strong>, Gao P, Zhou W, Yang J, Chen Z and Ye Y*.</p>
+                <p style="margin-bottom:0em">Yang S<sup>#</sup>, Xu X<sup>#</sup>*, Han B, Gu P, Guzman R, Song Y, <strong><u>Lin Z</u></strong>, Gao P, Zhou W, Yang J, Chen Z and Ye Y*.</p>
               </p>
             </div>
 
@@ -151,7 +151,7 @@ redirect_from:
 <div style="height: 1.0em;"></div> 
   <p><a href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.19.024037"> High-performance Fe<sub>x</sub>GeTe<sub>2</sub>−based (x = 4 or 5) van der Waals magnetic tunnel junctions </a> <br>
                  <p>Physical Review Applied, 2023, 19(2): 024037.</p>
-                 <p style="margin-bottom:0em>Wu B<sup>#</sup>, Fang S<sup>#</sup>, Yang J, Liu S, Peng Y, Li Q, <strong><u>Lin Z</u></strong>, Shi J, Yang W, Luo Z, Wang C, Yang J*, Lu J* and Du H*.</p>
+                 <p style="margin-bottom:0em">Wu B<sup>#</sup>, Fang S<sup>#</sup>, Yang J, Liu S, Peng Y, Li Q, <strong><u>Lin Z</u></strong>, Shi J, Yang W, Luo Z, Wang C, Yang J*, Lu J* and Du H*.</p>
               </p>
             </div>
 
