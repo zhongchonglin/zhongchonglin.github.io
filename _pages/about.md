@@ -43,7 +43,7 @@ redirect_from:
 <p></p><br>
 
 ## 🔥 News <a id="news"> </a>
- <font size=3 color=BLOCK><strong>2024</strong></font>
+ <font size=3 color=BLACK><strong>2024</strong></font>
 * Sept. 2024. 🎉Welcome our new group member Jinhuan He (何金桓)!
 * Sept. 2024. 🎉Welcome our new group member Yucheng Ye (叶宇城)!
 * July  2024. 🎉Welcome our new group member Liqiang Zeng (曾力强)!
@@ -51,7 +51,7 @@ redirect_from:
 
 ## 📝 Publications <a id="publications"></a>
 （<sup>#</sup>Co-first; <sup>*</sup>Corresponding）
- <font size=3 color=BLOCK><strong>2024</strong></font>
+ <font size=3 color=BLACK><strong>2024</strong></font>
 <div class="paper-box">
 </div>
 
@@ -90,7 +90,7 @@ redirect_from:
             </div>
  
 <p></p><br>
- <font size=3 color=BLOCK><strong>2023</strong></font>
+ <font size=3 color=BLACK><strong>2023</strong></font>
 <div class="paper-box">
 </div>
 
@@ -153,7 +153,7 @@ redirect_from:
 
 
 <p></p><br>
- <font size=3 color=BLOCK><strong>2022</strong></font>
+ <font size=3 color=BLACK><strong>2022</strong></font>
 <div class="paper-box">
 </div>
 
@@ -207,7 +207,7 @@ redirect_from:
 
 
 <p></p><br>
- <font size=3 color=BLOCK><strong>2021</strong></font>
+ <font size=3 color=BLACK><strong>2021</strong></font>
 <div class="paper-box">
 </div>
 
@@ -262,7 +262,7 @@ redirect_from:
 
 
 <p></p><br>
- <font size=3 color=BLOCK><strong>2020</strong></font>
+ <font size=3 color=BLACK><strong>2020</strong></font>
 <div class="paper-box">
 </div>
 
