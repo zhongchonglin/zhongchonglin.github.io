@@ -29,7 +29,7 @@ redirect_from:
 
 ## 🔬 Research interest
 ### <font size=3 color=BLACK>magnetoelectronics(Spintronics) and Control of Physical Properties</font>
-<font size=3 color=BLACK>磁（自旋）电子学与物性调控</font>
+<font size=3 color=BLACK><p style="margin-top:0em"><strong>磁（自旋）电子学与物性调控</strong></p></font>
 <p style="text-align:justify;text-justify:inter-ideograph;">Dedicat to the growth of two-dimensional van der Waals magnets and the study of non-collinear spin order in low-dimensional strongly correlated systems.</p>
 ### <font size=3 color=BLACK>High-Frequency Magnetization Theory and High-Frequency Magnetic Materials</font>
 <font size=3 color=BLACK>高频磁化理论与高频磁性材料</font>
