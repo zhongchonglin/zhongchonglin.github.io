@@ -35,15 +35,15 @@ redirect_from:
 ### <font size=3 color=BLACK>Design of Novel Permanent Magnetic Materials and Magnetic Control</font>
 <p style="text-align:justify;text-justify:inter-ideograph;">Committed to studying new phase structures of permanent magnetic materials and the relationships of intrinsic magnetic parameters.</p>
 ### <font size=3 color=BLACK>Scientific Application of Key Technologies for Intrinsic Structure and Magnetic Detection</font>
-<p style="text-align:justify;text-justify:inter-ideograph;">Devoted to utilizing neutron scattering/synchrotron radiation collaborative microanalysis techniques to achieve spin control and structural study under multi-field coupling effects.</p><br>
-<p></p>
+<p style="text-align:justify;text-justify:inter-ideograph;">Devoted to utilizing neutron scattering/synchrotron radiation collaborative microanalysis techniques to achieve spin control and structural study under multi-field coupling effects.</p>
+
 
 ## 🔥 News <a id="news"> </a>
 ### <font size=3 color=BLACK>2024</font>
 * Sept. 2024. 🎉Welcome our new group member Jinhuan He (何金桓)!
 * Sept. 2024. 🎉Welcome our new group member Yucheng Ye (叶宇城)!
-* July  2024. 🎉Welcome our new group member Liqiang Zeng (曾力强)!<br>
-<p></p>
+* July  2024. 🎉Welcome our new group member Liqiang Zeng (曾力强)!
+
 
 ## 📝 Publications <a id="publications"></a>
 （<sup>#</sup>Co-first; <sup>*</sup>Corresponding）
@@ -328,8 +328,8 @@ redirect_from:
 * <font size=3 color=BLACK>Yucheng Ye (叶宇城)     2024 Master Student</font>
 <p>Exploration of Two-Dimensional Magnetic Materials</p>
 * <font size=3 color=BLACK>Jinhuan He (何金桓)     2021 Undergraduate Student</font>
-<p>Exploration of Two-Dimensional Magnetic Materials</p><br>
-<p></p>
+<p>Exploration of Two-Dimensional Magnetic Materials</p>
+
 ## 🎓️ Alumni  <a id="alumni"> </a>
 
 ## 📷️ Pictures <a id="pictures"></a>
