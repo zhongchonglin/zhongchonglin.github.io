@@ -180,28 +180,28 @@ redirect_from:
 </div>
 
 <div class="paper-box">
-<div style="height: 1.0em;"></div> 
+<div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
   <p><a href="https://www.sciencedirect.com/science/article/pii/S1359645422010394">Phase separation and chemistry evolution in Fe-rich Sm(Co<sub>bal</sub>Fe<sub>0.31</sub>Cu<sub>0.07</sub>Zr<sub>0.025</sub><sub>7.7</sub> magnets: The effect of initial defect</a> <br>
                 <p>Acta Materialia, 2022, 245: 118664.</p>
-                <p>Li Q, Wang C, <strong><u>Lin Z</u></strong>, Wang L, Xiao Y, Zhang P, Cao X, Fang Y*, Liao Q, Yang J, Zhang Y, Zhu M and Li W*.</p>
+                <p style="margin-bottom:0em">Li Q, Wang C, <strong><u>Lin Z</u></strong>, Wang L, Xiao Y, Zhang P, Cao X, Fang Y*, Liao Q, Yang J, Zhang Y, Zhu M and Li W*.</p>
               </p>
             </div>
 
 
 <div class="paper-box">
-<div style="height: 1.0em;"></div> 
+<div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
   <p><a href="https://www.sciencedirect.com/science/article/pii/S0304885322010964">Preparation, structure and magnetic properties of high-purity Mn<sub>4</sub>C</a> <br>
                 <p>Journal of Magnetism and Magnetic Materials, 2022, 564: 170211.</p>
-                <p>Wang F, Fan S, <strong><u>Lin Z</u></strong>, Wu B, Yang W, Wang C, Xu Q, Liu S, Yang J, Du H* and Han J*.</p>
+                <p style="margin-bottom:0em">Wang F, Fan S, <strong><u>Lin Z</u></strong>, Wu B, Yang W, Wang C, Xu Q, Liu S, Yang J, Du H* and Han J*.</p>
               </p>
             </div>
 
 
 <div class="paper-box">
-<div style="height: 1.0em;"></div> 
+<div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
   <p><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202108847">2D FeOCl: A highly in-plane anisotropic antiferromagnetic semiconductor synthesized via temperature-oscillation chemical vapor transport</a> <br>
                 <p>Advanced Materials, 2022, 34(14): 2108847.</p>
-                <p>Zeng Y, Gu P, Zhao Z, Zhang B, <strong><u>Lin Z</u></strong>, Peng Y, Li W, Zhao W, Leng Y, Tan P, Yang T, Zhang Z, Song Y, Yang J, Ye Y, Tian K* and Hou Y*.</p>
+                <p style="margin-bottom:0em">Zeng Y, Gu P, Zhao Z, Zhang B, <strong><u>Lin Z</u></strong>, Peng Y, Li W, Zhao W, Leng Y, Tan P, Yang T, Zhang Z, Song Y, Yang J, Ye Y, Tian K* and Hou Y*.</p>
               </p>
             </div>
 
