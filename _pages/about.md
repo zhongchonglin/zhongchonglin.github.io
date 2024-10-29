@@ -157,7 +157,7 @@ redirect_from:
 <div class="paper-box">
 </div>
 
-<div class="paper-box">
+<div class="paper-box" style="margin-top:0em">
             <div class="paper-box-image">
               <div>
                 <div class="badge">Chinese Physics B (TOPICAL REVIEW— 30 Years of CPB) </div><img src="images/2022zs.png" alt="sym"
@@ -173,7 +173,7 @@ redirect_from:
               <ul>
                 <li><p style="text-align:justify;text-justify:inter-ideograph;">Analyze the types and magnetic structures of two-dimensional van der Waals magnetic materials.</p></li>
                 <li><p style="text-align:justify;text-justify:inter-ideograph;">Describe the growth methods and strategies for two-dimensional magnetic materials.</p></li>
-                <li><p style="text-align:justify;text-justify:inter-ideograph;">Summarize the research progress on heterostructures based on two-dimensional magnetic materials.</p></li>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;margin-bottom:-0.5em">Summarize the research progress on heterostructures based on two-dimensional magnetic materials.</p></li>
               </ul>
             </div>
 </div>
@@ -211,7 +211,7 @@ redirect_from:
 <div class="paper-box">
 </div>
 
-<div class="paper-box">
+<div class="paper-box" style="margin-top:0em">
             <div class="paper-box-image">
               <div>
                 <div class="badge">Advanced Functional Material (Q1)</div><img src="images/2021pressure.png" alt="sym"
@@ -227,35 +227,32 @@ redirect_from:
               <ul>
                 <li><p style="text-align:justify;text-justify:inter-ideograph;">For the first time, control of the Néel vector in the CrPS<sub>4</sub> antiferromagnet was achieved using hydrostatic pressure techniques.</p></li>
                 <li><p style="text-align:justify;text-justify:inter-ideograph;">It was determined that pressure-induced changes in magnetocrystalline anisotropy are driven by the compression of the one-dimensional CrS<sub>6</sub> chains along the b-axis.</p></li>
-                <li><p style="text-align:justify;text-justify:inter-ideograph;">Using first-principles calculations, the magnetic exchange interactions of CrPS<sub>4</sub> under different pressures were studied.</p></li>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;margin-bottom:-0.5em">Using first-principles calculations, the magnetic exchange interactions of CrPS<sub>4</sub> under different pressures were studied.</p></li>
               </ul>
             </div>
 </div>
 
-<div class="paper-box">
-<div style="height: 1.0em;"></div> 
+<div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
   <p><a href="https://pubs.aip.org/aip/adv/article/11/1/015209/1070054/Intergranular-interaction-in-nanocrystalline-Ce-Fe">Intergranular interaction in nanocrystalline Ce-Fe-B melt-spinning ribbons via first order reversal curve analysis</a> <br>
                 <p>AIP Advances, 2021, 11(1): 015209.</p>
-                <p>Zha L, <strong><u>Lin Z</u></strong>, Wang F, Kim C, Xue M, Yang J, Han L, Yang W, Liu S, Han J, Wang C, Xia W* and Yang J*.</p>
+                <p style="margin-bottom:0em">Zha L, <strong><u>Lin Z</u></strong>, Wang F, Kim C, Xue M, Yang J, Han L, Yang W, Liu S, Han J, Wang C, Xia W* and Yang J*.</p>
               </p>
             </div>
 
 
-<div class="paper-box">
-<div style="height: 1.0em;"></div> 
+<div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
   <p style="white-space: normal;"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9466497">The microwave absorption properties of Fe<sub>16</sub>N<sub>2</sub> nanoparticles</a> <br>
                 <p style="white-space: normal;">IEEE Transactions on Magnetics, 2021, 58(2): 2800204.</p>
-                <p style="white-space: normal;">Wang Y, <strong><u>Lin Z</u></strong>, Liu Z, Qiao G, Zhang P, Li K, Yang W, Han J, Liu S, Wang C, Qiao L and Yang J*.</p>
+                <p style="white-space: normal;margin-bottom:0em">Wang Y, <strong><u>Lin Z</u></strong>, Liu Z, Qiao G, Zhang P, Li K, Yang W, Han J, Liu S, Wang C, Qiao L and Yang J*.</p>
               </p>
             </div>
 
 
 
-<div class="paper-box">
-<div style="height: 1.0em;"></div> 
+<div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
   <p><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.224410">Anomalous Hall effect in magnetic insulator heterostructures: Contributions from spin-Hall and magnetic-proximity effects</a> <br>
                 <p>Physical Review B, 2021, 104(22): 224410.</p>
-                <p>Ding S, Liang Z, Yun C, Wu R, Xue M, <strong><u>Lin Z</u></strong>, Ross A, Becker S, Yang W, Ma X, Chen D, Sun K, Jakob G, Kläui M and Yang J*.</p>
+                <p style="margin-bottom:0em">Ding S, Liang Z, Yun C, Wu R, Xue M, <strong><u>Lin Z</u></strong>, Ross A, Becker S, Yang W, Ma X, Chen D, Sun K, Jakob G, Kläui M and Yang J*.</p>
               </p>
             </div>
 
@@ -269,7 +266,7 @@ redirect_from:
 <div class="paper-box">
 </div>
 
-<div class="paper-box">
+<div class="paper-box" style="margin-top:0em">
             <div class="paper-box-image">
               <div>
                 <div class="badge">Acta Materialia (Q1)</div><img src="images/2020NCFB.png" alt="sym"
@@ -285,13 +282,13 @@ redirect_from:
               <ul>
                 <li><p style="text-align:justify;text-justify:inter-ideograph;">Determine the preferential occupancy characteristics of Ce in Nd-Ce-Fe-B.</p></li>
                 <li><p style="text-align:justify;text-justify:inter-ideograph;">The relationship among the magnetic moment at each Fe site, the Boron atom effect, and the Wigner-Seitz volume was elucidated.</p></li>
-                <li><p style="text-align:justify;text-justify:inter-ideograph;">Discover phase separation and further discuss the relationship between Ce valence states and magnetism.</p></li>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;margin-bottom:-0.5em">Discover phase separation and further discuss the relationship between Ce valence states and magnetism.</p></li>
               </ul>
             </div>
 </div>
 
 
-<div class="paper-box">
+<div class="paper-box" style="margin-top:0em">
             <div class="paper-box-image">
               <div>
                 <div class="badge">Journal of Magnetism and Magnetic Materials</div><img src="images/2020NFBN.png" alt="sym"
@@ -307,17 +304,16 @@ redirect_from:
               <ul>
                 <li><p style="text-align:justify;text-justify:inter-ideograph;">Structure analyses showed the nitrogen concentration (δ) is about 0.352(48) with the volume-expansion ratio (ΔV/V) of 0.6613% in the unit cell.</p></li>
                 <li><p style="text-align:justify;text-justify:inter-ideograph;">N has a site occupation preference (8:3) for the 4e (0, 0, 0.0652) site over the 4f (0.1000, 0.1000, 0) site.</p></li>
-                <li><p style="text-align:justify;text-justify:inter-ideograph;">The Curie temperature of Nd2Fe14B compound increases from 312 °C to 331 °C after nitrogenation</p></li>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;margin-bottom:-0.5em">The Curie temperature of Nd2Fe14B compound increases from 312 °C to 331 °C after nitrogenation</p></li>
               </ul>
             </div>
 </div>
 
 
-<div class="paper-box">
-<div style="height: 1.0em;"></div> 
+<div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
   <p><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202001200">Magnetic structure and metamagnetic transitions in the van der Waals antiferromagnet CrPS<sub>4</sub></a> <br>
                 <p>Advanced Materials, 2020, 32(28): 2001200.</p>
-                <p>Peng Y<sup>#</sup>, Ding S<sup>#</sup>, Cheng M<sup>#</sup>, Hu Q, Yang J, Wang F, Xue M, Liu Z, <strong><u>Lin Z</u></strong>, Avdeev M, Hou Y, Yang W, Zheng Y* and Yang J*.</p>
+                <p style="margin-bottom:0em">Peng Y<sup>#</sup>, Ding S<sup>#</sup>, Cheng M<sup>#</sup>, Hu Q, Yang J, Wang F, Xue M, Liu Z, <strong><u>Lin Z</u></strong>, Avdeev M, Hou Y, Yang W, Zheng Y* and Yang J*.</p>
               </p>
             </div>
 
