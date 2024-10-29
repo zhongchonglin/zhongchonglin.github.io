@@ -111,7 +111,7 @@ redirect_from:
             </div>
 
 
-<div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
+<div style="border-bottom: 1px #efefef solid;margin-top:-0.5em">
 <div style="height: 1.0em;"></div> 
   <p><a href="https://doi.org/10.1038/s41467-023-41688-7">Magnetically-dressed CrSBr exciton-polaritons in ultrastrong coupling regime</a><br>
                 <p>Nature Communications, 2023, 14: 5966.</p>
@@ -120,7 +120,7 @@ redirect_from:
             </div>
 
 
-<div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
+<div style="border-bottom: 1px #efefef solid;margin-top:-0.5em">
 <div style="height: 1.0em;"></div> 
   <p><a href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.19.064008"> Layer-dependent magnetoresistance and spin-transfer torque in MnSe<sub>2</sub>-based magnetic tunnel junctions</a> <br>
                 <p>Physical Review Applied, 2023, 19(6): 064008.</p>
@@ -129,7 +129,7 @@ redirect_from:
             </div>
 
 
-<div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
+<div style="border-bottom: 1px #efefef solid;margin-top:-0.5em">
 <div style="height: 1.0em;"></div> 
   <p><a href="https://www.sciencedirect.com/science/article/abs/pii/S2542529323001554"> Effect of Zr substitution on the structure and magnetic properties of (Y, Zr)(Fe, Ti)<sub>12</sub> compounds</a> <br>
                 <p>Materials Today Physics, 2023, 35: 101119.</p>
@@ -138,20 +138,20 @@ redirect_from:
             </div>
 
 
-<div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
+<div style="border-bottom: 1px #efefef solid;margin-top:-0.5em">
 <div style="height: 1.0em;"></div> 
   <p><a href="https://doi.org/10.1021/jacs.3c10777"> Controlling the 2D magnetism of CrBr<sub>3</sub> by van der Waals stacking engineering</a> <br>
                 <p>Journal of the American Chemical Society, 2023, 145(51): 28184-28190.</p>
-                <p>Yang S<sup>#</sup>, Xu X<sup>#</sup>*, Han B, Gu P, Guzman R, Song Y, <strong><u>Lin Z</u></strong>, Gao P, Zhou W, Yang J, Chen Z and Ye Y*.</p>
+                <p style="margin-bottom:0em>Yang S<sup>#</sup>, Xu X<sup>#</sup>*, Han B, Gu P, Guzman R, Song Y, <strong><u>Lin Z</u></strong>, Gao P, Zhou W, Yang J, Chen Z and Ye Y*.</p>
               </p>
             </div>
 
 
-<div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
+<div style="border-bottom: 1px #efefef solid;margin-top:-0.5em">
 <div style="height: 1.0em;"></div> 
   <p><a href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.19.024037"> High-performance Fe<sub>x</sub>GeTe<sub>2</sub>−based (x = 4 or 5) van der Waals magnetic tunnel junctions </a> <br>
                  <p>Physical Review Applied, 2023, 19(2): 024037.</p>
-                 <p>Wu B<sup>#</sup>, Fang S<sup>#</sup>, Yang J, Liu S, Peng Y, Li Q, <strong><u>Lin Z</u></strong>, Shi J, Yang W, Luo Z, Wang C, Yang J*, Lu J* and Du H*.</p>
+                 <p style="margin-bottom:0em>Wu B<sup>#</sup>, Fang S<sup>#</sup>, Yang J, Liu S, Peng Y, Li Q, <strong><u>Lin Z</u></strong>, Shi J, Yang W, Luo Z, Wang C, Yang J*, Lu J* and Du H*.</p>
               </p>
             </div>
 
