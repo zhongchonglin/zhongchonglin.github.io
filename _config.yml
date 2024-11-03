@@ -25,6 +25,7 @@ author:
   name             : "Zhongchong Lin"
   pronouns         : # example: "she/her"  
   location         : "Fuzhou, China"
+  locations         : "Fuzhou, China"
   employer         : "Fujian Normal University"
   uri              : # URL
   email            : "zclin@fjnu.edu.cn" 
