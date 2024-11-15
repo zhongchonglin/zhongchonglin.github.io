@@ -60,6 +60,13 @@ redirect_from:
           
 </div>
 
+<div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
+  <p><a href="https://www.sciencedirect.com/science/article/abs/pii/S0925838824041495?via%3Dihub">Microwave absorption properties and multilayer absorber design of La<sub>2</sub>Fe<sub>x</sub>Co<sub>14-x</sub>B with easy cone anisotropy</a> <br>
+                <p>Journal of Alloys and Compounds, 2024, 177561.</p>
+                <p style="margin-bottom:0em">
+                Li K, Liu Z, Wang Y, Zhang P, <strong><u>Lin Z</u></strong>, Fan S, Xin T, Du H, Luo Z, Wang C, Yang W*, Yang J*.</p>
+              </p>
+            </div>
 
 <div class="paper-box" style="margin-top:0em">
             <div class="paper-box-image">
