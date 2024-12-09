@@ -18,10 +18,10 @@ redirect_from:
 <p><strong><font color=BLACK>Education and Career：</font></strong></p>
 <p>09/2024 - present  <font color=BLACK><strong>副教授</strong></font></p>
 <p>Associate professor at Fujian Normal University</p>
-<p style="margin-top:-1em">Co-professor：Zhigao Huang </p>
+<p style="margin-top:-0.5em">Co-professor：Zhigao Huang </p>
 <p>09/2019 - 07/2024  <font color=BLACK><strong>硕博连读</strong></font></p>
 <p>PhD in School of Physics, Peking University</p>
-<p style="margin-top:-1em">Co-professor：Jinbo Yang </p>
+<p style="margin-top:-0.5em">Co-professor：Jinbo Yang </p>
 <div style="height: 0.5em;"></div> 
 
 <p style="text-align:justify;text-justify:inter-ideograph;">We  focus on the research on the relationship between the structure and properties of new magnetic functional materials. Utilizing key technologies from large scientific facilities such as neutron scattering and synchrotron radiation, we have made a series of original research achievements and significant advancements in the structural and magnetic studies of permanent magnets, soft magnets, and  two-dimensional magnetic compounds. We have published over 20 papers in internationally renowned journals with Citations > 300, impact factors > 200.</p> 
