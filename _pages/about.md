@@ -16,10 +16,10 @@ redirect_from:
 <div style="height: 0.5em;"></div>
 
 <p><strong><font color=BLACK>Education and Career：</font></strong></p>
-<p style="margin-top:-0.5em">09/2024 - present  <font color=BLACK><strong>副教授</strong></font></p>
+<p style="margin-bottom:-0.5em">09/2024 - present  <font color=BLACK><strong>副教授</strong></font></p>
 <p>Associate professor at Fujian Normal University</p>
 <p style="margin-top:-0.5em">Co-professor：Zhigao Huang </p>
-<p style="margin-top:-0.5em">09/2019 - 07/2024  <font color=BLACK><strong>硕博连读</strong></font></p>
+<p style="margin-bottom:-0.5em">09/2019 - 07/2024  <font color=BLACK><strong>硕博连读</strong></font></p>
 <p>PhD in School of Physics, Peking University</p>
 <p style="margin-top:-0.5em">Co-professor：Jinbo Yang </p>
 <div style="height: 0.5em;"></div> 
