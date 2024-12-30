@@ -62,6 +62,27 @@ redirect_from:
           
 </div>
 
+<div class="paper-box" style="margin-top:0em">
+            <div class="paper-box-image">
+              <div>
+                <div class="badge">Physical Review B</div><img src="images/202412prb.png" alt="sym"
+                  width="100%" />
+              </div>
+            </div>
+            <div class="paper-box-text">
+
+  <p><a href="https://doi.org/10.1103/PhysRevB.110.214442"><p style="text-align:justify;text-justify:inter-ideograph;">Antiferromagnetic ordering and large magnetic entropy in the layered rare-earth oxyhalide DyO⁢𝑋 (𝑋=F,Br)</p></a>
+               <p>Physical Review B, 2024, 110: 214442.</p>
+               <p><strong><u>Lin Z</u><sup>#</sup></strong>, Xie R<sup>#</sup>, Wu B, Peng Y, Ma X, Fan S, Zhou D, Han R, Wang C, Luo Z, Yang W*, Wang F and Yang J*.</p>
+              </p>
+              <ul>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;">Upon nitrogention, the decreased permittivity combines with the increased permeability to promote impedance matching of the composites.</p></li>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;">With the introduction of interstitial nitrogen, the ratio of out-of-plane to in-plane anisotropy field increases and together with enhanced magnetization raises the Snoek limit.</p></li>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;margin-bottom:-0.5em"> The nitrides show thin thickness, strong absorption, broad bandwidth, and high working frequency.</p></li>
+              </ul>
+            </div>
+</div>
+
 <div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
   <p><a href="https://www.sciencedirect.com/science/article/abs/pii/S0925838824041495?via%3Dihub">Microwave absorption properties and multilayer absorber design of La<sub>2</sub>Fe<sub>x</sub>Co<sub>14-x</sub>B with easy cone anisotropy</a> <br>
                 <p>Journal of Alloys and Compounds, 2024, 177561.</p>
