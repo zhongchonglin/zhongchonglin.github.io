@@ -77,7 +77,7 @@ redirect_from:
               </p>
               <ul>
                 <li><p style="text-align:justify;text-justify:inter-ideograph;"> DyOF exhibits an antiferromagnetic ground state below 3.7 K, with a commensurate propagation vector k = (0, 0, 3/2).</p></li>
-                <li><p style="text-align:justify;text-justify:inter-ideograph;">The large magnetic moment, strong magnetic anisotropy, and field-induced metamagnetic transitions observed in DyOX (X = F, Br) magnetic insulators suggest their potential for realizing magnetism in the 2D limit.</p></li>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;">The large magnetic moment, strong magnetic anisotropy, and field-induced metamagnetic transitions observed in DyOX (X = F, Br) magnetic insulators.</p></li>
                 <li><p style="text-align:justify;text-justify:inter-ideograph;margin-bottom:-0.5em"> DyOF demonstrates a superior magnetic refrigeration capacity, with a maximum magnetic entropy change of 25.3 J K<sup>−1</sup> kg<sup>−1</sup> and a relative cooling power of 530.2 J kg<sup>−1</sup> at 7 T, surpassing most vdW layered magnets.</p></li>
               </ul>
             </div>
