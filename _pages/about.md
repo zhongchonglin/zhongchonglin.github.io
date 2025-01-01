@@ -84,7 +84,7 @@ redirect_from:
 </div>
 
 <div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
-  <p><a href="https://doi.org/10.1016/j.jallcom.2024.178352">Effects of Hydrogen Pretreatment on the Nitridation, Microstructure, and Magnetic Properties of Sm<sub>2</sub>Fe<sub>17</sub>N3</a> <br>
+  <p><a href="https://doi.org/10.1016/j.jallcom.2024.178352">Effects of Hydrogen Pretreatment on the Nitridation, Microstructure, and Magnetic Properties of Sm<sub>2</sub>Fe<sub>17</sub>N<sub>3</sub></a> <br>
                 <p>Journal of Alloys and Compounds, 2024, 178352.</p>
                 <p style="margin-bottom:0em">
                 Qian H, Xing M, Han J*, Liang D, <strong><u>Lin Z</u></strong>, Wang Y, Liu F, Zhang P, Zhu T, Tian G, Xu Q, Fang C, Liu S, Yang W, Niu E, Cai D, Rao X, Yang J*, Yang Y.</p>
