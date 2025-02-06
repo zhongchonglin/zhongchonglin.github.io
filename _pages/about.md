@@ -64,7 +64,7 @@ redirect_from:
   <p><a href="https://doi.org/10.1016/j.jallcom.2025.178995">Strategy for Optimizing the Performance of ThMn12-type Sm(Fe<sub>0.8</sub>Co<sub>0.2</sub>)<sub>11</sub>Ti</a> <br>
                 <p>Journal of Alloys and Compounds, 2025, 178995.</p>
                 <p style="margin-bottom:0em">
-                Qian H, Shen P, Fan S, Liang D, Zhu T, Gao Q, <strong><u>Lin Z</u></strong>, Wang Y*, Han J, Luo Z, Du H, Wang C,Liu S, Xia W, Choi C-J, Park J, Yang Y.</p>
+                Qian H, Shen P, Fan S, Liang D, Zhu T, Gao Q, <strong><u>Lin Z</u></strong>, Wang Y*, Han J, Luo Z, Du H, Wang C,Liu S, Xia W, Choi C-J, Park J, Yang J*.</p>
               </p>
             </div>
 
