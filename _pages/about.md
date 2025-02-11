@@ -71,7 +71,7 @@ redirect_from:
 
   <p><a href="https://doi.org/10.1103/PhysRevApplied.23.024027"><p style="text-align:justify;text-justify:inter-ideograph;">Critical behavior and large magnetocaloric properties in a van der Waals ferromagnet Cr⁢Br<sub>3</sub></p></a>
                <p>Physical Review Applied, 2025, 23: 024027.</p>
-               <p><strong><u>Lin Z</u><sup>#</sup></strong>*, Zeng L<sup>#</sup>, Fan S, Zhang L, Chen Y, Yang J*, and Huang Z*.</p>
+               <p><strong><u>Lin Z</u><sup>#</sup></strong>*, Zeng L<sup>#</sup>, Fan S, Zhang L, Chen Y, Yang J* and Huang Z*.</p>
               </p>
               <ul>
                 <li><p style="text-align:justify;text-justify:inter-ideograph;">A comprehensive analysis of critical behavior around the Curie temperature is performed, and the critical exponents of CrBr<sub>3</sub> satisfy the universality class of the tricritical mean-field theory.</p></li>
