@@ -75,8 +75,8 @@ redirect_from:
               </p>
               <ul>
                 <li><p style="text-align:justify;text-justify:inter-ideograph;">A comprehensive analysis of critical behavior around the Curie temperature is performed, and the critical exponents ofCrBr<sub>3</sub> satisfy the universality class of the tricritical mean-field theory.</p></li>
-                <li><p style="text-align:justify;text-justify:inter-ideograph;">Below Curie temperature, we observe a clear first-order phase transition and construct the magnetic phase diagram of CrBr3 crystals.</p></li>
-                <li><p style="text-align:justify;text-justify:inter-ideograph;margin-bottom:-0.5em">A large and anisotropic magnetocaloric effect in CrBr3 crystals is confirmed, underscoring the magnetic cooling application of CrBr<sub>3</sub>. </p></li>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;">Below Curie temperature, we observe a clear first-order phase transition and construct the magnetic phase diagram of CrBr<sub>3</sub> crystals.</p></li>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;margin-bottom:-0.5em">A large and anisotropic magnetocaloric effect in CrBr<sub>3</sub> crystals is confirmed, underscoring the magnetic cooling application of CrBr<sub>3</sub>. </p></li>
               </ul>
             </div>
 </div>
