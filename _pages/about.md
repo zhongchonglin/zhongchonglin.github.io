@@ -30,7 +30,7 @@ redirect_from:
 
 
 ## 🔬 Research interest
-### <font size=3 color=BLACK>Magnetoelectronics(Spintronics) and Control of Physical Properties</font>
+### <font size=3 color=BLACK>Magnetoelectronics (Spintronics) and Control of Physical Properties</font>
 <font size=3 color=BLACK><p style="margin-top:-0.5em"><strong>磁（自旋）电子学与物性调控</strong></p></font>
 <p style="text-align:justify;text-justify:inter-ideograph;">Dedicat to the growth of two-dimensional van der Waals magnets and the study of non-collinear spin order in low-dimensional strongly correlated systems.</p>
 ### <font size=3 color=BLACK>Research on the Structure and High-Frequency Physical Properties of New Magnetic Phases</font>
@@ -40,7 +40,7 @@ redirect_from:
 <font size=3 color=BLACK><p style="margin-top:-0.5em"><strong>新型永磁材料的设计与磁性调控</strong></p></font>
 <p style="text-align:justify;text-justify:inter-ideograph;">Committed to studying new phase structures of permanent magnetic materials and the relationships of intrinsic magnetic parameters.</p>
 ### <font size=3 color=BLACK>Scientific Application of Key Technologies for Intrinsic Structure and Magnetic Detection</font>
-<font size=3 color=BLACK><p style="margin-top:-0.5em"><strong>基于大科学前沿装置结构与磁性探测关键技术的科学应用</strong></p></font>
+<font size=3 color=BLACK><p style="margin-top:-0.5em"><strong>基于大科学前沿装置的结构与磁性探测关键技术的科学应用</strong></p></font>
 <p style="text-align:justify;text-justify:inter-ideograph;">Devoted to utilizing neutron scattering/synchrotron radiation collaborative microanalysis techniques to achieve spin control and structural study under multi-field coupling effects.</p>
 <p></p><br>
 
