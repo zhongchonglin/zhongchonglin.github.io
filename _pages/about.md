@@ -60,6 +60,28 @@ redirect_from:
 <div class="paper-box">     
 </div>
 
+<div class="paper-box" style="margin-top:0em">
+            <div class="paper-box-image">
+              <div>
+                <div class="badge">Physical Review Applied</div><img src="images/2025PRA.png" alt="sym"
+                  width="100%" />
+              </div>
+            </div>
+            <div class="paper-box-text">
+
+  <p><a href="https://doi.org/10.1103/PhysRevApplied.23.024027"><p style="text-align:justify;text-justify:inter-ideograph;">Critical behavior and large magnetocaloric properties in a van der Waals ferromagnet Cr⁢Br<sub>3</sub></p></a>
+               <p>Physical Review Applied, 2025, 23: 024027.</p>
+               <p><strong><u>Lin Z</u><sup>#</sup></strong>*, Zeng L<sup>#</sup>, Fan S, Zhang L, Chen Y, Yang J*, and Huang Z*.</p>
+              </p>
+              <ul>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;">A comprehensive analysis of critical behavior around the Curie temperature is performed, and the critical exponents ofCrBr<sub>3</sub> satisfy the universality class of the tricritical mean-field theory.</p></li>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;">Below Curie temperature, we observe a clear first-order phase transition and construct the magnetic phase diagram of CrBr3 crystals.</p></li>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;margin-bottom:-0.5em">A large and anisotropic magnetocaloric effect in CrBr3 crystals is confirmed, underscoring the magnetic cooling application of CrBr<sub>3</sub>. </p></li>
+              </ul>
+            </div>
+</div>
+
+
 <div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
   <p><a href="https://doi.org/10.1016/j.jallcom.2025.178995">Strategy for Optimizing the Performance of ThMn<sub>12</sub>-type Sm(Fe<sub>0.8</sub>Co<sub>0.2</sub>)<sub>11</sub>Ti</a> <br>
                 <p>Journal of Alloys and Compounds, 2025, 178995.</p>
