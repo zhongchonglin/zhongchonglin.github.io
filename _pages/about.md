@@ -59,7 +59,14 @@ redirect_from:
 
 <div class="paper-box">     
 </div>
-
+<div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
+  <p><a href="https://doi.org/10.1016/j.physb.2025.417113">Neutron diffraction and critical behavior study on (Mn, Co)<sub>2</sub>Sn single crystals</a> <br>
+                <p>Physica B: Condensed Matter, 2025, 417113.</p>
+                <p style="margin-bottom:0em">
+                Fan S, Wu B, Ma X, Gao J, Liu Z, Yang W, <strong><u>Lin Z</u></strong>, Li Y, Luo Z, Wang C, Liu S, Chen D, Yang J* and Du H*.</p>
+              </p>
+            </div>
+          
 <div class="paper-box" style="margin-top:0em">
             <div class="paper-box-image">
               <div>
@@ -86,7 +93,7 @@ redirect_from:
   <p><a href="https://doi.org/10.1016/j.jallcom.2025.178995">Strategy for Optimizing the Performance of ThMn<sub>12</sub>-type Sm(Fe<sub>0.8</sub>Co<sub>0.2</sub>)<sub>11</sub>Ti</a> <br>
                 <p>Journal of Alloys and Compounds, 2025, 178995.</p>
                 <p style="margin-bottom:0em">
-                Qian H, Shen P, Fan S, Liang D, Zhu T, Gao Q, <strong><u>Lin Z</u></strong>, Wang Y*, Han J, Luo Z, Du H, Wang C,Liu S, Xia W, Choi C-J, Park J, Yang J*.</p>
+                Qian H, Shen P, Fan S, Liang D, Zhu T, Gao Q, <strong><u>Lin Z</u></strong>, Wang Y*, Han J, Luo Z, Du H, Wang C,Liu S, Xia W, Choi C-J, Park J and Yang J*.</p>
               </p>
             </div>
 
