@@ -417,8 +417,7 @@ redirect_from:
 
 ## 📷️ Pictures <a id="pictures"></a>
 * <font size=3 color=BLACK>>2025 New Year, Pro. Huang Lab </font>
- <div class="badge">2025 New Year, Pro. Huang Lab</div><img src="images/202501.png" alt="sym"
-                  width="30%" />
+<img src="images/202501.png" alt="sym" width="30%" />
 
 <p></p><br>
 
