@@ -435,7 +435,7 @@ redirect_from:
             </div>
  <p><a>Magnetic structure and metamagnetic transitions in the van der Waals antiferromagnet CrPS<sub>4</sub></a> <br>
             <div class="paper-box-text">
-
+            </div>
 
 
 ## 🔗 Links <a id="links"> </a>
