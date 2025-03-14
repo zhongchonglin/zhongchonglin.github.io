@@ -417,14 +417,23 @@ redirect_from:
 
 ## 📷️ Pictures <a id="pictures"></a>
 <div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
-  <p><a>Magnetic structure and metamagnetic transitions in the van der Waals antiferromagnet CrPS<sub>4</sub></a> <br>
+  <p><a>2025 New Year, Pro. Huang Lab</a> <br>
             <div class="paper-box-image">
               <div>
                 <div class="badge">2025 New Year, Pro. Huang Lab</div><img src="images/202501.png" alt="sym"
-                  width="50%" />
+                  width="30%" />
               </div>
 <p></p><br>
 
 ## 🔗 Links <a id="links"> </a>
 <!--* AAAA(怎么点击就到网页呢，比如到百度) 这是一个链接 [菜鸟教程](https://www.runoob.com)
 * BBBB-->
+
+## 🗣️ Members <a id="members"></a>
+* <font size=3 color=BLACK>Liqiang Zeng (曾力强)    2024 PhD Student</font>
+<p style="margin-top:-0.5em">Exploration of Two-Dimensional Magnetic Materials</p>
+* <font size=3 color=BLACK>Yucheng Ye (叶宇城)     2024 Master Student</font>
+<p style="margin-top:-0.5em">Exploration of Two-Dimensional Magnetic Materials</p>
+* <font size=3 color=BLACK>Jinhuan He (何金桓)     2021 Undergraduate Student</font>
+<p style="margin-top:-0.5em">Exploration of Two-Dimensional Magnetic Materials</p>
+<p></p><br>
