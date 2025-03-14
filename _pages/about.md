@@ -416,16 +416,6 @@ redirect_from:
 ## 🎓️ Alumni  <a id="alumni"> </a>
 
 ## 📷️ Pictures <a id="pictures"></a>
-<div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
-  <p><a>Magnetic structure and metamagnetic transitions in the van der Waals antiferromagnet CrPS<sub>4</sub></a> <br>
-            <div class="paper-box-image">
-              <div>
-                <div class="badge">2025 New Year, Pro. Huang Lab</div><img src="images/202501.png" alt="sym"
-                  width="100%" />
-              </div>
-
-
-            </div>
 <div class="paper-box" style="margin-top:0em">
             <div class="paper-box-image">
               <div>
@@ -433,7 +423,7 @@ redirect_from:
                   width="100%" />
               </div>
             </div>
- <p><a>Magnetic structure and metamagnetic transitions in the van der Waals antiferromagnet CrPS<sub>4</sub></a> <br>
+ <p><a>2025 New Year, Pro. Huang Lab</a> <br>
             <div class="paper-box-text">
             </div>
 
