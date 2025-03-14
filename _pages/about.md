@@ -416,17 +416,13 @@ redirect_from:
 ## 🎓️ Alumni  <a id="alumni"> </a>
 
 ## 📷️ Pictures <a id="pictures"></a>
+* <font size=3 color=BLACK>>2025 New Year, Pro. Huang Lab </font>
+ <div class="badge">2025 New Year, Pro. Huang Lab</div><img src="images/202501.png" alt="sym"
+                  width="30%" />
+
+<p></p><br>
 
 
 ## 🔗 Links <a id="links"> </a>
 <!--* AAAA(怎么点击就到网页呢，比如到百度) 这是一个链接 [菜鸟教程](https://www.runoob.com)
 * BBBB-->
-
-## 🗣️ Members <a id="members"></a>
-* <font size=3 color=BLACK>Liqiang Zeng (曾力强)    2024 PhD Student</font>
-<p style="margin-top:-0.5em">Exploration of Two-Dimensional Magnetic Materials</p>
-* <font size=3 color=BLACK>Yucheng Ye (叶宇城)     2024 Master Student</font>
-<p style="margin-top:-0.5em">Exploration of Two-Dimensional Magnetic Materials</p>
-* <font size=3 color=BLACK>Jinhuan He (何金桓)     2021 Undergraduate Student</font>
-<p style="margin-top:-0.5em">Exploration of Two-Dimensional Magnetic Materials</p>
-<p></p><br>
