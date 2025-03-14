@@ -420,7 +420,7 @@ redirect_from:
   <img src="images/202501.png" 
        alt="2025 New Year Celebration at Pro. Huang Lab"
        style="width: 30%; display: block; margin: 0 auto;">
-</div>
+       </div>
 
 ## 🔗 Links <a id="links"> </a>
 <!--* AAAA(怎么点击就到网页呢，比如到百度) 这是一个链接 [菜鸟教程](https://www.runoob.com)
