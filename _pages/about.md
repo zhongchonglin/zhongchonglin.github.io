@@ -416,7 +416,8 @@ redirect_from:
 ## 🎓️ Alumni  <a id="alumni"> </a>
 
 ## 📷️ Pictures <a id="pictures"></a>
-<img src="images/202501.png" alt="sym" width="100%" />>
+* <font size=3 color=BLACK>2025 New Year, Pro. Huang Lab</font>
+<img src="images/202501.png" alt="sym" width="50%" />
 
 
 ## 🔗 Links <a id="links"> </a>
