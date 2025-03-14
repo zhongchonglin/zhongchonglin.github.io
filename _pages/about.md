@@ -416,21 +416,10 @@ redirect_from:
 ## 🎓️ Alumni  <a id="alumni"> </a>
 
 ## 📷️ Pictures <a id="pictures"></a>
-* <font size=3 color=BLACK>>2025 New Year, Pro. Huang Lab </font>
-<div class="paper-box">
-</div>
-
-<div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
-  <p><a>2025 New Year, Pro. Huang Lab</a> <br>
-            <div class="paper-box-image">
-              <div>
-                <img src="images/202501.png" alt="sym"
-                  width="30%" />
-              </div>
-<p></p><br>
+<!--怎么加图片
+![alt 属性文本](/images/500x300.png)-->
 
 
 ## 🔗 Links <a id="links"> </a>
 <!--* AAAA(怎么点击就到网页呢，比如到百度) 这是一个链接 [菜鸟教程](https://www.runoob.com)
 * BBBB-->
-
