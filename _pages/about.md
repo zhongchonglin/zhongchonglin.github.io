@@ -423,8 +423,6 @@ redirect_from:
                 <div class="badge">2025 New Year, Pro. Huang Lab</div><img src="images/202501.png" alt="sym"
                   width="50%" />
               </div>
-
-
 <p></p><br>
 
 ## 🔗 Links <a id="links"> </a>
