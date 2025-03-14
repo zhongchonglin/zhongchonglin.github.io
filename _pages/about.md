@@ -416,10 +416,15 @@ redirect_from:
 ## 🎓️ Alumni  <a id="alumni"> </a>
 
 ## 📷️ Pictures <a id="pictures"></a>
+
 <div class="paper-box" style="margin-top:0em">
             <div class="paper-box-image">
+              <div>
+                <div class="badge"></div><img src="images/202501.png" alt="sym"
+                  width="100%" />
+              </div>
             </div>
- <p>2025 New Year, Pro. Huang Lab <br>
+ <p><a>2025 New Year, Pro. Huang Lab<sub>4</sub></a> <br>
             <div class="paper-box-text">
 
 
