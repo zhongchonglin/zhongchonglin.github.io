@@ -416,8 +416,11 @@ redirect_from:
 ## 🎓️ Alumni  <a id="alumni"> </a>
 
 ## 📷️ Pictures <a id="pictures"></a>
-* <font size=3 color=BLACK>2025 New Year, Pro. Huang Lab </font>
-<img src="images/202501.png" alt="sym" width="50%" />
+<div style="width: 800px;"> <!-- 父容器定义宽度 -->
+  <img src="images/202501.png" 
+       alt="2025 New Year Celebration at Pro. Huang Lab"
+       style="width: 30%; display: block; margin: 0 auto;">
+</div>
 
 <p></p><br>
 
