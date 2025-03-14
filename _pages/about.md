@@ -416,8 +416,6 @@ redirect_from:
 ## 🎓️ Alumni  <a id="alumni"> </a>
 
 ## 📷️ Pictures <a id="pictures"></a>
-<
-[alt 属性文本](/images/500x300.png)-->
 
 <div class="badge">Journal of Magnetism and Magnetic Materials</div><img src="images/202501.png" alt="sym"
 
