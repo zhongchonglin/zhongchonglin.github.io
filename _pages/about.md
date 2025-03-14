@@ -416,7 +416,7 @@ redirect_from:
 ## 🎓️ Alumni  <a id="alumni"> </a>
 
 ## 📷️ Pictures <a id="pictures"></a>
-</images/202501.png>
+<img src="images/202501.png" alt="sym" width="100%" />>
 
 
 ## 🔗 Links <a id="links"> </a>
