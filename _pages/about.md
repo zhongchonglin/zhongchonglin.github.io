@@ -417,9 +417,14 @@ redirect_from:
 
 ## 📷️ Pictures <a id="pictures"></a>
 
-<div class="badge">Journal of Magnetism and Magnetic Materials</div><img src="images/202501.png" alt="sym"
-
-
+<div class="paper-box" style="margin-top:0em">
+            <div class="paper-box-image">
+              <div>
+                <div class="badge">2025 New Year, Pro. Huang Lab</div><img src="images/202501.png" alt="sym"
+                  width="100%" />
+              </div>
+            </div>
+            <div class="paper-box-text">
 
 
 
