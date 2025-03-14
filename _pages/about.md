@@ -416,8 +416,8 @@ redirect_from:
 ## 🎓️ Alumni  <a id="alumni"> </a>
 
 ## 📷️ Pictures <a id="pictures"></a>
-<!--怎么加图片
-![alt 属性文本](/images/500x300.png)-->
+<
+[alt 属性文本](/images/500x300.png)-->
 
 
 ## 🔗 Links <a id="links"> </a>
