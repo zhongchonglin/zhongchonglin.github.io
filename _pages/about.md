@@ -424,10 +424,7 @@ redirect_from:
                   width="100%" />
               </div>
             </div>
+ <p><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202001200">Magnetic structure and metamagnetic transitions in the van der Waals antiferromagnet CrPS<sub>4</sub></a> <br>
             <div class="paper-box-text">
-
-
-
-## 🔗 Links <a id="links"> </a>
 <!--* AAAA(怎么点击就到网页呢，比如到百度) 这是一个链接 [菜鸟教程](https://www.runoob.com)
 * BBBB-->
