@@ -421,7 +421,7 @@ redirect_from:
             <div class="paper-box-image">
               <div>
                 <div class="badge">2025 New Year, Pro. Huang Lab</div><img src="images/202501.png" alt="sym"
-                  width="100%" />
+                  width="50%" />
               </div>
 
 
