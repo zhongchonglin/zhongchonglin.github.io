@@ -424,7 +424,6 @@ redirect_from:
                   width="100%" />
               </div>
             </div>
-            <div class="paper-box-text">
 </div>
 <p></p><br>
 
