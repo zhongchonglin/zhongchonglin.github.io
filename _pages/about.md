@@ -60,13 +60,25 @@ redirect_from:
 <div class="paper-box">     
 </div>
 <div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
+  <p><a href="https://doi.org/10.1016/j.jallcom.2025.179883">Study on the structure and magnetic properties of novel ThMn<sub>12</sub>-type (Y, Hf)(Fe, Mo)<sub>12</sub> compounds
+                <p>Journal of Alloys and Compounds, 2025, 179883.</p>
+                <p style="margin-bottom:0em">
+                Fan S, Wu B, Ma X, <strong><u>Lin Z</u></strong>, Qian H, Yang W, Ma X, Xin T, Luo Z, Wang C, Du H*, Yang J* and Yang Y*.</p>
+              </p>
+            </div>
+
+
+<div class="paper-box">     
+</div>
+<div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
   <p><a href="https://doi.org/10.1016/j.physb.2025.417113">Neutron diffraction and critical behavior study on (Mn, Co)<sub>2</sub>Sn single crystals</a> <br>
                 <p>Physica B: Condensed Matter, 2025, 417113.</p>
                 <p style="margin-bottom:0em">
                 Fan S, Wu B, Ma X, Gao J, Liu Z, Yang W, <strong><u>Lin Z</u></strong>, Li Y, Luo Z, Wang C, Liu S, Chen D, Yang J* and Du H*.</p>
               </p>
             </div>
-          
+
+
 <div class="paper-box" style="margin-top:0em">
             <div class="paper-box-image">
               <div>
