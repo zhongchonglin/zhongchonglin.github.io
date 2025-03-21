@@ -68,8 +68,6 @@ redirect_from:
             </div>
 
 
-<div class="paper-box">     
-</div>
 <div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
   <p><a href="https://doi.org/10.1016/j.physb.2025.417113">Neutron diffraction and critical behavior study on (Mn, Co)<sub>2</sub>Sn single crystals</a> <br>
                 <p>Physica B: Condensed Matter, 2025, 417113.</p>
