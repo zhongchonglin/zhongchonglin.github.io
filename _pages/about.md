@@ -59,7 +59,7 @@ redirect_from:
 
 
 <div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
-  <p><a href="https://www.nature.com/articles/s41467-025-58306-3">Spin Seebeck in the weakly exchange-coupled Van der Waals antiferromagnet across the spin-flip transition
+  <p><a href="https://www.nature.com/articles/s41467-025-58306-3">Spin Seebeck in the weakly exchange-coupled Van der Waals antiferromagnet across the spin-flip transition</a> <br>
                 <p>Nature Communications, 2025, 16: 3037.</p>
                 <p style="margin-bottom:0em">
                 He X, Ding S*, Giil H.G., Wang J, Bhukta M, Wu X, Shi W, <strong><u>Lin Z</u></strong>, Liang Z, Yang J*, Kläui M, Brataas A, Hou Y* and Wu R*.</p>
@@ -68,7 +68,7 @@ redirect_from:
 
 
 <div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
-  <p><a href="https://doi.org/10.1016/j.jallcom.2025.179883">Study on the structure and magnetic properties of novel ThMn<sub>12</sub>-type (Y, Hf)(Fe, Mo)<sub>12</sub> compounds
+  <p><a href="https://doi.org/10.1016/j.jallcom.2025.179883">Study on the structure and magnetic properties of novel ThMn<sub>12</sub>-type (Y, Hf)(Fe, Mo)<sub>12</sub> compounds</a> <br>
                 <p>Journal of Alloys and Compounds, 2025, 179883.</p>
                 <p style="margin-bottom:0em">
                 Fan S, Wu B, Ma X, <strong><u>Lin Z</u></strong>, Qian H, Yang W, Ma X, Xin T, Luo Z, Wang C, Du H*, Yang J* and Yang Y*.</p>
