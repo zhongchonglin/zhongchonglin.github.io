@@ -69,8 +69,6 @@ redirect_from:
             </div>
 
 
-<div class="paper-box">     
-</div>
 <div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
   <p><a href="https://doi.org/10.1016/j.jallcom.2025.179883">Study on the structure and magnetic properties of novel ThMn<sub>12</sub>-type (Y, Hf)(Fe, Mo)<sub>12</sub> compounds
                 <p>Journal of Alloys and Compounds, 2025, 179883.</p>
