@@ -58,8 +58,6 @@ redirect_from:
 </div>
 
 
-<div class="paper-box">     
-</div>
 <div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
   <p><a href="https://www.nature.com/articles/s41467-025-58306-3">Spin Seebeck in the weakly exchange-coupled Van der Waals antiferromagnet across the spin-flip transition
                 <p>Nature Communications, 2025, 16: 3037.</p>
