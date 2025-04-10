@@ -45,11 +45,14 @@ redirect_from:
 <p></p><br>
 
 ## 🔥 News <a id="news"> </a>
- <font size=3 color=BLACK><strong>2024</strong></font>
+ <font size=3 color=BLACK><strong>2025</strong></font>
 * Apr. 2025. 🎉Welcome our new group member Yulin Chen (陈俞霖)!
 * Mar. 2025. 🎉Welcome our new project student Luozhao Zhang (张罗钊) from Fudan Univ.!
 * Mar. 2025. 🎉Welcome our new group member Zuli Lin (林祖利)!
 * Mar. 2025. 🎉Welcome our new group member Shuyi Deng (邓舒怡)!
+* Feb. 2025.  Our Cr⁢Br<sub>3</sub> work was published by Physical Review Applied.
+  相关报导：https://www.fjnu.edu.cn/3d/42/c6980a408898/page.htm
+ <font size=3 color=BLACK><strong>2024</strong></font>
 * Sept. 2024. 🎉Welcome our new group member Jinhuan He (何金桓)!
 * Sept. 2024. 🎉Welcome our new group member Yucheng Ye (叶宇城)!
 * July  2024. 🎉Welcome our new group member Liqiang Zeng (曾力强)!
