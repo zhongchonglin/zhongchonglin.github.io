@@ -50,8 +50,8 @@ redirect_from:
 * Mar. 2025. 🎉Welcome our new project student Luozhao Zhang (张罗钊) from Fudan Univ.!
 * Mar. 2025. 🎉Welcome our new group member Zuli Lin (林祖利)!
 * Mar. 2025. 🎉Welcome our new group member Shuyi Deng (邓舒怡)!
-* <font color=BLACK>Feb. 2025.  Our Cr⁢Br<sub>3</sub> work was published by <strong>Physical Review Applied</strong>.
-<p style="margin-bottom:-1em">相关报导：https://www.fjnu.edu.cn/3d/42/c6980a408898/page.htm</p></font>
+* <font color=BLACK>Feb. 2025.  Our Cr⁢Br<sub>3</sub> work was published by <strong>Physical Review Applied</strong>.</font>
+<p style="margin-bottom:-1em" color=BLACK>相关报导：https://www.fjnu.edu.cn/3d/42/c6980a408898/page.htm</p></font>
  <font size=3 color=BLACK><strong>2024</strong></font>
 * Sept. 2024. 🎉Welcome our new group member Jinhuan He (何金桓)!
 * Sept. 2024. 🎉Welcome our new group member Yucheng Ye (叶宇城)!
