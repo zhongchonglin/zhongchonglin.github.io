@@ -430,13 +430,7 @@ redirect_from:
 <p></p><br>
 
 ## 🗣️ Members <a id="members"></a>
-* <font size=3 color=BLACK>Liqiang Zeng (曾力强)    2024 PhD Student</font> <p style="text-indent: 2em">Exploration of Two-Dimensional Magnetic Materials</p>
-
-
-
-
-
-
+* <font size=3 color=BLACK>Liqiang Zeng (曾力强)    2024 PhD Student</font>
 <p style="margin-top:-0.5em">Exploration of Two-Dimensional Magnetic Materials</p>
 * <font size=3 color=BLACK>Yucheng Ye (叶宇城)     2024 Master Student</font>
 <p style="margin-top:-0.5em">Exploration of Two-Dimensional Magnetic Materials</p>
