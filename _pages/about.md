@@ -46,6 +46,10 @@ redirect_from:
 
 ## 🔥 News <a id="news"> </a>
  <font size=3 color=BLACK><strong>2024</strong></font>
+* Apr. 2025. 🎉Welcome our new group member Yulin Chen (陈俞霖)!
+* Mar. 2025. 🎉Welcome our new project student Luozhao Zhang (张罗钊) from Fudan Univ.!
+* Mar. 2025. 🎉Welcome our new group member Zuli Lin (林祖利)!
+* Mar. 2025. 🎉Welcome our new group member Shuyi Deng (邓舒怡)!
 * Sept. 2024. 🎉Welcome our new group member Jinhuan He (何金桓)!
 * Sept. 2024. 🎉Welcome our new group member Yucheng Ye (叶宇城)!
 * July  2024. 🎉Welcome our new group member Liqiang Zeng (曾力强)!
@@ -111,7 +115,7 @@ redirect_from:
   <p><a href="https://doi.org/10.1016/j.jallcom.2025.178995">Strategy for Optimizing the Performance of ThMn<sub>12</sub>-type Sm(Fe<sub>0.8</sub>Co<sub>0.2</sub>)<sub>11</sub>Ti</a> <br>
                 <p>Journal of Alloys and Compounds, 2025, 178995.</p>
                 <p style="margin-bottom:0em">
-                Qian H, Shen P, Fan S, Liang D, Zhu T, Gao Q, <strong><u>Lin Z</u></strong>, Wang Y*, Han J, Luo Z, Du H, Wang C,Liu S, Xia W, Choi C-J, Park J and Yang J*.</p>
+                Qian H, Shen P, Fan S, Liang D, Zhu T, Gao Q, <strong><u>Lin Z</u></strong>, Wang Y*, Han J, Luo Z, Du H, Wang C, Liu S, Xia W, Choi C-J, Park J and Yang J*.</p>
               </p>
             </div>
 
@@ -149,7 +153,7 @@ redirect_from:
   <p><a href="https://doi.org/10.1016/j.jallcom.2024.178352">Effects of Hydrogen Pretreatment on the Nitridation, Microstructure, and Magnetic Properties of Sm<sub>2</sub>Fe<sub>17</sub>N<sub>3</sub></a> <br>
                 <p>Journal of Alloys and Compounds, 2024, 178352.</p>
                 <p style="margin-bottom:0em">
-                Qian H, Xing M, Han J*, Liang D, <strong><u>Lin Z</u></strong>, Wang Y, Liu F, Zhang P, Zhu T, Tian G, Xu Q, Fang C, Liu S, Yang W, Niu E, Cai D, Rao X, Yang J*, Yang Y.</p>
+                Qian H, Xing M, Han J*, Liang D, <strong><u>Lin Z</u></strong>, Wang Y, Liu F, Zhang P, Zhu T, Tian G, Xu Q, Fang C, Liu S, Yang W, Niu E, Cai D, Rao X, Yang J* and Yang Y.</p>
               </p>
             </div>
 
@@ -428,8 +432,19 @@ redirect_from:
 * <font size=3 color=BLACK>Yucheng Ye (叶宇城)     2024 Master Student</font>
 <p style="margin-top:-0.5em">Exploration of Two-Dimensional Magnetic Materials</p>
 * <font size=3 color=BLACK>Jinhuan He (何金桓)     2021 Undergraduate Student</font>
-<p style="margin-top:-0.5em">Exploration of Two-Dimensional Magnetic Materials</p>
+<p style="margin-top:-0.5em">Exploration of Two-Dimensional Magnetic Semiconductor</p>
+* <font size=3 color=BLACK>Shuyi Deng (邓舒怡)     2024 Undergraduate Student</font>
+<p style="margin-top:-0.5em">Growth of Two-Dimensional Magnetic single crystal</p>
+* <font size=3 color=BLACK>Zuli Lin (林祖利)     2024 Undergraduate Student</font>
+<p style="margin-top:-0.5em">Growth of Two-Dimensional Magnetic single crystal</p>
+* <font size=3 color=BLACK>Luozhao Zhang (张罗昭)     2022 PhD Student from Fudan Univ.</font>
+<p style="margin-top:-0.5em">Exploration of Near Room-temperature Two-Dimensional Magnetic Materials</p>
+* <font size=3 color=BLACK>Yulin Chen (陈俞霖)     2024 Undergraduate Student</font>
+<p style="margin-top:-0.5em">Exploration of Intercalated Two-Dimensional Magnetic Materials</p>
 <p></p><br>
+
+
+
 
 ## 🎓️ Alumni  <a id="alumni"> </a>
 
