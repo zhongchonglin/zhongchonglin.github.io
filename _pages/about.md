@@ -431,7 +431,10 @@ redirect_from:
 
 ## 🗣️ Members <a id="members"></a>
 * <font size=3 color=BLACK>Liqiang Zeng (曾力强)    2024 PhD Student</font>     <p style="margin-top:-0.5em">Exploration of Two-Dimensional Magnetic Materials</p>
-<p style="margin-top:-1em; text-indent: 2em">
+
+
+
+
 
 
 
