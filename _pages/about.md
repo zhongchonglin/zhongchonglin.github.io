@@ -430,20 +430,20 @@ redirect_from:
 <p></p><br>
 
 ## 🗣️ Members <a id="members"></a>
-* <p size=3 color=BLACK>Liqiang Zeng (曾力强)    2024 PhD Student</p>
-<p style="text-indent: 2em">Exploration of Two-Dimensional Magnetic Materials</p>
+* <font size=3 color=BLACK>Liqiang Zeng (曾力强)    2024 PhD Student</font>
+<p style="margin-top:-1em; text-indent: 2em">Exploration of Two-Dimensional Magnetic Materials</p>
 * <font size=3 color=BLACK>Yucheng Ye (叶宇城)     2024 Master Student</font>
-<p style="margin-top:-0.5em">Exploration of Two-Dimensional Magnetic Materials</p>
+<p style="margin-top:-1em; text-indent: 2em">Exploration of Two-Dimensional Magnetic Materials</p>
 * <font size=3 color=BLACK>Jinhuan He (何金桓)     2021 Undergraduate Student</font>
-<p style="margin-top:-0.5em">Exploration of Two-Dimensional Magnetic Semiconductor</p>
+<p style="margin-top:-1em; text-indent: 2em">Exploration of Two-Dimensional Magnetic Semiconductor</p>
 * <font size=3 color=BLACK>Shuyi Deng (邓舒怡)     2024 Undergraduate Student</font>
-<p style="margin-top:-0.5em">Growth of Two-Dimensional Magnetic single crystal</p>
+<p style="margin-top:-1em; text-indent: 2em">Growth of Two-Dimensional Magnetic single crystal</p>
 * <font size=3 color=BLACK>Zuli Lin (林祖利)     2024 Undergraduate Student</font>
-<p style="margin-top:-0.5em">Growth of Two-Dimensional Magnetic single crystal</p>
+<p style="margin-top:-1em; text-indent: 2em">Growth of Two-Dimensional Magnetic single crystal</p>
 * <font size=3 color=BLACK>Luozhao Zhang (张罗昭)     2022 PhD Student from Fudan Univ.</font>
-<p style="margin-top:-0.5em">Exploration of Near Room-temperature Two-Dimensional Magnetic Materials</p>
+<p style="margin-top:-1em; text-indent: 2em">Exploration of Near Room-temperature Two-Dimensional Magnetic Materials</p>
 * <font size=3 color=BLACK>Yulin Chen (陈俞霖)     2024 Undergraduate Student</font>
-<p style="margin-top:-0.5em">Exploration of Intercalated Two-Dimensional Magnetic Materials</p>
+<p style="margin-top:-1em; text-indent: 2em">Exploration of Intercalated Two-Dimensional Magnetic Materials</p>
 <p></p><br>
 
 
