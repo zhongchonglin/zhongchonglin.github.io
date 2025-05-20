@@ -469,6 +469,17 @@ redirect_from:
 ## 🎓️ Alumni  <a id="alumni"> </a>
 
 ## 📷️ Pictures <a id="pictures"></a>
+* <font size=3 color=BLACK>2025 Spring outing, Pro. Huang Lab</font>
+<div class="paper-box" style="margin-top:0em">
+            <div class="paper-box-image">
+              <div>
+                <img src="images/202505.png" alt="sym"
+                  width="100%" />
+              </div>
+            </div>
+</div>
+<p></p><br>
+
 * <font size=3 color=BLACK>2025 New Year, Pro. Huang Lab</font>
 <div class="paper-box" style="margin-top:0em">
             <div class="paper-box-image">
@@ -480,16 +491,6 @@ redirect_from:
 </div>
 <p></p><br>
 
-* <font size=3 color=BLACK>2025 Spring outing, Pro. Huang Lab</font>
-<div class="paper-box" style="margin-top:0em">
-            <div class="paper-box-image">
-              <div>
-                <img src="images/202505.png" alt="sym"
-                  width="100%" />
-              </div>
-            </div>
-</div>
-<p></p><br>
 
 ## 🔗 Links <a id="links"> </a>
 <!--* AAAA(怎么点击就到网页呢，比如到百度) 这是一个链接 [菜鸟教程](https://www.runoob.com)
