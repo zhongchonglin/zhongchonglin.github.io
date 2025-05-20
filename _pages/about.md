@@ -64,6 +64,23 @@ redirect_from:
 <div class="paper-box">
 </div>
 
+<div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
+  <p><a href="https://doi.org/10.1016/j.jallcom.2025.180673">Intrinsic magnetic and microwave absorbing properties of 3:29-type Nd<sub>2.7</sub>Zr<sub>0.3</sub>(Fe, Ti)<sub>29</sub> compounds with planar anisotropy</a> <br>
+                <p>Journal of Alloys and Compounds, 2025, 180956.</p>
+                <p style="margin-bottom:0em">
+                Fan S, Wang Y, Li K, <strong><u>Lin Z</u></strong>, Xin T, Yang W, Ma X, Liu Z, Wang C, Han J, Xu Q, Du H*, Yang J* and Yang Y*.</p>
+              </p>
+            </div>
+
+
+<div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
+  <p><a href="https://doi.org/10.1016/j.jallcom.2025.180673">Effects of Si substitution on the magnetic and microwave absorbing properties of Y<sub>2</sub>Fe<sub>17-x</sub>Si<sub>x</sub> and their composites</a> <br>
+                <p>Journal of Alloys and Compounds, 2025, 180673.</p>
+                <p style="margin-bottom:0em">
+                Zhang P, Wang Y,<strong><u>Lin Z</u></strong>, Sun X, Li K, Qian H, Tang S, Liang Z, Yun C, Li G, Ma X, Yang W*, Wang C* and Yang J*.</p>
+              </p>
+            </div>
+
 
 <div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
   <p><a href="https://www.nature.com/articles/s41467-025-58306-3">Spin Seebeck in the weakly exchange-coupled Van der Waals antiferromagnet across the spin-flip transition</a> <br>
