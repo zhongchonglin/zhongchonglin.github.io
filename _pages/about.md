@@ -480,6 +480,17 @@ redirect_from:
 </div>
 <p></p><br>
 
+* <font size=3 color=BLACK>2025 Preliminary Defense for Bachelor's Students</font>
+<div class="paper-box" style="margin-top:0em">
+            <div class="paper-box-image">
+              <div>
+                <img src="images/202504.png" alt="sym"
+                  width="100%" />
+              </div>
+            </div>
+</div>
+<p></p><br>
+
 * <font size=3 color=BLACK>2025 New Year, Pro. Huang Lab</font>
 <div class="paper-box" style="margin-top:0em">
             <div class="paper-box-image">
