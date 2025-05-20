@@ -494,4 +494,6 @@ redirect_from:
 
 ## 🔗 Links <a id="links"> </a>
 * [Pro. Huang Lab](https://www.x-mol.com/groups/zhigao_huang)
-* BBBB-->
+* [College of Physics and Energy, Fujian Normal University](https://cpe.fjnu.edu.cn/main.htm)
+* [Center of Magnetism and Magnetics, Peking University](https://cmmm.pku.edu.cn/index.htm)
+
