@@ -64,18 +64,26 @@ redirect_from:
 <div class="paper-box">
 </div>
 
+
 <div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
-  <p><a href="https://doi.org/10.1016/j.jallcom.2025.180673">Intrinsic magnetic and microwave absorbing properties of 3:29-type Nd<sub>2.7</sub>Zr<sub>0.3</sub>(Fe, Ti)<sub>29</sub> compounds with planar anisotropy</a> <br>
-                <p>Journal of Alloys and Compounds, 2025, 180956.</p>
+  <p><a href="https://doi.org/10.1063/5.0280231">
+  Intrinsic magnetic properties and domain structure of ThMn<sub>12</sub>-type (Sm,Zr)(Fe, Co,M)<sub>12</sub>  (M = Ti,Mo) compounds</a> <br>
+                <p>Applied Physics Letters, 2025, 127: 022403.</p>
                 <p style="margin-bottom:0em">
-                Fan S, Wang Y, Li K, <strong><u>Lin Z</u></strong>, Xin T, Yang W, Ma X, Liu Z, Wang C, Han J, Xu Q, Du H*, Yang J* and Yang Y*.</p>
+                Fan S<sup>#</sup>, <strong><u>Lin Z</u><sup>#</sup></strong>, Wu B, Qian H, Ma X, Yang W, Fang X, Xu Q, Han J, Du H*, Yang J* and Yang Y*.</p>
               </p>
             </div>
 
+<div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
+  <p><a href="https://doi.org/10.1016/j.jallcom.2025.180956">Intrinsic magnetic and microwave absorbing properties of 3:29-type Nd<sub>2.7</sub>Zr<sub>0.3</sub>(Fe, Ti)<sub>29</sub> compounds with planar anisotropy</a> <br>
+                <p>Journal of Alloys and Compounds, 2025, 1030: 180956.</p>
+                <p style="margin-bottom:0em">
+                Fan S, Wang Y, Li K, <strong><u>Lin Z</u></strong>, Xin T, Yang W, Ma X, Liu Z, Wang C, Han J, Xu Q, Du H*, Yang J* and Yang Y*.</p>
+              </p>
 
 <div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
   <p><a href="https://doi.org/10.1016/j.jallcom.2025.180673">Effects of Si substitution on the magnetic and microwave absorbing properties of Y<sub>2</sub>Fe<sub>17-x</sub>Si<sub>x</sub> and their composites</a> <br>
-                <p>Journal of Alloys and Compounds, 2025, 180673.</p>
+                <p>Journal of Alloys and Compounds, 2025, 1031: 180673.</p>
                 <p style="margin-bottom:0em">
                 Zhang P, Wang Y,<strong><u>Lin Z</u></strong>, Sun X, Li K, Qian H, Tang S, Liang Z, Yun C, Li G, Ma X, Yang W*, Wang C* and Yang J*.</p>
               </p>
