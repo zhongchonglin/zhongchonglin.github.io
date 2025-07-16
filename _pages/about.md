@@ -481,6 +481,10 @@ redirect_from:
 
 
 ## 🎓️ Alumni  <a id="alumni"> </a>
+* <font size=3 color=BLACK>Jinhuan He (何金桓)     2021 Undergraduate Student</font>
+<p style="margin-top:-1em; text-indent: 2em">Exploration of Two-Dimensional Magnetic Semiconductor</p>
+<p></p><br>
+
 
 ## 📷️ Pictures <a id="pictures"></a>
 * <font size=3 color=BLACK>2025 Spring outing, Pro. Huang Lab</font>
