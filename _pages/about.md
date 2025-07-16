@@ -46,10 +46,6 @@ redirect_from:
 
 ## 🔥 News <a id="news"> </a>
  <font size=3 color=BLACK><strong>2025</strong></font>
-* Jul. 2025. 🎉Welcome our new group member Ruixin Xu (许睿馨)!
-* Jul. 2025. 🎉Welcome our new group member Yuhang Wu (武宇航)!
-* Jun. 2025. 🎉Welcome our new group member Xinya Qiu (邱心雅)!
-* Jun. 2025. 🎉Jinhuan He (何金桓) sucessfully defended his undergraduate thesis. Congratulation!
 * Apr. 2025. 🎉Welcome our new group member Yulin Chen (陈俞霖)!
 * Mar. 2025. 🎉Welcome our new project student Luozhao Zhang (张罗钊) from Fudan Univ.!
 * Mar. 2025. 🎉Welcome our new group member Zuli Lin (林祖利)!
@@ -68,26 +64,18 @@ redirect_from:
 <div class="paper-box">
 </div>
 
-
 <div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
-  <p><a href="https://doi.org/10.1063/5.0280231">
-  Intrinsic magnetic properties and domain structure of ThMn<sub>12</sub>-type (Sm,Zr)(Fe, Co,M)<sub>12</sub>  (M = Ti,Mo) compounds</a> <br>
-                <p>Applied Physics Letters, 2025, 127: 022403.</p>
-                <p style="margin-bottom:0em">
-                Fan S<sup>#</sup>, <strong><u>Lin Z</u><sup>#</sup></strong>, Wu B, Qian H, Ma X, Yang W, Fang X, Xu Q, Han J, Du H*, Yang J* and Yang Y*.</p>
-              </p>
-            </div>
-
-<div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
-  <p><a href="https://doi.org/10.1016/j.jallcom.2025.180956">Intrinsic magnetic and microwave absorbing properties of 3:29-type Nd<sub>2.7</sub>Zr<sub>0.3</sub>(Fe, Ti)<sub>29</sub> compounds with planar anisotropy</a> <br>
-                <p>Journal of Alloys and Compounds, 2025, 1030: 180956.</p>
+  <p><a href="https://doi.org/10.1016/j.jallcom.2025.180673">Intrinsic magnetic and microwave absorbing properties of 3:29-type Nd<sub>2.7</sub>Zr<sub>0.3</sub>(Fe, Ti)<sub>29</sub> compounds with planar anisotropy</a> <br>
+                <p>Journal of Alloys and Compounds, 2025, 180956.</p>
                 <p style="margin-bottom:0em">
                 Fan S, Wang Y, Li K, <strong><u>Lin Z</u></strong>, Xin T, Yang W, Ma X, Liu Z, Wang C, Han J, Xu Q, Du H*, Yang J* and Yang Y*.</p>
               </p>
+            </div>
+
 
 <div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
   <p><a href="https://doi.org/10.1016/j.jallcom.2025.180673">Effects of Si substitution on the magnetic and microwave absorbing properties of Y<sub>2</sub>Fe<sub>17-x</sub>Si<sub>x</sub> and their composites</a> <br>
-                <p>Journal of Alloys and Compounds, 2025, 1031: 180673.</p>
+                <p>Journal of Alloys and Compounds, 2025, 180673.</p>
                 <p style="margin-bottom:0em">
                 Zhang P, Wang Y,<strong><u>Lin Z</u></strong>, Sun X, Li K, Qian H, Tang S, Liang Z, Yun C, Li G, Ma X, Yang W*, Wang C* and Yang J*.</p>
               </p>
@@ -461,41 +449,24 @@ redirect_from:
 ## 🗣️ Members <a id="members"></a>
 * <font size=3 color=BLACK>Liqiang Zeng (曾力强)    2024 PhD Student</font>
 <p style="margin-top:-1em; text-indent: 2em">Exploration of Two-Dimensional Magnetic Materials</p>
-
 * <font size=3 color=BLACK>Yucheng Ye (叶宇城)     2024 Master Student</font>
 <p style="margin-top:-1em; text-indent: 2em">Exploration of Two-Dimensional Magnetic Materials</p>
-
+* <font size=3 color=BLACK>Jinhuan He (何金桓)     2021 Undergraduate Student</font>
+<p style="margin-top:-1em; text-indent: 2em">Exploration of Two-Dimensional Magnetic Semiconductor</p>
 * <font size=3 color=BLACK>Shuyi Deng (邓舒怡)     2024 Undergraduate Student</font>
 <p style="margin-top:-1em; text-indent: 2em">Growth of Two-Dimensional Magnetic single crystal</p>
-
 * <font size=3 color=BLACK>Zuli Lin (林祖利)     2024 Undergraduate Student</font>
 <p style="margin-top:-1em; text-indent: 2em">Growth of Two-Dimensional Magnetic single crystal</p>
-
 * <font size=3 color=BLACK>Luozhao Zhang (张罗昭)     2022 PhD Student from Fudan Univ.</font>
 <p style="margin-top:-1em; text-indent: 2em">Exploration of Near Room-temperature Two-Dimensional Magnetic Materials</p>
-
 * <font size=3 color=BLACK>Yulin Chen (陈俞霖)     2024 Undergraduate Student</font>
 <p style="margin-top:-1em; text-indent: 2em">Exploration of Intercalated Two-Dimensional Magnetic Materials</p>
 <p></p><br>
 
-* <font size=3 color=BLACK>Xinya Qiu (邱心雅)     2023 Undergraduate Student</font>
-<p style="margin-top:-1em; text-indent: 2em">Exploration of Intercalated Two-Dimensional Magnetic Materials</p>
-<p></p><br>
-
-* <font size=3 color=BLACK>Yuhang Wu (武宇航)     2023 Undergraduate Student</font>
-<p style="margin-top:-1em; text-indent: 2em">Exploration of Intercalated Two-Dimensional Magnetic Materials</p>
-<p></p><br>
-
-* <font size=3 color=BLACK>Ruixin Xu (许睿馨)     2022 Undergraduate Student</font>
-<p style="margin-top:-1em; text-indent: 2em">Exploration of High-Quality Two-Dimensional Magnetic Material Growth Technology</p>
-<p></p><br>
 
 
 
 ## 🎓️ Alumni  <a id="alumni"> </a>
-<p></p><br>
-
-
 
 ## 📷️ Pictures <a id="pictures"></a>
 * <font size=3 color=BLACK>2025 Spring outing, Pro. Huang Lab</font>
