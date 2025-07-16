@@ -465,8 +465,6 @@ redirect_from:
 <p style="margin-top:-1em; text-indent: 2em">Exploration of Two-Dimensional Magnetic Materials</p>
 * <font size=3 color=BLACK>Yucheng Ye (叶宇城)     2024 Master Student</font>
 <p style="margin-top:-1em; text-indent: 2em">Exploration of Two-Dimensional Magnetic Materials</p>
-* <font size=3 color=BLACK>Jinhuan He (何金桓)     2021 Undergraduate Student</font>
-<p style="margin-top:-1em; text-indent: 2em">Exploration of Two-Dimensional Magnetic Semiconductor</p>
 * <font size=3 color=BLACK>Shuyi Deng (邓舒怡)     2024 Undergraduate Student</font>
 <p style="margin-top:-1em; text-indent: 2em">Growth of Two-Dimensional Magnetic single crystal</p>
 * <font size=3 color=BLACK>Zuli Lin (林祖利)     2024 Undergraduate Student</font>
@@ -475,8 +473,13 @@ redirect_from:
 <p style="margin-top:-1em; text-indent: 2em">Exploration of Near Room-temperature Two-Dimensional Magnetic Materials</p>
 * <font size=3 color=BLACK>Yulin Chen (陈俞霖)     2024 Undergraduate Student</font>
 <p style="margin-top:-1em; text-indent: 2em">Exploration of Intercalated Two-Dimensional Magnetic Materials</p>
+* <font size=3 color=BLACK>Xinya Qiu (邱心雅)     2023 Undergraduate Student</font>
+<p style="margin-top:-1em; text-indent: 2em">Exploration of Intercalated Two-Dimensional Magnetic Materials</p>
+* <font size=3 color=BLACK>Yuhang Wu (武宇航)     2023 Undergraduate Student</font>
+<p style="margin-top:-1em; text-indent: 2em">Exploration of Intercalated Two-Dimensional Magnetic Materials</p>
+* <font size=3 color=BLACK>Ruixin Xu (许睿馨)     2022 Undergraduate Student</font>
+<p style="margin-top:-1em; text-indent: 2em">Exploration of High-Quality Two-Dimensional Magnetic Material Growth Technology</p>
 <p></p><br>
-
 
 
 
