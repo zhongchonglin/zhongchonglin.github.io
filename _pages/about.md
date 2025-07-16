@@ -46,6 +46,10 @@ redirect_from:
 
 ## 🔥 News <a id="news"> </a>
  <font size=3 color=BLACK><strong>2025</strong></font>
+* Jul. 2025. 🎉Welcome our new group member Ruixin Xu (许睿馨)!
+* Jul. 2025. 🎉Welcome our new group member Yuhang Wu (武宇航)!
+* Jun. 2025. 🎉Welcome our new group member Xinya Qiu (邱心雅)!
+* Jun. 2025. 🎉Jinhuan He (何金桓) sucessfully defended his undergraduate thesis. Congratulation!
 * Apr. 2025. 🎉Welcome our new group member Yulin Chen (陈俞霖)!
 * Mar. 2025. 🎉Welcome our new project student Luozhao Zhang (张罗钊) from Fudan Univ.!
 * Mar. 2025. 🎉Welcome our new group member Zuli Lin (林祖利)!
