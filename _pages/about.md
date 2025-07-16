@@ -477,7 +477,7 @@ redirect_from:
 <p style="margin-top:-1em; text-indent: 2em">Exploration of Intercalated Two-Dimensional Magnetic Materials</p>
 * <font size=3 color=BLACK>Yuhang Wu (武宇航)     2023 Undergraduate Student</font>
 <p style="margin-top:-1em; text-indent: 2em">Exploration of Intercalated Two-Dimensional Magnetic Materials</p>
-* <font size=3 color=BLACK>Ruixin Xu (许睿馨)     2022 Undergraduate Student</font>
+* <font size=3 color=BLACK>Ruixin Xu (许睿馨)     2023 Undergraduate Student</font>
 <p style="margin-top:-1em; text-indent: 2em">Exploration of High-Quality Two-Dimensional Magnetic Material Growth Technology</p>
 <p></p><br>
 
