@@ -473,21 +473,6 @@ redirect_from:
 
 * <font size=3 color=BLACK>Luozhao Zhang (张罗昭)     2022 PhD Student from Fudan Univ.</font>
 <p style="margin-top:-1em; text-indent: 2em">Exploration of Near Room-temperature Two-Dimensional Magnetic Materials</p>
-
-* <font size=3 color=BLACK>Yulin Chen (陈俞霖)     2024 Undergraduate Student</font>
-<p style="margin-top:-1em; text-indent: 2em">Exploration of Intercalated Two-Dimensional Magnetic Materials</p>
-<p></p><br>
-
-* <font size=3 color=BLACK>Xinya Qiu (邱心雅)     2023 Undergraduate Student</font>
-<p style="margin-top:-1em; text-indent: 2em">Exploration of Intercalated Two-Dimensional Magnetic Materials</p>
-<p></p><br>
-
-* <font size=3 color=BLACK>Yuhang Wu (武宇航)     2023 Undergraduate Student</font>
-<p style="margin-top:-1em; text-indent: 2em">Exploration of Intercalated Two-Dimensional Magnetic Materials</p>
-<p></p><br>
-
-* <font size=3 color=BLACK>Ruixin Xu (许睿馨)     2022 Undergraduate Student</font>
-<p style="margin-top:-1em; text-indent: 2em">Exploration of High-Quality Two-Dimensional Magnetic Material Growth Technology</p>
 <p></p><br>
 
 
