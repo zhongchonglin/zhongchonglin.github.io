@@ -84,7 +84,7 @@ redirect_from:
               <ul>
                 <li><p style="text-align:justify;text-justify:inter-ideograph;">We introduced tensile stress into Ce2Fe17 using a high-energy ball milling method to realize room-temperature ferromagnetic ordering in Ce<sub>2</sub>Fe<sub>17</sub>.</p></li>
                 <li><p style="text-align:justify;text-justify:inter-ideograph;">Complementary neutron diffraction and Mössbauer spectroscopy confirmed that ball milling eliminated the helical magnetic ordering and enhanced the ferromagnetic ordering, resulting in room-temperature ferromagnetism in Ce<sub>2</sub>Fe<sub>17</sub>.</p></li>
-                <li><p style="text-align:justify;text-justify:inter-ideograph;margin-bottom:-0.5em"> Due to the inhomogeneous strain and short-range ferromagnetic ordering caused by ball milling, Ce2Fe17 exhibits a near-zero thermal expansion behavior (α = -1.70×10<sup>-6</sup> K<sup>-1</sup> over a wide temperature range (100-225K), making it a promising candidate for zero thermal expansion materials.</p></li>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;margin-bottom:-0.5em"> Due to the inhomogeneous strain and short-range ferromagnetic ordering caused by ball milling, Ce<sub>2</sub>Fe<sub>17</sub> exhibits a near-zero thermal expansion behavior (α = -1.70×10<sup>-6</sup> K<sup>-1</sup> over a wide temperature range (100-225K), making it a promising candidate for zero thermal expansion materials.</p></li>
               </ul>
             </div>
 </div>
