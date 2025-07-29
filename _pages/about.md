@@ -68,6 +68,28 @@ redirect_from:
 <div class="paper-box">
 </div>
 
+<div class="paper-box" style="margin-top:0em">
+            <div class="paper-box-image">
+              <div>
+                <div class="badge">Rare Metals</div><img src="images/2025RM.png" alt="sym"
+                  width="100%" />
+              </div>
+            </div>
+            <div class="paper-box-text">
+
+  <p><a href="https://doi.org/10.1007/s12598-025-03452-2"><p style="text-align:justify;text-justify:inter-ideograph;">An efficient magnetic modification strategy: strain-induced ferromagnetic ordering and anomalous thermal expansion of Ce<sub>2</sub>Fe<sub>17</sub></p></a>
+               <p>Rare Metals, 2025.</p>
+               Wang Y<sup>#</sup>, <p><strong><u>Lin Z</u><sup>#</sup></strong>*, Hu S, Xu J, Yin W, Zhu T, Zhang P, Li K, Yang W*, Wang F, Wang C, Luo Z, Yang J*.</p>
+              </p>
+              <ul>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;">We introduced tensile stress into Ce2Fe17 using a high-energy ball milling method to realize room-temperature ferromagnetic ordering in Ce<sub>2</sub>Fe<sub>17</sub>.</p></li>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;">Complementary neutron diffraction and Mössbauer spectroscopy confirmed that ball milling eliminated the helical magnetic ordering and enhanced the ferromagnetic ordering, resulting in room-temperature ferromagnetism in Ce<sub>2</sub>Fe<sub>17</sub>.</p></li>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;margin-bottom:-0.5em"> Due to the inhomogeneous strain and short-range ferromagnetic ordering caused by ball milling, Ce2Fe17 exhibits a near-zero thermal expansion behavior (α = -1.70×10<sup>-6</sup> K<sup>-1</sup> over a wide temperature range (100-225K), making it a promising candidate for zero thermal expansion materials.</p></li>
+              </ul>
+            </div>
+</div>
+
+
 <div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
   <p><a href="https://doi.org/10.1063/5.0280231">
   Intrinsic magnetic properties and domain structure of ThMn<sub>12</sub>-type (Sm,Zr)(Fe, Co,M)<sub>12</sub>  (M = Ti,Mo) compounds</a> <br>
