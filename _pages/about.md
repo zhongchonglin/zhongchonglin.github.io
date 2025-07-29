@@ -79,7 +79,7 @@ redirect_from:
 
   <p><a href="https://doi.org/10.1007/s12598-025-03452-2"><p style="text-align:justify;text-justify:inter-ideograph;">An efficient magnetic modification strategy: strain-induced ferromagnetic ordering and anomalous thermal expansion of Ce<sub>2</sub>Fe<sub>17</sub></p></a>
                <p>Rare Metals, 2025.</p>
-               Wang Y<sup>#</sup>, <p><strong><u>Lin Z</u><sup>#</sup></strong>*, Hu S, Xu J, Yin W, Zhu T, Zhang P, Li K, Yang W*, Wang F, Wang C, Luo Z, Yang J*.</p>
+               <p>Wang Y<sup>#</sup>, <strong><u>Lin Z</u><sup>#</sup></strong>*, Hu S, Xu J, Yin W, Zhu T, Zhang P, Li K, Yang W*, Wang F, Wang C, Luo Z, Yang J*.</p>
               </p>
               <ul>
                 <li><p style="text-align:justify;text-justify:inter-ideograph;">We introduced tensile stress into Ce2Fe17 using a high-energy ball milling method to realize room-temperature ferromagnetic ordering in Ce<sub>2</sub>Fe<sub>17</sub>.</p></li>
