@@ -48,8 +48,7 @@ redirect_from:
  <font size=3 color=BLACK><strong>2025</strong></font>
 * <font color=BLACK>Aug. 2025.  Our (Fe,Co)<sub>3</sub>GaTe<sub>2</sub> work was published by <strong>Nature Communications</strong>.</font>
 * <font color=BLACK>Jul. 2025.  Our Ce<sub>2</sub>Fe<sub>17</sub> work was published by <strong>Rare Metals</strong>.</font>
-<p style="margin-top:-1em; text-indent: 2em"><font color=BLACK>相关报导：<a href="https://mp.weixin.qq.com/s/-yDo_uGk5RAV_3hldfpyTw">https://mp.weixin.qq.com/s/-yDo_uGk5RAV_3hldfpyTw</a></font></p>
-<p style="margin-top:-0.5em; text-indent: 2em"><font color=BLACK><a href="https://mp.weixin.qq.com/s/L034JZFuBzoidyZG-Cs_mQ">https://mp.weixin.qq.com/s/L034JZFuBzoidyZG-Cs_mQ</a></font></p>
+<p style="margin-top:-1em; text-indent: 2em"><font color=BLACK>相关报导：<a href="https://mp.weixin.qq.com/s/-yDo_uGk5RAV_3hldfpyTw">https://mp.weixin.qq.com/s/-yDo_uGk5RAV_3hldfpyTw</a>; <a href="https://mp.weixin.qq.com/s/L034JZFuBzoidyZG-Cs_mQ">https://mp.weixin.qq.com/s/L034JZFuBzoidyZG-Cs_mQ</a></font></p>
 * Jul. 2025. 🎉Welcome our new group member Ruixin Xu (许睿馨)!
 * Jul. 2025. 🎉Welcome our new group member Yuhang Wu (武宇航)!
 * Jun. 2025. 🎉Welcome our new group member Xinya Qiu (邱心雅)!
@@ -75,7 +74,7 @@ redirect_from:
 <div class="paper-box" style="margin-top:0em">
             <div class="paper-box-image">
               <div>
-                <div class="badge">Rare Metals</div><img src="images/2025-8-NC.png" alt="sym"
+                <div class="badge">Nature Communications</div><img src="images/2025-8-NC.png" alt="sym"
                   width="100%" />
               </div>
             </div>
