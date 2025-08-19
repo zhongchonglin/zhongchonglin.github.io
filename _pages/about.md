@@ -48,7 +48,7 @@ redirect_from:
  <font size=3 color=BLACK><strong>2025</strong></font>
 * <font color=BLACK>Aug. 2025.  Our (Fe,Co)<sub>3</sub>GaTe<sub>2</sub> work was published by <strong>Nature Communications</strong>.</font>
 * <font color=BLACK>Jul. 2025.  Our Ce<sub>2</sub>Fe<sub>17</sub> work was published by <strong>Rare Metals</strong>.</font>
-<p style="margin-top:-1em; text-indent: 2em"><font color=BLACK>相关报导：<a href="https://mp.weixin.qq.com/s/L034JZFuBzoidyZG-Cs_mQ">NeW 1</a>; <a href="https://mp.weixin.qq.com/s/-yDo_uGk5RAV_3hldfpyTw">New2 </a></font></p>
+<p style="margin-top:-1em; text-indent: 2em"><font color=BLACK>相关报导：<a href="https://mp.weixin.qq.com/s/L034JZFuBzoidyZG-Cs_mQ">NeW 1</a>; <a href="https://mp.weixin.qq.com/s/-yDo_uGk5RAV_3hldfpyTw">New 2 </a></font></p>
 * Jul. 2025. 🎉Welcome our new group member Ruixin Xu (许睿馨)!
 * Jul. 2025. 🎉Welcome our new group member Yuhang Wu (武宇航)!
 * Jun. 2025. 🎉Welcome our new group member Xinya Qiu (邱心雅)!
@@ -58,7 +58,7 @@ redirect_from:
 * Mar. 2025. 🎉Welcome our new group member Zuli Lin (林祖利)!
 * Mar. 2025. 🎉Welcome our new group member Shuyi Deng (邓舒怡)!
 * <font color=BLACK>Feb. 2025.  Our Cr⁢Br<sub>3</sub> work was published by <strong>Physical Review Applied</strong>.</font>
-<p style="margin-top:-1em; text-indent: 2em"><font color=BLACK>相关报导：<a href="https://www.fjnu.edu.cn/3d/42/c6980a408898/page.htm">https://www.fjnu.edu.cn/3d/42/c6980a408898/page.htm</a></font></p>
+<p style="margin-top:-1em; text-indent: 2em"><font color=BLACK>相关报导：<a href="https://www.fjnu.edu.cn/3d/42/c6980a408898/page.htm">New 1</a></font></p>
  <font size=3 color=BLACK><strong>2024</strong></font>
 * Sept. 2024. 🎉Welcome our new group member Jinhuan He (何金桓)!
 * Sept. 2024. 🎉Welcome our new group member Yucheng Ye (叶宇城)!
