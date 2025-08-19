@@ -45,6 +45,8 @@ redirect_from:
 <p></p><br>
 
 ## 🔥 News <a id="news"> </a>
+* <font color=BLACK>Jul. 2025.  Our Ce<sub>2</sub>Fe<sub>17</sub> work was published by <strong>Rare Metals</strong>.</font>
+<p style="margin-top:-1em; text-indent: 2em"><font color=BLACK>相关报导：<a href="https://mp.weixin.qq.com/s/-yDo_uGk5RAV_3hldfpyTw">https://mp.weixin.qq.com/s/-yDo_uGk5RAV_3hldfpyTw</a></font></p>
  <font size=3 color=BLACK><strong>2025</strong></font>
 * Jul. 2025. 🎉Welcome our new group member Ruixin Xu (许睿馨)!
 * Jul. 2025. 🎉Welcome our new group member Yuhang Wu (武宇航)!
@@ -71,6 +73,27 @@ redirect_from:
 <div class="paper-box" style="margin-top:0em">
             <div class="paper-box-image">
               <div>
+                <div class="badge">Rare Metals</div><img src="images/2025-8-NC.png" alt="sym"
+                  width="100%" />
+              </div>
+            </div>
+            <div class="paper-box-text">
+
+  <p><a href="https://doi.org/10.48550/arXiv.2504.06764"><p style="text-align:justify;text-justify:inter-ideograph;">Layer-dependent spin-orbit torque switching of Néel vector in a van der Waals antiferromagnet</p></a>
+               <p>Nature Communications, 2025.</p>
+               <p>Guo H<sup>#</sup>, <strong><u>Lin Z</u><sup>#</sup></strong>, Lu J, Yun C*, Han G, Sun S, Wu Y, Yang W, Xiao D, Zhu Z, Peng L, Ye Y, Hou Y*, Yang J* and Luo Z*.</p>
+              </p>
+              <ul>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;">Layer-dependent electrical switching of the Néel vector in an A-type vdW antiferromagnet (Fe,Co)<sub>3</sub>GaTe<sub>2</sub>.</p></li>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;">The Néel vector of (Fe,Co)<sub>3</sub>GaTe<sub>2</sub> with odd-number vdW layers can be 180° reversed via spin-orbit torques.</p></li>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;margin-bottom:-0.5em">Field-free switching in an all-vdW, all-antiferromagnet heterostructure of (Fe,Co)<sub>3</sub>GaTe<sub>2</sub>/CrSBr in which the noncollinear interfacial spin texture breaks the mirror symmetry is achieved.</p></li>
+              </ul>
+            </div>
+</div>
+
+<div class="paper-box" style="margin-top:0em">
+            <div class="paper-box-image">
+              <div>
                 <div class="badge">Rare Metals</div><img src="images/2025RM.png" alt="sym"
                   width="100%" />
               </div>
@@ -79,7 +102,7 @@ redirect_from:
 
   <p><a href="https://doi.org/10.1007/s12598-025-03452-2"><p style="text-align:justify;text-justify:inter-ideograph;">An efficient magnetic modification strategy: strain-induced ferromagnetic ordering and anomalous thermal expansion of Ce<sub>2</sub>Fe<sub>17</sub></p></a>
                <p>Rare Metals, 2025.</p>
-               <p>Wang Y<sup>#</sup>, <strong><u>Lin Z</u><sup>#</sup></strong>*, Hu S, Xu J, Yin W, Zhu T, Zhang P, Li K, Yang W*, Wang F, Wang C, Luo Z, Yang J*.</p>
+               <p>Wang Y<sup>#</sup>, <strong><u>Lin Z</u><sup>#</sup></strong>*, Hu S, Xu J, Yin W, Zhu T, Zhang P, Li K, Yang W*, Wang F, Wang C, Luo Z and Yang J*.</p>
               </p>
               <ul>
                 <li><p style="text-align:justify;text-justify:inter-ideograph;">We introduced tensile stress into Ce2Fe17 using a high-energy ball milling method to realize room-temperature ferromagnetic ordering in Ce<sub>2</sub>Fe<sub>17</sub>.</p></li>
