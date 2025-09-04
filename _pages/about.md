@@ -71,6 +71,15 @@ redirect_from:
 <div class="paper-box">
 </div>
 
+<div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
+  <p><a href="https://doi.org/10.1016/j.ensm.2025.104556">
+  Perfecting oxygen stoichiometry in cathode materials: A defect-control strategy for stable sodium-ion batteries</a> <br>
+                <p>Energy Storage Materials, 2025, 82: 104556.</p>
+                <p style="margin-bottom:0em">
+                Zhang L, Hong Y, Xu J, Lin S, <strong><u>Lin Z</u><sup>#</sup></strong>, Zheng L*, Yao H* and Hong Z*.</p>
+              </p>
+            </div>
+
 <div class="paper-box" style="margin-top:0em">
             <div class="paper-box-image">
               <div>
