@@ -49,6 +49,8 @@ redirect_from:
 * <font color=BLACK>Aug. 2025.  Our (Fe,Co)<sub>3</sub>GaTe<sub>2</sub> work was published by <strong>Nature Communications</strong>.</font>
 * <font color=BLACK>Jul. 2025.  Our Ce<sub>2</sub>Fe<sub>17</sub> work was published by <strong>Rare Metals</strong>.</font>
 <p style="margin-top:0em; text-indent: 2em"><font color=BLACK>相关报导：<a href="https://mp.weixin.qq.com/s/L034JZFuBzoidyZG-Cs_mQ">NeW 1</a>; <a href="https://mp.weixin.qq.com/s/-yDo_uGk5RAV_3hldfpyTw">New 2 </a></font></p>
+* Sept. 2025. 🎉Welcome our new group member Ziqi Dai (戴子琪)!
+* Sept. 2025. 🎉Welcome our new group member Lu Zhang (张璐)!
 * Jul. 2025. 🎉Welcome our new group member Ruixin Xu (许睿馨)!
 * Jul. 2025. 🎉Welcome our new group member Yuhang Wu (武宇航)!
 * Jun. 2025. 🎉Welcome our new group member Xinya Qiu (邱心雅)!
@@ -519,6 +521,10 @@ redirect_from:
 * <font size=3 color=BLACK>Liqiang Zeng (曾力强)    2024 PhD Student</font>
 <p style="margin-top:-1em; text-indent: 2em">Exploration of Two-Dimensional Magnetic Materials</p>
 * <font size=3 color=BLACK>Yucheng Ye (叶宇城)     2024 Master Student</font>
+<p style="margin-top:-1em; text-indent: 2em">Exploration of Permanent Magnetic Materials</p>
+* <font size=3 color=BLACK>Lu Zhang (张璐)     2025 Master Student</font>
+<p style="margin-top:-1em; text-indent: 2em">Exploration of Two-Dimensional Magnetic Materials</p>
+* <font size=3 color=BLACK> Ziqi Dai (戴子琪)     2025 Master Student</font>
 <p style="margin-top:-1em; text-indent: 2em">Exploration of Two-Dimensional Magnetic Materials</p>
 * <font size=3 color=BLACK>Shuyi Deng (邓舒怡)     2024 Undergraduate Student</font>
 <p style="margin-top:-1em; text-indent: 2em">Growth of Two-Dimensional Magnetic single crystal</p>
