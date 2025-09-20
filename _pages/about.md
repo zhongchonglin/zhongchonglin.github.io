@@ -46,11 +46,11 @@ redirect_from:
 
 ## 🔥 News <a id="news"> </a>
  <font size=3 color=BLACK><strong>2025</strong></font>
+* Sept. 2025. 🎉Welcome our new group member Ziqi Dai (戴子琪)!
+* Sept. 2025. 🎉Welcome our new group member Lu Zhang (张璐)!
 * <font color=BLACK>Aug. 2025.  Our (Fe,Co)<sub>3</sub>GaTe<sub>2</sub> work was published by <strong>Nature Communications</strong>.</font>
 * <font color=BLACK>Jul. 2025.  Our Ce<sub>2</sub>Fe<sub>17</sub> work was published by <strong>Rare Metals</strong>.</font>
 <p style="margin-top:0em; text-indent: 2em"><font color=BLACK>相关报导：<a href="https://mp.weixin.qq.com/s/L034JZFuBzoidyZG-Cs_mQ">NeW 1</a>; <a href="https://mp.weixin.qq.com/s/-yDo_uGk5RAV_3hldfpyTw">New 2 </a></font></p>
-* Sept. 2025. 🎉Welcome our new group member Ziqi Dai (戴子琪)!
-* Sept. 2025. 🎉Welcome our new group member Lu Zhang (张璐)!
 * Jul. 2025. 🎉Welcome our new group member Ruixin Xu (许睿馨)!
 * Jul. 2025. 🎉Welcome our new group member Yuhang Wu (武宇航)!
 * Jun. 2025. 🎉Welcome our new group member Xinya Qiu (邱心雅)!
