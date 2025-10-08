@@ -91,7 +91,7 @@ redirect_from:
             </div>
             <div class="paper-box-text">
 
-  <p><a href="https://doi.org/10.48550/arXiv.2504.06764"><p style="text-align:justify;text-justify:inter-ideograph;">Layer-dependent spin-orbit torque switching of Néel vector in a van der Waals antiferromagnet</p></a>
+  <p><a href="https://www.nature.com/articles/s41467-025-63966-2"><p style="text-align:justify;text-justify:inter-ideograph;">Layer-dependent spin-orbit torque switching of Néel vector in a van der Waals antiferromagnet</p></a>
                <p>Nature Communications, 2025.</p>
                <p>Guo H<sup>#</sup>, <strong><u>Lin Z</u><sup>#</sup></strong>, Lu J, Yun C*, Han G, Sun S, Wu Y, Yang W, Xiao D, Zhu Z, Peng L, Ye Y, Hou Y*, Yang J* and Luo Z*.</p>
               </p>
