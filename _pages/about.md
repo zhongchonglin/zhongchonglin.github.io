@@ -26,7 +26,7 @@ redirect_from:
 <p>B.S. in School of Material Physics, Fujian Normal University</p>
 <div style="height: 0.5em;"></div> 
 
-<p style="text-align:justify;text-justify:inter-ideograph;">We  focus on the research on the relationship between the structure and properties of new magnetic functional materials. Utilizing key technologies from large scientific facilities such as neutron scattering and synchrotron radiation, we have made a series of original research achievements and significant advancements in the structural and magnetic studies of permanent magnets, soft magnets, and  two-dimensional magnetic compounds. We have published over 20 papers in internationally renowned journals with Citations > 300, impact factors > 200.</p> 
+<p style="text-align:justify;text-justify:inter-ideograph;">We  focus on the research on the relationship between the structure and properties of new magnetic functional materials. Utilizing key technologies from large scientific facilities such as neutron scattering and synchrotron radiation, we have made a series of original research achievements and significant advancements in the structural and magnetic studies of permanent magnets, soft magnets, and  two-dimensional magnetic compounds. We have published over 40 papers in internationally renowned journals with Citations > 300, impact factors > 200.</p> 
 
 <p style="color:blue">Welcome to students interested in magnetic physics to join our research team!</p><br>
 
