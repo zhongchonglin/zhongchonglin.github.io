@@ -48,6 +48,7 @@ redirect_from:
 
 ## 🔥 News <a id="news"> </a>
  <font size=3 color=BLACK><strong>2025</strong></font>
+* <font color=BLACK>Jam. 2026.  Our CuVP<sub>2</sub>S<sub>6</sub> work was published by <strong>Advanced Materials</strong>.</font>
 * Sept. 2025. 🎉Welcome our new group member Ziqi Dai (戴子琪)!
 * Sept. 2025. 🎉Welcome our new group member Lu Zhang (张璐)!
 * <font color=BLACK>Aug. 2025.  Our (Fe,Co)<sub>3</sub>GaTe<sub>2</sub> work was published by <strong>Nature Communications</strong>.</font>
