@@ -48,8 +48,8 @@ redirect_from:
 
 ## 🔥 News <a id="news"> </a>
  <font size=3 color=BLACK><strong>2025</strong></font>
-* <font color=BLACK>Jam. 2026.  Our CuVP<sub>2</sub>S<sub>6</sub> work was published by <strong>Advanced Materials</strong>.</font>
-* <font color=BLACK>Jam. 2026.  Our Sm<sub>2</sub>Fe<sub>17</sub>N<sub>3</sub> work invited by Acta Physica Sinica was published.</font>
+* <font color=BLACK>Jan. 2026.  Our CuVP<sub>2</sub>S<sub>6</sub> work was published by <strong>Advanced Materials</strong>.</font>
+* <font color=BLACK>Jan. 2026.  Our Sm<sub>2</sub>Fe<sub>17</sub>N<sub>3</sub> work invited by Acta Physica Sinica was published.</font>
 * Sept. 2025. 🎉Welcome our new group member Ziqi Dai (戴子琪)!
 * Sept. 2025. 🎉Welcome our new group member Lu Zhang (张璐)!
 * <font color=BLACK>Aug. 2025.  Our (Fe,Co)<sub>3</sub>GaTe<sub>2</sub> work was published by <strong>Nature Communications</strong>.</font>
