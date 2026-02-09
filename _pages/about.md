@@ -49,6 +49,7 @@ redirect_from:
 ## 🔥 News <a id="news"> </a>
  <font size=3 color=BLACK><strong>2025</strong></font>
 * <font color=BLACK>Jam. 2026.  Our CuVP<sub>2</sub>S<sub>6</sub> work was published by <strong>Advanced Materials</strong>.</font>
+* <font color=BLACK>Jam. 2026.  Our Sm<sub>2</sub>Fe<sub>17</sub>N<sub>3</sub> work invited by Acta Physica Sinica was published.</font>
 * Sept. 2025. 🎉Welcome our new group member Ziqi Dai (戴子琪)!
 * Sept. 2025. 🎉Welcome our new group member Lu Zhang (张璐)!
 * <font color=BLACK>Aug. 2025.  Our (Fe,Co)<sub>3</sub>GaTe<sub>2</sub> work was published by <strong>Nature Communications</strong>.</font>
@@ -79,7 +80,7 @@ redirect_from:
 <div class="paper-box" style="margin-top:0em">
             <div class="paper-box-image">
               <div>
-                <div class="badge">Nature Communications</div><img src="images/2026-1-AM.png" alt="sym"
+                <div class="badge">Advanced Materials</div><img src="images/2026-1-AM.png" alt="sym"
                   width="100%" />
               </div>
             </div>
@@ -93,6 +94,27 @@ redirect_from:
                 <li><p style="text-align:justify;text-justify:inter-ideograph;">Temperature‐dependent neutron diffraction elucidates a ferroionic structure with dynamic distributions of copper ions across multiple crystallographic sites of CuVP<sub>2</sub>S<sub>6</sub>.</p></li>
                 <li><p style="text-align:justify;text-justify:inter-ideograph;">The versatile occupations are driven by local symmetry‐controlled orbital interactions between copper ions and surrounding ligands through a second‐order Jahn–Teller mechanism.</p></li>
                 <li><p style="text-align:justify;text-justify:inter-ideograph;margin-bottom:-0.5em">The pressure‐controlled magnetocrystalline anisotropy and interlayer exchange interactions mediated by Cu+ migration are demonstrated, boosting the Curie temperature remarkably by over 60% and inducing a soft‐to‐hard FM transition unparalleled within the MTP family.</p></li>
+              </ul>
+            </div>
+</div>
+
+<div class="paper-box" style="margin-top:0em">
+            <div class="paper-box-image">
+              <div>
+                <div class="badge">Acta Physica Sinica</div><img src="images/2026-1-Acta Physica Sinica.png" alt="sym"
+                  width="100%" />
+              </div>
+            </div>
+            <div class="paper-box-text">
+
+  <p><a href="https://wulixb.iphy.ac.cn/article/doi/10.7498/aps.75.20251613"><p style="text-align:justify;text-justify:inter-ideograph;">Ultra-strong Magnetocrystalline Anisotropy in Sm-Fe-N Permanent Magnetic Materials</p></a>
+               <p>Acta Physica Sinica, 2026, 75. (Invited)</p>
+               <p>Lin Z<sup>#</sup>, <strong><u>Ye Y</u><sup>#</sup>*</strong>, Zha L, Liang D, An Q, Liu W, Li T, Ling L, Li Z, Qiao L, Yang W, Luo Z, Liu E, Huang Z* and Yang J*.</p>
+              </p>
+              <ul>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;">Neutron diffraction reveals that N atoms preferentially occupy the 9e interstitial sites, forming the fully nitrided Sm<sub>2</sub>Fe<sub>17</sub>N<sub>3</sub>.</p></li>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;">High-field magnetic measurements reveal that the anisotropy field of Sm<sub>2</sub>Fe<sub>17</sub>N<sub>3</sub> reaches 22.6 T at room temperature and exceeds 50 T at 2 K.</p></li>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;margin-bottom:-0.5em">XMCD measurements demonstrate that the magnetism of Sm is dominated by its orbital magnetic moment, establishing its strong spin-orbit coupling as the physical origin of the ultra-strong magnetocrystalline anisotropy.</p></li>
               </ul>
             </div>
 </div>
@@ -116,7 +138,7 @@ redirect_from:
             <div class="paper-box-text">
 
   <p><a href="https://www.nature.com/articles/s41467-025-63966-2"><p style="text-align:justify;text-justify:inter-ideograph;">Layer-dependent spin-orbit torque switching of Néel vector in a van der Waals antiferromagnet</p></a>
-               <p>Nature Communications, 2025.</p>
+               <p>Nature Communications, 2025, 16: 8911.</p>
                <p>Guo H<sup>#</sup>, <strong><u>Lin Z</u><sup>#</sup></strong>, Lu J, Yun C*, Han G, Sun S, Wu Y, Yang W, Xiao D, Zhu Z, Peng L, Ye Y, Hou Y*, Yang J* and Luo Z*.</p>
               </p>
               <ul>
