@@ -109,7 +109,7 @@ redirect_from:
 
   <p><a href="https://wulixb.iphy.ac.cn/article/doi/10.7498/aps.75.20251613"><p style="text-align:justify;text-justify:inter-ideograph;">Ultra-strong Magnetocrystalline Anisotropy in Sm-Fe-N Permanent Magnetic Materials</p></a>
                <p>Acta Physica Sinica, 2026, 75. (Invited)</p>
-               <p>Lin Z<sup>#</sup>, <strong><u>Ye Y</u><sup>#</sup>*</strong>, Zha L, Liang D, An Q, Liu W, Li T, Ling L, Li Z, Qiao L, Yang W, Luo Z, Liu E, Huang Z* and Yang J*.</p>
+               <p><strong><u>Lin Z</u><sup>#</sup></strong>, Ye Y<sup>#</sup>, Zha L, Liang D, An Q, Liu W, Li T, Ling L, Li Z, Qiao L, Yang W, Luo Z, Liu E, Huang Z* and Yang J*.</p>
               </p>
               <ul>
                 <li><p style="text-align:justify;text-justify:inter-ideograph;">Neutron diffraction reveals that N atoms preferentially occupy the 9e interstitial sites, forming the fully nitrided Sm<sub>2</sub>Fe<sub>17</sub>N<sub>3</sub>.</p></li>
