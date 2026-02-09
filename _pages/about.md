@@ -22,6 +22,8 @@ redirect_from:
 <p style="margin-bottom:0em">09/2019 - 07/2024  <font color=BLACK><strong>硕博连读</strong></font></p>
 <p>PhD in School of Physics, Peking University</p>
 <p style="margin-top:-0.5em">Co-professor：Jinbo Yang </p>
+<p style="margin-bottom:0em">09/2014 - 07/2018  <font color=BLACK><strong>本科</strong></font></p>
+<p>B.S. in School of Material Physics, Fujian Normal University</p>
 <div style="height: 0.5em;"></div> 
 
 <p style="text-align:justify;text-justify:inter-ideograph;">We  focus on the research on the relationship between the structure and properties of new magnetic functional materials. Utilizing key technologies from large scientific facilities such as neutron scattering and synchrotron radiation, we have made a series of original research achievements and significant advancements in the structural and magnetic studies of permanent magnets, soft magnets, and  two-dimensional magnetic compounds. We have published over 20 papers in internationally renowned journals with Citations > 300, impact factors > 200.</p> 
@@ -71,6 +73,27 @@ redirect_from:
 （<sup>#</sup>Co-first; <sup>*</sup>Corresponding）
  <font size=3 color=BLACK><strong>2025</strong></font>
 <div class="paper-box">
+</div>
+
+<div class="paper-box" style="margin-top:0em">
+            <div class="paper-box-image">
+              <div>
+                <div class="badge">Nature Communications</div><img src="images/2026-1-AM.png" alt="sym"
+                  width="100%" />
+              </div>
+            </div>
+            <div class="paper-box-text">
+
+  <p><a href="https://www.nature.com/articles/s41467-025-63966-2"><p style="text-align:justify;text-justify:inter-ideograph;">Cu<sup>+</sup>‐Driven Ferroionic Structure and Pressure‐Tunable Magnetism in Layered Thiophosphate CuVP<sub>2</sub>S<sub>6</sub></p></a>
+               <p>Advanced Materials, 2026.</p>
+               <p>Xie R<sup>#</sup>, <strong><u>Lin Z</u><sup>#</sup>*</strong>, Cao Y, Yun C, Zhang Z, Fan S, Peng Y, Ma X, Li K, Shi C, Zhou D, Han R, Du H, Liu X, Luo Z*, Yang J* and Yang W*.</p>
+              </p>
+              <ul>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;">Temperature‐dependent neutron diffraction elucidates a ferroionic structure with dynamic distributions of copper ions across multiple crystallographic sites of CuVP<sub>2</sub>S<sub>6</sub>.</p></li>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;">The versatile occupations are driven by local symmetry‐controlled orbital interactions between copper ions and surrounding ligands through a second‐order Jahn–Teller mechanism.</p></li>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;margin-bottom:-0.5em">The pressure‐controlled magnetocrystalline anisotropy and interlayer exchange interactions mediated by Cu+ migration are demonstrated, boosting the Curie temperature remarkably by over 60% and inducing a soft‐to‐hard FM transition unparalleled within the MTP family.</p></li>
+              </ul>
+            </div>
 </div>
 
 <div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
