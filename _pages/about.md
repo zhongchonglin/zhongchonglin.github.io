@@ -86,7 +86,7 @@ redirect_from:
             </div>
             <div class="paper-box-text">
 
-  <p><a href="https://www.nature.com/articles/s41467-025-63966-2"><p style="text-align:justify;text-justify:inter-ideograph;">Cu<sup>+</sup>‐Driven Ferroionic Structure and Pressure‐Tunable Magnetism in Layered Thiophosphate CuVP<sub>2</sub>S<sub>6</sub></p></a>
+  <p><a><p style="text-align:justify;text-justify:inter-ideograph;">Cu<sup>+</sup>‐Driven Ferroionic Structure and Pressure‐Tunable Magnetism in Layered Thiophosphate CuVP<sub>2</sub>S<sub>6</sub></p></a>
                <p>Advanced Materials, 2026.</p>
                <p>Xie R<sup>#</sup>, <strong><u>Lin Z</u><sup>#</sup>*</strong>, Cao Y, Yun C, Zhang Z, Fan S, Peng Y, Ma X, Li K, Shi C, Zhou D, Han R, Du H, Liu X, Luo Z*, Yang J* and Yang W*.</p>
               </p>
