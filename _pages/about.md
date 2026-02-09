@@ -88,7 +88,7 @@ redirect_from:
 
   <p><a><p style="text-align:justify;text-justify:inter-ideograph;">Cu<sup>+</sup>‐Driven Ferroionic Structure and Pressure‐Tunable Magnetism in Layered Thiophosphate CuVP<sub>2</sub>S<sub>6</sub></p></a>
                <p>Advanced Materials, 2026.</p>
-               <p>Xie R<sup>#</sup>, <strong><u>Lin Z</u><sup>#</sup>*</strong>, Cao Y, Yun C, Zhang Z, Fan S, Peng Y, Ma X, Li K, Shi C, Zhou D, Han R, Du H, Liu X, Luo Z*, Yang J* and Yang W*.</p>
+               <p>Xie R<sup>#</sup>, <strong><u>Lin Z</u><sup>#</sup></strong>*, Cao Y, Yun C, Zhang Z, Fan S, Peng Y, Ma X, Li K, Shi C, Zhou D, Han R, Du H, Liu X, Luo Z*, Yang J* and Yang W*.</p>
               </p>
               <ul>
                 <li><p style="text-align:justify;text-justify:inter-ideograph;">Temperature‐dependent neutron diffraction elucidates a ferroionic structure with dynamic distributions of copper ions across multiple crystallographic sites of CuVP<sub>2</sub>S<sub>6</sub>.</p></li>
