@@ -71,7 +71,7 @@ redirect_from:
 
 ## 📝 Publications <a id="publications"></a>
 （<sup>#</sup>Co-first; <sup>*</sup>Corresponding）
- <font size=3 color=BLACK><strong>2025</strong></font>
+ <font size=3 color=BLACK><strong>2026</strong></font>
 <div class="paper-box">
 </div>
 
@@ -115,6 +115,14 @@ redirect_from:
                 <li><p style="text-align:justify;text-justify:inter-ideograph;margin-bottom:-0.5em">XMCD measurements demonstrate that the magnetism of Sm is dominated by its orbital magnetic moment, establishing its strong spin-orbit coupling as the physical origin of the ultra-strong magnetocrystalline anisotropy.</p></li>
               </ul>
             </div>
+</div>
+
+<p></p><br>
+ <font size=3 color=BLACK><strong>2024</strong></font>
+<div class="paper-box">
+</div>
+
+<div class="paper-box">
 </div>
 
 <div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
