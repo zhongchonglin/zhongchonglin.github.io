@@ -91,7 +91,7 @@ redirect_from:
               <ul>
                 <li><p style="text-align:justify;text-justify:inter-ideograph;">Temperature‐dependent neutron diffraction elucidates a ferroionic structure with dynamic distributions of copper ions across multiple crystallographic sites of CuVP<sub>2</sub>S<sub>6</sub>.</p></li>
                 <li><p style="text-align:justify;text-justify:inter-ideograph;">The versatile occupations are driven by local symmetry‐controlled orbital interactions between copper ions and surrounding ligands through a second‐order Jahn–Teller mechanism.</p></li>
-                <li><p style="text-align:justify;text-justify:inter-ideograph;margin-bottom:-0.5em">The pressure‐controlled magnetocrystalline anisotropy and interlayer exchange interactions mediated by Cu+ migration are demonstrated, boosting the Curie temperature remarkably by over 60% and inducing a soft‐to‐hard FM transition unparalleled within the MTP family.</p></li>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;margin-bottom:-0.5em">The pressure‐controlled magnetocrystalline anisotropy and interlayer exchange interactions mediated by Cu<sup>+</sup> migration are demonstrated, boosting the Curie temperature remarkably by over 60% and inducing a soft‐to‐hard FM transition unparalleled within the MTP family.</p></li>
               </ul>
             </div>
 </div>
