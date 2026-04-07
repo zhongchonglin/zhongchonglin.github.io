@@ -24,7 +24,7 @@ redirect_from:
 <p style="margin-top:-0.5em">Co-professor：Jinbo Yang </p>
 <div style="height: 0.5em;"></div> 
 
-<p style="text-align:justify;text-justify:inter-ideograph;">We  focus on the research on the relationship between the structure and properties of new magnetic functional materials. Utilizing key technologies from large scientific facilities such as neutron scattering and synchrotron radiation, we have made a series of original research achievements and significant advancements in the structural and magnetic studies of permanent magnets, soft magnets, and  two-dimensional magnetic compounds. We have published over 40 papers in internationally renowned journals with Citations > 300, impact factors > 200.</p> 
+<p style="text-align:justify;text-justify:inter-ideograph;">We  focus on the research on the relationship between the structure and properties of new magnetic functional materials. Utilizing key technologies from large scientific facilities such as neutron scattering and synchrotron radiation, we have made a series of original research achievements and significant advancements in the structural and magnetic studies of permanent magnets, soft magnets, and  two-dimensional magnetic compounds. We have published over 50 papers in internationally renowned journals with Citations > 300, impact factors > 300.</p> 
 
 <p style="color:blue">Welcome to students interested in magnetic physics to join our research team!</p><br>
 
@@ -45,9 +45,11 @@ redirect_from:
 <p></p><br>
 
 ## 🔥 News <a id="news"> </a>
- <font size=3 color=BLACK><strong>2025</strong></font>
+ <font size=3 color=BLACK><strong>2026</strong></font>
+* <font color=BLACK>Mar. 2026.  Prof. Lin elected to the 15th Council of the Chinese Nuclear Physics Society.
 * <font color=BLACK>Jan. 2026.  Our CuVP<sub>2</sub>S<sub>6</sub> work was published by <strong>Advanced Materials</strong>.</font>
 * <font color=BLACK>Jan. 2026.  Our Sm<sub>2</sub>Fe<sub>17</sub>N<sub>3</sub> work invited by <strong>Acta Physica Sinica</strong> was published.</font>
+ <font size=3 color=BLACK><strong>2025</strong></font>
 * Sept. 2025. 🎉Welcome our new group member Ziqi Dai (戴子琪)!
 * Sept. 2025. 🎉Welcome our new group member Lu Zhang (张璐)!
 * <font color=BLACK>Aug. 2025.  Our (Fe,Co)<sub>3</sub>GaTe<sub>2</sub> work was published by <strong>Nature Communications</strong>.</font>
