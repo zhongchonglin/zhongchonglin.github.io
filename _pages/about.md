@@ -83,7 +83,7 @@ redirect_from:
   Dual-phosphate coating and Mg/Al surface co-doping enable LiCoO<sub>2</sub> for high-voltage cycling</a> <br>
                 <p>Energy Storage Materials, 2026, 86: 104990.</p>
                 <p style="margin-bottom:0em">
-                Zhao G, Qiu C, Yu B, Lin H, Li J*, Ma X*, <strong><u>Lin Z</u></strong>, Zheng Y*, Chen Y and Huang Z*.</p>
+                Zhao G, Qiu C, Yu B, Lin H, Li J*, Ma X*, <strong><u>Lin Z</u></strong>, Zheng Y, Chen Y and Huang Z*.</p>
               </p>
             </div>
 
