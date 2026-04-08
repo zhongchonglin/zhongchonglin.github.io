@@ -118,7 +118,7 @@ redirect_from:
             </div>
             <div class="paper-box-text">
 
-  <p><a href="https://wulixb.iphy.ac.cn/article/doi/10.7498/aps.75.20251613"><p style="text-align:justify;text-justify:inter-ideograph;">Ultra-strong Magnetocrystalline Anisotropy in Sm-Fe-N Permanent Magnetic Materials</p></a>
+  <p><a href="https://wulixb.iphy.ac.cn/article/doi/10.7498/aps.75.20251613"><p style="text-align:justify;text-justify:inter-ideograph;">Ultra-strong magnetocrystalline anisotropy in Sm-Fe-N permanent magnetic materials</p></a>
                <p>Acta Physica Sinica, 2026, 75. (Invited)</p>
                <p><strong><u>Lin Z</u><sup>#</sup></strong>, Ye Y<sup>#</sup>, Zha L, Liang D, An Q, Liu W, Li T, Ling L, Li Z, Qiao L, Yang W, Luo Z, Liu E, Huang Z* and Yang J*.</p>
               </p>
@@ -268,7 +268,7 @@ redirect_from:
 
 
 <div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
-  <p><a href="https://doi.org/10.1016/j.jallcom.2025.178995">Strategy for Optimizing the Performance of ThMn<sub>12</sub>-type Sm(Fe<sub>0.8</sub>Co<sub>0.2</sub>)<sub>11</sub>Ti</a> <br>
+  <p><a href="https://doi.org/10.1016/j.jallcom.2025.178995">Strategy for optimizing the performance of ThMn<sub>12</sub>-type Sm(Fe<sub>0.8</sub>Co<sub>0.2</sub>)<sub>11</sub>Ti</a> <br>
                 <p>Journal of Alloys and Compounds, 2025, 178995.</p>
                 <p style="margin-bottom:0em">
                 Qian H, Shen P, Fan S, Liang D, Zhu T, Gao Q, <strong><u>Lin Z</u></strong>, Wang Y*, Han J, Luo Z, Du H, Wang C, Liu S, Xia W, Choi C-J, Park J and Yang J*.</p>
@@ -306,7 +306,7 @@ redirect_from:
 </div>
 
 <div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
-  <p><a href="https://doi.org/10.1016/j.jallcom.2024.178352">Effects of Hydrogen Pretreatment on the Nitridation, Microstructure, and Magnetic Properties of Sm<sub>2</sub>Fe<sub>17</sub>N<sub>3</sub></a> <br>
+  <p><a href="https://doi.org/10.1016/j.jallcom.2024.178352">Effects of hydrogen pretreatment on the nitridation, microstructure, and magnetic properties of Sm<sub>2</sub>Fe<sub>17</sub>N<sub>3</sub></a> <br>
                 <p>Journal of Alloys and Compounds, 2024, 178352.</p>
                 <p style="margin-bottom:0em">
                 Qian H, Xing M, Han J*, Liang D, <strong><u>Lin Z</u></strong>, Wang Y, Liu F, Zhang P, Zhu T, Tian G, Xu Q, Fang C, Liu S, Yang W, Niu E, Cai D, Rao X, Yang J* and Yang Y.</p>
@@ -343,7 +343,7 @@ redirect_from:
 </div>
 
 <div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
-  <p><a href="https://pubs.acs.org/doi/10.1021/acsnano.3c13034">Harnessing Van der Waals CrPS<sub>4</sub> and Surface Oxides for Nonmonotonic Preset Field Induced Exchange Bias in Fe<sub>3</sub>GeTe<sub>2</sub></a> <br>
+  <p><a href="https://pubs.acs.org/doi/10.1021/acsnano.3c13034">Harnessing van der Waals CrPS<sub>4</sub> and surface oxides for nonmonotonic preset field induced exchange bias in Fe<sub>3</sub>GeTe<sub>2</sub></a> <br>
                 <p>ACS Nano, 2024, 18: 8383-8391.</p>
                 <p style="margin-bottom:0em">Balan A P*, Kumar A, Scholz T, <strong><u>Lin Z</u></strong>, Shahee A, Fu S, Denneulin T, Vas J, Kovács A, Dunin-Borkowski R E, Wang H I, Yang J, Lotsch B V, Nowak U and Kläui M*.</p>
               </p>
