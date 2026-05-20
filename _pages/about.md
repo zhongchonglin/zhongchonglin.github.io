@@ -97,7 +97,7 @@ redirect_from:
 
   <p><a href="https://journals.aps.org/prapplied/accepted/10.1103/gmm2-7346"><p style="text-align:justify;text-justify:inter-ideograph;">Magnetic domains and structural stability in the rare-earth permanent magnet Sm<sub>2</sub>Fe<sub>17</sub>N<sub>3</sub> nanoplate</p></a>
                <p>Physical Review Applied, 2026.</p>
-               <p><strong><u>Lin Z<strong><u><sup>#</sup>, Zha L<sup>#</sup>*, Chen R, Qiu L, Yan A, An Q, Liu W, Su Z, Gao X, Li T, Ling L, Xi C, Yang W*, Han J, Luo Z, Xia W* and Yang J*.</p>
+               <p><strong><u>Lin Z</strong><u><sup>#</sup>, Zha L<sup>#</sup>*, Chen R, Qiu L, Yan A, An Q, Liu W, Su Z, Gao X, Li T, Ling L, Xi C, Yang W*, Han J, Luo Z, Xia W* and Yang J*.</p>
               </p>
               <ul>
                 <li><p style="text-align:justify;text-justify:inter-ideograph;">Controlled by the thermal effect, recoverable and non-recoverable magnetic-domain evolutions were found in Sm<sub>2</sub>Fe<sub>17</sub>N<sub>3</sub> nanoplate.</p></li>
