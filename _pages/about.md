@@ -86,6 +86,27 @@ redirect_from:
               </p>
             </div>
 
+<div class="paper-box" style="margin-top:0em">
+            <div class="paper-box-image">
+              <div>
+                <div class="badge">Advanced Materials</div><img src="images/2026-4-PRA.png" alt="sym"
+                  width="100%" />
+              </div>
+            </div>
+            <div class="paper-box-text">
+
+  <p><a href="https://journals.aps.org/prapplied/accepted/10.1103/gmm2-7346"><p style="text-align:justify;text-justify:inter-ideograph;">Magnetic domains and structural stability in the rare-earth permanent magnet Sm<sub>2</sub>Fe<sub>17</sub>N<sub>3</sub> nanoplate</p></a>
+               <p>Physical Review Applied, 2026.</p>
+               <p><strong><u>Lin Z<strong><u><sup>#</sup>, Zha L<sup>#</sup>*, Chen R, Qiu L, Yan A, An Q, Liu W, Su Z, Gao X, Li T, Ling L, Xi C, Yang W*, Han J, Luo Z, Xia W* and Yang J*.</p>
+              </p>
+              <ul>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;">Controlled by the thermal effect, recoverable and non-recoverable magnetic-domain evolutions were found in Sm<sub>2</sub>Fe<sub>17</sub>N<sub>3</sub> nanoplate.</p></li>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;">Interstitial nitrogen escape in the nanoplate is related to small activation energy and initial diffusion, indicating that over-refinement of powders should be avoided to maintain thermal stability.</p></li>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;margin-bottom:-0.5em">The 2:17 phase remains stable until 675 K, at which point decomposition leads to the disappearance of magnetic domains, indicating that the nitride nanomagnet exhibits promising thermal stability.</p></li>
+              </ul>
+            </div>
+</div>
+
 <div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
   <p><a href="https://www.sciencedirect.com/science/article/abs/pii/S2405829726001236">
   Dual-phosphate coating and Mg/Al surface co-doping enable LiCoO<sub>2</sub> for high-voltage cycling</a> <br>
