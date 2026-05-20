@@ -89,7 +89,7 @@ redirect_from:
 <div class="paper-box" style="margin-top:0em">
             <div class="paper-box-image">
               <div>
-                <div class="badge">Advanced Materials</div><img src="images/2026-4-PRA.png" alt="sym"
+                <div class="badge">Physical Review Applied</div><img src="images/2026-4-PRA.png" alt="sym"
                   width="100%" />
               </div>
             </div>
@@ -127,7 +127,7 @@ redirect_from:
             <div class="paper-box-text">
 
   <p><a href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202520850"><p style="text-align:justify;text-justify:inter-ideograph;">Cu<sup>+</sup>‐driven ferroionic structure and pressure‐tunable magnetism in layered thiophosphate CuVP<sub>2</sub>S<sub>6</sub></p></a>
-               <p>Advanced Materials, 2026.</p>
+               <p>Advanced Materials, 2026, 38: e202520850.</p>
                <p>Xie R<sup>#</sup>, <strong><u>Lin Z</u><sup>#</sup></strong>*, Cao Y, Yun C, Zhang Z, Fan S, Peng Y, Ma X, Li K, Shi C, Zhou D, Han R, Du H, Liu X, Luo Z*, Yang J* and Yang W*.</p>
               </p>
               <ul>
@@ -148,7 +148,7 @@ redirect_from:
             <div class="paper-box-text">
 
   <p><a href="https://wulixb.iphy.ac.cn/article/doi/10.7498/aps.75.20251613"><p style="text-align:justify;text-justify:inter-ideograph;">Ultra-strong magnetocrystalline anisotropy in Sm-Fe-N permanent magnetic materials</p></a>
-               <p>Acta Physica Sinica, 2026, 75. (Invited)</p>
+               <p>Acta Physica Sinica, 2026, 75: 110710. (Invited)</p>
                <p><strong><u>Lin Z</u><sup>#</sup></strong>, Ye Y<sup>#</sup>, Zha L, Liang D, An Q, Liu W, Li T, Ling L, Li Z, Qiao L, Yang W, Luo Z, Liu E, Huang Z* and Yang J*.</p>
               </p>
               <ul>
