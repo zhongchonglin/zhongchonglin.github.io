@@ -77,6 +77,14 @@ redirect_from:
 <div class="paper-box">
 </div>
 
+<div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
+  <p><a href="https://www.nature.com/articles/s41467-026-72895-7#Ack1">
+  Real-space imaging and control of topological spin textures in a van der Waals antiferromagnet</a> <br>
+                <p>Nature Communications, 2026: 1067.</p>
+                <p style="margin-bottom:0em">
+                Cheng Z, <strong><u>Lin Z</u></strong>, Kwon H, Guo H, Zhu H, Jiang Z, Han Y, Dai Z, Du R, Sun L, Miao B, Ma T, Yang M, Yu G, Peng L, Hao Y, Yang J, Wu Y, Won C, Ding H, Luo Z*, Chen G*.</p>
+              </p>
+            </div>
 
 <div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
   <p><a href="https://www.sciencedirect.com/science/article/abs/pii/S2405829726001236">
