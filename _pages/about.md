@@ -104,7 +104,7 @@ redirect_from:
   Thickness-dependent magnetic properties and domain evolution in Fe<sub>3</sub>GaTe<sub>2</sub> films grown by molecular beam epitaxy</a> <br>
                 <p>Inorganics, 2026, 14: 179.</p>
                 <p style="margin-bottom:0em">
-                Fan S*, Xin T, <strong><u>Lin Z</u></strong>, Wu B, Liu Z, Zhang P, Ma X, Li K, Yang W, Wang C, Zha L, Yang J*, Yang Y*, Du H*.</p>
+                Zha L<sup>#</sup>*, Sun X<sup>#</sup>, Tan W, Wu J, Wu S, <strong><u>Lin Z</u></strong>, Fan S, You W, Yang W, Liu P, Yang J*, Che R*.</p>
               </p>
             </div>
 
