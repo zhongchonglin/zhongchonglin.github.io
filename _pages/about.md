@@ -46,6 +46,7 @@ redirect_from:
 
 ## 🔥 News <a id="news"> </a>
  <font size=3 color=BLACK><strong>2026</strong></font>
+* <font color=BLACK>Jul. 2026.  Our Ni-doped Fe<sub>3</sub>GaTe<sub>2</sub> work was published by <strong>Physical Review B</strong>.</font>
 * <font color=BLACK>Mar. 2026.  Prof. Lin elected to the 15th Council of the Chinese Nuclear Physics Society.
 * <font color=BLACK>Jan. 2026.  Our CuVP<sub>2</sub>S<sub>6</sub> work was published by <strong>Advanced Materials</strong>.</font>
 * <font color=BLACK>Jan. 2026.  Our Sm<sub>2</sub>Fe<sub>17</sub>N<sub>3</sub> work invited by <strong>Acta Physica Sinica</strong> was published.</font>
@@ -77,6 +78,28 @@ redirect_from:
 <div class="paper-box">
 </div>
 
+<div class="paper-box" style="margin-top:0em">
+            <div class="paper-box-image">
+              <div>
+                <div class="badge">Physical Review B</div><img src="images/2026-7-PRB.png" alt="sym"
+                  width="100%" />
+              </div>
+            </div>
+            <div class="paper-box-text">
+
+  <p><a href="https://doi.org/10.1103/k713-wl4g"><p style="text-align:justify;text-justify:inter-ideograph;">Tailoring magnetocrystalline anisotropy and anisotropic magnetocaloric effect in Ni-doped Fe<sub>3</sub>⁢GaTe<sub>2</sub> single crystals </p></a>
+               <p>Physical Review B 2026, 114: 014409.</p>
+               <p>Zhang L, Zeng L, Yang J, Mei Y, <strong><u>Lin Z</u></strong>*, Huang Z, Cui J*.</p>
+              </p>
+              <ul>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;">Ni dopants preferentially substitute the preexisting interstitial Fe atoms in the vdW gap rather than inserting into empty interlayer sites.</p></li>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;">This mechanism accounts well for all our experimental observations, including the minor 𝑐-axis contraction, the 80% reduction of magnetocrystalline anisotropy energy with preserved out-of-plane easy axis, and the monotonic decrease of Curie temperature and saturation magnetization.</p></li>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;margin-bottom:-0.5em">The anisotropy of magnetic entropy change decreases from 0.68 to 0.29 J/kg/K, while the relative cooling power exhibits a nonmonotonic evolution, reaching an optimal value of 156 J/kg at 4.6% Ni doping.</p></li>
+              </ul>
+            </div>
+</div>
+
+
 <div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
   <p><a href="https://www.nature.com/articles/s41467-026-72895-7#Ack1">
   Real-space imaging and control of topological spin textures in a van der Waals antiferromagnet</a> <br>
@@ -96,7 +119,7 @@ redirect_from:
             <div class="paper-box-text">
 
   <p><a href="https://journals.aps.org/prapplied/accepted/10.1103/gmm2-7346"><p style="text-align:justify;text-justify:inter-ideograph;">Magnetic domains and structural stability in the rare-earth permanent magnet Sm<sub>2</sub>Fe<sub>17</sub>N<sub>3</sub> nanoplate</p></a>
-               <p>Physical Review Applied, 2026.</p>
+               <p>Physical Review Applied, 2026, 25: 064020.</p>
                <p><strong><u>Lin Z</u><sup>#</sup></strong>, Zha L<sup>#</sup>*, Chen R, Qiu L, Yan A, An Q, Liu W, Su Z, Gao X, Li T, Ling L, Xi C, Yang W*, Han J, Luo Z, Xia W* and Yang J*.</p>
               </p>
               <ul>
