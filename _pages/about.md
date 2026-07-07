@@ -88,7 +88,7 @@ redirect_from:
             <div class="paper-box-text">
 
   <p><a href="https://doi.org/10.1103/k713-wl4g"><p style="text-align:justify;text-justify:inter-ideograph;">Tailoring magnetocrystalline anisotropy and anisotropic magnetocaloric effect in Ni-doped Fe<sub>3</sub>⁢GaTe<sub>2</sub> single crystals </p></a>
-               <p>Physical Review B 2026, 114: 014409.</p>
+               <p>Physical Review B, 2026, 114: 014409.</p>
                <p>Zhang L, Zeng L, Yang J, Mei Y, <strong><u>Lin Z</u></strong>*, Huang Z, Cui J*.</p>
               </p>
               <ul>
@@ -99,6 +99,23 @@ redirect_from:
             </div>
 </div>
 
+<div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
+  <p><a href="https://www.mdpi.com/2304-6740/14/7/179">
+  Thickness-dependent magnetic properties and domain evolution in Fe<sub>3</sub>GaTe<sub>2</sub> films grown by molecular beam epitaxy</a> <br>
+                <p>Inorganics, 2026, 14: 179.</p>
+                <p style="margin-bottom:0em">
+                Fan S*, Xin T, <strong><u>Lin Z</u></strong>, Wu B, Liu Z, Zhang P, Ma X, Li K, Yang W, Wang C, Zha L, Yang J*, Yang Y*, Du H*.</p>
+              </p>
+            </div>
+
+<div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
+  <p><a href="https://pubs.acs.org/doi/10.1021/jacs.6c09711">
+  Interstitial nitrogen tuning of magnetocrystalline anisotropy and high-frequency electromagnetic properties in Nd-Based 3:29-type intermetallics</a> <br>
+                <p>Journal of the American Chemical Society, 2026.</p>
+                <p style="margin-bottom:0em">
+                Fan S*, Xin T, <strong><u>Lin Z</u></strong>, Wu B, Liu Z, Zhang P, Ma X, Li K, Yang W, Wang C, Zha L, Yang J*, Yang Y*, Du H*.</p>
+              </p>
+            </div>
 
 <div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
   <p><a href="https://www.nature.com/articles/s41467-026-72895-7#Ack1">
