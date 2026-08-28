@@ -81,6 +81,27 @@ redirect_from:
 <div class="paper-box" style="margin-top:0em">
             <div class="paper-box-image">
               <div>
+                <div class="badge">Acta Materialia</div><img src="images/202608ACTA.png" alt="sym"
+                  width="100%" />
+              </div>
+            </div>
+            <div class="paper-box-text">
+
+  <p><a href="https://linkinghub.elsevier.com/retrieve/pii/S1359645426007391"><p style="text-align:justify;text-justify:inter-ideograph;">A general synthesis strategy for volatile-element-based compounds: Achieving near-zero thermal expansion and advanced microwave absorption in Yb<sub>2</sub>Fe<sub>17</sub> and its nitride </p></a>
+               <p>Acta Materialia, 2026, 318: 122639.</p>
+               <p>Zhu T, Zha L, Fan S, Tian G, Xin T, Qian C, Han J, Wang C, Liu S, Tan W, Li B, Pei K,<strong><u>Lin Z</u></strong>*, Che R*, Yang J*, Yang W*.</p>
+              </p>
+              <ul>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;">This study develops an in-situ confined reduction-diffusion (IC-RD) strategy coupled with compaction-encapsulation technology, effectively mitigating the evaporation of ytterbium.</p></li>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;">Neutron powder diffraction (NPD) analysis reveals a near-zero thermal expansion (near-ZTE) behavior in Yb<sub>2</sub>Fe<sub>17</sub>, characterized by an ultralow volumetric thermal expansion coefficient of 1.6 × 10−⁷ K−¹ within the 100–250 K temperature range.</p></li>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;margin-bottom:-0.5em"> Yb<sub>2</sub>Fe<sub>17</sub>N<sub>3-δ</sub> exhibits outstanding microwave absorption performance, achieving a minimum reflection loss (RLmin) of -50.5 dB at 3.37 GHz in the S-band with a matching thickness of 4.8 mm. </p></li>
+              </ul>
+            </div>
+</div>
+
+<div class="paper-box" style="margin-top:0em">
+            <div class="paper-box-image">
+              <div>
                 <div class="badge">Physical Review B</div><img src="images/2026-7-PRB.png" alt="sym"
                   width="100%" />
               </div>
