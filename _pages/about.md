@@ -94,7 +94,7 @@ redirect_from:
               <ul>
                 <li><p style="text-align:justify;text-justify:inter-ideograph;">This study develops an in-situ confined reduction-diffusion (IC-RD) strategy coupled with compaction-encapsulation technology, effectively mitigating the evaporation of ytterbium.</p></li>
                 <li><p style="text-align:justify;text-justify:inter-ideograph;">Neutron powder diffraction (NPD) analysis reveals a near-zero thermal expansion (near-ZTE) behavior in Yb<sub>2</sub>Fe<sub>17</sub>, characterized by an ultralow volumetric thermal expansion coefficient of 1.6 × 10−⁷ K−¹ within the 100–250 K temperature range.</p></li>
-                <li><p style="text-align:justify;text-justify:inter-ideograph;margin-bottom:-0.5em"> Yb<sub>2</sub>Fe<sub>17</sub>N<sub>3-δ</sub> exhibits outstanding microwave absorption performance, achieving a minimum reflection loss (RLmin) of -50.5 dB at 3.37 GHz in the S-band with a matching thickness of 4.8 mm. </p></li>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;margin-bottom:-0.5em"> Yb<sub>2</sub>Fe<sub>17</sub>N<sub>3-δ</sub> exhibits outstanding microwave absorption performance, achieving a minimum reflection loss (RL<sub>min</sub>) of -50.5 dB at 3.37 GHz in the S-band with a matching thickness of 4.8 mm. </p></li>
               </ul>
             </div>
 </div>
