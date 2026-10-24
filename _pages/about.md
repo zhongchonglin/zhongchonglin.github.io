@@ -87,6 +87,17 @@ redirect_from:
 <div class="paper-box">
 </div>
 
+
+<div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
+  <p><a href="https://www.nature.com/articles/s41535-026-00947-8">
+  Room-temperature topological spin textures via cobalt substitution in a kagome antiferromagnet</a> <br>
+                <p>npj Quantum Materials, 2026.</p>
+                <p style="margin-bottom:0em">
+                Fan S<sup>#</sup>, Zhao Z<sup>#</sup>,Wu B*, <strong><u>Lin Z</u></strong>, Peng Y, Ma X, Gao J, Xia Y, Li H, Xu Z, Ding S, Yang W, Peng Y, Luo Z, Du H, Lu X*, Yang J.</p>
+              </p>
+            </div>
+
+
 <div class="paper-box" style="margin-top:0em">
             <div class="paper-box-image">
               <div>
@@ -107,6 +118,16 @@ redirect_from:
               </ul>
             </div>
 </div>
+
+<div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
+  <p><a href="https://wulixb.iphy.ac.cn/article/doi/10.7498/aps.75.20260439">
+  Crystallographic texture and magnetic anisotropy of CeCo<sub>5</sub> nanomagnets with functional gradient prepared via a simple melt-spinning route</a> <br>
+                <p> Acta Physica Sinica , 2026, 75: 180705.</p>
+                <p style="margin-bottom:0em">
+                Zha L*, Wang F, Lin Z, Yang W, Du H, Wang C, Che R*, Yang J*.</p>
+              </p>
+            </div>
+
 
 <div class="paper-box" style="margin-top:0em">
             <div class="paper-box-image">
@@ -140,7 +161,7 @@ redirect_from:
 
 
 <div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
-  <p><a href="https://www.mdpi.com/2304-6740/14/7/179">
+  <p><a href="https://ieeexplore.ieee.org/abstract/document/11536093">
   Development of high-performance anisotropic Sm<sub>2</sub>Fe<sub>17</sub>N<sub>x</sub> magnetic powder</a> <br>
                 <p>IEEE Transactions on Magnetics, 2026, 62: 2101210.</p>
                 <p style="margin-bottom:0em">
