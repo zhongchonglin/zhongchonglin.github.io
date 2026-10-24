@@ -81,6 +81,27 @@ redirect_from:
 <div class="paper-box" style="margin-top:0em">
             <div class="paper-box-image">
               <div>
+                <div class="badge">Physical Review B</div><img src="images/202609PRB.png" alt="sym"
+                  width="100%" />
+              </div>
+            </div>
+            <div class="paper-box-text">
+
+  <p><a href="https://journals.aps.org/prb/abstract/10.1103/g97j-4cz4"><p style="text-align:justify;text-justify:inter-ideograph;">Triaxial anisotropic magnetocaloric effect in the van der Waals antiferromagnet CrSBr</p></a>
+               <p>Physical Review B, 2026, 114: 094439.</p>
+               <p>Ye Y, Zeng L, Zhou Y, Peng Y, Xue M, Montero-Cabrera Luis A, Peng L, Gan Z, Liu S, Chen Y, <strong><u>Lin Z</u></strong>*, Yang J, Huang Z*.</p>
+              </p>
+              <ul>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;"> High-quality CrSBr single crystals are synthesized via a modified two-step chemical vapor transport (CVT) method.</p></li>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;">A comprehensive analysis using modified Arrott plots, the Kouvel-Fisher method, the Widom scaling law, and critical isotherm analysis confirms a possible direct crossover from the tricritical mean-field behavior to the 3D Ising behavior</p></li>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;margin-bottom:-0.5em"> Strong anisotropy energy overcomes the interlayer exchange coupling, driving a field-induced first-order spin-flip transition along the easy 𝑏 axis. The maximum magnetic entropy change is 5.21, 5.09 and 4.74 J/(kg K) for 𝐻∥𝑏, 𝐻∥𝑎, and 𝐻∥𝑐, respectively.  </p></li>
+              </ul>
+            </div>
+</div>
+
+<div class="paper-box" style="margin-top:0em">
+            <div class="paper-box-image">
+              <div>
                 <div class="badge">Acta Materialia</div><img src="images/202608ACTA.png" alt="sym"
                   width="100%" />
               </div>
