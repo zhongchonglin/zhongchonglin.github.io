@@ -48,10 +48,10 @@ redirect_from:
  <font size=3 color=BLACK><strong>2026</strong></font>
 * Oct. 2026. Our Sm–Fe–N work in Acta Physica Sinica won an Outstanding Poster Award sponsored by four journals of the Chinese Physical Society.
 * Oct. 2026. Prof. Li was appointed to the Young Editorial Board of The Innovation Rare Earths.
-* <font color=BLACK>Sept. 2026. Our CrSBr work was published by <strong>Physical Review B</strong>.</font>
 * Sept. 2026. 🎉Welcome our new group member Yuming Lai (赖玉铭)!
 * Sept. 2026. 🎉Welcome our new group member Yi Zeng (曾毅)!
 * Sept. 2026. 🎉Welcome our new group member Xipei Lin (林玺培)!
+* <font color=BLACK>Sept. 2026. Our CrSBr work was published by <strong>Physical Review B</strong>.</font>
 * Sept. 2026. 🎉Welcome our new group member Xiangru Chen (陈香如)!
 * Sept. 2026. 🎉Welcome our new group member Lan Li (李兰)!
 * Sept. 2026. 🎉Welcome our new group member Jiacheng Xiao (肖嘉城)!
