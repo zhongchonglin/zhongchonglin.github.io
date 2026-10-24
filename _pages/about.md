@@ -138,6 +138,17 @@ redirect_from:
             </div>
             <div class="paper-box-text">
 
+
+<div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
+  <p><a href="https://www.mdpi.com/2304-6740/14/7/179">
+  Development of high-performance anisotropic Sm<sub>2</sub>Fe<sub>17</sub>N<sub>x</sub> magnetic powder</a> <br>
+                <p>IEEE Transactions on Magnetics, 2026, 62: 2101210.</p>
+                <p style="margin-bottom:0em">
+                Zhu T<sup>#</sup>, Gao Q<sup>#</sup>, <strong><u>Lin Z</u></strong>, Zha L, Liang D, Yang W, Han J, Yang J*.</p>
+              </p>
+            </div>
+
+
   <p><a href="https://doi.org/10.1103/k713-wl4g"><p style="text-align:justify;text-justify:inter-ideograph;">Tailoring magnetocrystalline anisotropy and anisotropic magnetocaloric effect in Ni-doped Fe<sub>3</sub>⁢GaTe<sub>2</sub> single crystals </p></a>
                <p>Physical Review B, 2026, 114: 014409.</p>
                <p>Zhang L, Zeng L, Yang J, Mei Y, <strong><u>Lin Z</u></strong>*, Huang Z, Cui J*.</p>
