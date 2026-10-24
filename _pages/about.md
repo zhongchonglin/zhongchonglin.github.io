@@ -46,6 +46,15 @@ redirect_from:
 
 ## 🔥 News <a id="news"> </a>
  <font size=3 color=BLACK><strong>2026</strong></font>
+* Oct. 2026. Our Sm–Fe–N work in Acta Physica Sinica won an Outstanding Poster Award sponsored by four journals of the Chinese Physical Society.
+* Oct. 2026. Prof. Li was appointed to the Young Editorial Board of The Innovation Rare Earths.
+* <font color=BLACK>Sept. 2026. Our CrSBr work was published by <strong>Physical Review B</strong>.</font>
+* Sept. 2026. 🎉Welcome our new group member Yuming Lai (赖玉铭)!
+* Sept. 2026. 🎉Welcome our new group member Yi Zeng (曾毅)!
+* Sept. 2026. 🎉Welcome our new group member Xipei Lin (林玺培)!
+* Sept. 2026. 🎉Welcome our new group member Xiangru Chen (陈香如)!
+* Sept. 2026. 🎉Welcome our new group member Lan Li (李兰)!
+* Sept. 2026. 🎉Welcome our new group member Jiacheng Xiao (肖嘉城)!
 * <font color=BLACK>Jul. 2026.  Our Ni-doped Fe<sub>3</sub>GaTe<sub>2</sub> work was published by <strong>Physical Review B</strong>.</font>
 * <font color=BLACK>Mar. 2026.  Prof. Lin elected to the 15th Council of the Chinese Nuclear Physics Society.
 * <font color=BLACK>Jan. 2026.  Our CuVP<sub>2</sub>S<sub>6</sub> work was published by <strong>Advanced Materials</strong>.</font>
@@ -93,8 +102,8 @@ redirect_from:
               </p>
               <ul>
                 <li><p style="text-align:justify;text-justify:inter-ideograph;"> High-quality CrSBr single crystals are synthesized via a modified two-step chemical vapor transport (CVT) method.</p></li>
-                <li><p style="text-align:justify;text-justify:inter-ideograph;">A comprehensive analysis using modified Arrott plots, the Kouvel-Fisher method, the Widom scaling law, and critical isotherm analysis confirms a possible direct crossover from the tricritical mean-field behavior to the 3D Ising behavior</p></li>
-                <li><p style="text-align:justify;text-justify:inter-ideograph;margin-bottom:-0.5em"> Strong anisotropy energy overcomes the interlayer exchange coupling, driving a field-induced first-order spin-flip transition along the easy 𝑏 axis. The maximum magnetic entropy change is 5.21, 5.09 and 4.74 J/(kg K) for 𝐻∥𝑏, 𝐻∥𝑎, and 𝐻∥𝑐, respectively.  </p></li>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;">A comprehensive analysis using modified Arrott plots, the Kouvel-Fisher method, the Widom scaling law, and critical isotherm analysis confirms a possible direct crossover from the tricritical mean-field behavior to the 3D Ising behavior.</p></li>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;margin-bottom:-0.5em"> Strong anisotropy energy overcomes the interlayer exchange coupling, driving a field-induced first-order spin-flip transition along the easy 𝑏 axis.</p></li>
               </ul>
             </div>
 </div>
