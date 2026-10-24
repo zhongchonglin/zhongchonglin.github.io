@@ -46,7 +46,7 @@ redirect_from:
 
 ## 🔥 News <a id="news"> </a>
  <font size=3 color=BLACK><strong>2026</strong></font>
-* Oct. 2026. Our Sm–Fe–N work in Acta Physica Sinica won an Outstanding Poster Award sponsored by four journals of the Chinese Physical Society.
+* Oct. 2026. Our Sm–Fe–N work received an Outstanding Poster Award by four journals of the Chinese Physical Society.
 * Oct. 2026. Prof. Li was appointed to the Young Editorial Board of The Innovation Rare Earths.
 * Sept. 2026. 🎉Welcome our new group member Yuming Lai (赖玉铭)!
 * Sept. 2026. 🎉Welcome our new group member Yi Zeng (曾毅)!
