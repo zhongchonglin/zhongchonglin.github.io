@@ -52,6 +52,7 @@ redirect_from:
 * Sept. 2026. 🎉Welcome our new group member Yi Zeng (曾毅)!
 * Sept. 2026. 🎉Welcome our new group member Xipei Lin (林玺培)!
 * <font color=BLACK>Sept. 2026. Our CrSBr work was published by <strong>Physical Review B</strong>.</font>
+<p style="margin-top:0em; text-indent: 2em"><font color=BLACK>相关报导：<a href="https://www.fjnu.edu.cn/3d/42/c6980a408898/page.htm">New 1</a></font></p>
 * Sept. 2026. 🎉Welcome our new group member Xiangru Chen (陈香如)!
 * Sept. 2026. 🎉Welcome our new group member Lan Li (李兰)!
 * Sept. 2026. 🎉Welcome our new group member Jiacheng Xiao (肖嘉城)!
@@ -750,12 +751,16 @@ redirect_from:
 <p style="margin-top:-1em; text-indent: 2em">Exploration of Two-Dimensional Magnetic Materials</p>
 * <font size=3 color=BLACK> Ziqi Dai (戴子琪)     2025 Master Student</font>
 <p style="margin-top:-1em; text-indent: 2em">Exploration of Two-Dimensional Magnetic Materials</p>
+* <font size=3 color=BLACK> Yuming Lai (赖玉铭)     2026 Master Student</font>
+<p style="margin-top:-1em; text-indent: 2em">Exploration of Two-Dimensional Magnetic Materials</p>
+* <font size=3 color=BLACK> Yi Zeng (曾毅)     2026 Master Student</font>
+<p style="margin-top:-1em; text-indent: 2em">Exploration of rare-earth permanent magnets</p>
+* <font size=3 color=BLACK>Xipei Lin (林玺培)     2026 Master Student</font>
+<p style="margin-top:-1em; text-indent: 2em">Exploration of Two-Dimensional Magnetic Materials</p>
 * <font size=3 color=BLACK>Shuyi Deng (邓舒怡)     2024 Undergraduate Student</font>
 <p style="margin-top:-1em; text-indent: 2em">Growth of Two-Dimensional Magnetic single crystal</p>
 * <font size=3 color=BLACK>Zuli Lin (林祖利)     2024 Undergraduate Student</font>
 <p style="margin-top:-1em; text-indent: 2em">Growth of Two-Dimensional Magnetic single crystal</p>
-* <font size=3 color=BLACK>Luozhao Zhang (张罗昭)     2022 PhD Student from Fudan Univ.</font>
-<p style="margin-top:-1em; text-indent: 2em">Exploration of Near Room-temperature Two-Dimensional Magnetic Materials</p>
 * <font size=3 color=BLACK>Yulin Chen (陈俞霖)     2024 Undergraduate Student</font>
 <p style="margin-top:-1em; text-indent: 2em">Exploration of Intercalated Two-Dimensional Magnetic Materials</p>
 * <font size=3 color=BLACK>Xinya Qiu (邱心雅)     2023 Undergraduate Student</font>
@@ -764,15 +769,21 @@ redirect_from:
 <p style="margin-top:-1em; text-indent: 2em">Exploration of Intercalated Two-Dimensional Magnetic Materials</p>
 * <font size=3 color=BLACK>Ruixin Xu (许睿馨)     2023 Undergraduate Student</font>
 <p style="margin-top:-1em; text-indent: 2em">Exploration of High-Quality Two-Dimensional Magnetic Material Growth Technology</p>
+* <font size=3 color=BLACK>Xiangru Chen (陈香如)     2023 Undergraduate Student</font>
+<p style="margin-top:-1em; text-indent: 2em">Exploration of Two-Dimensional Magnetic nanoplates</p>
+* <font size=3 color=BLACK>Lan Li (李兰)     2023 Undergraduate Student</font>
+<p style="margin-top:-1em; text-indent: 2em">Exploration of Two-Dimensional Magnetic Material Growth Technology</p>
+* <font size=3 color=BLACK>Jiacheng Xiao (肖嘉城)     2023 Undergraduate Student</font>
+<p style="margin-top:-1em; text-indent: 2em">Exploration of Rare-earth Magnetic Materials</p>
 <p></p><br>
-
 
 
 ## 🎓️ Alumni  <a id="alumni"> </a>
 * <font size=3 color=BLACK>Jinhuan He (何金桓)     2021 Undergraduate Student</font>
 <p style="margin-top:-1em; text-indent: 2em">Exploration of Two-Dimensional Magnetic Semiconductor</p>
 <p></p><br>
-
+* <font size=3 color=BLACK>Luozhao Zhang (张罗昭)     2022 PhD Student from Fudan Univ.</font>
+<p style="margin-top:-1em; text-indent: 2em">Exploration of Near Room-temperature Two-Dimensional Magnetic Materials</p>
 
 ## 📷️ Pictures <a id="pictures"></a>
 * <font size=3 color=BLACK>Planing for the  2025-2026 Academic Year</font>
