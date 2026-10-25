@@ -150,16 +150,6 @@ redirect_from:
             </div>
 </div>
 
-<div class="paper-box" style="margin-top:0em">
-            <div class="paper-box-image">
-              <div>
-                <div class="badge">Physical Review B</div><img src="images/2026-7-PRB.png" alt="sym"
-                  width="100%" />
-              </div>
-            </div>
-            <div class="paper-box-text">
-
-
 <div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
   <p><a href="https://ieeexplore.ieee.org/abstract/document/11536093">
   Development of high-performance anisotropic Sm<sub>2</sub>Fe<sub>17</sub>N<sub>x</sub> magnetic powder</a> <br>
@@ -169,6 +159,23 @@ redirect_from:
               </p>
             </div>
 
+<div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
+  <p><a href="https://doi.org/10.1021/acsnano.6c12450">
+  Li-Based electrochemical memory achieving stable analog weight modulation via interface engineering</a> <br>
+                <p>ACS Nano, 2026, 20: 25138.</p>
+                <p style="margin-bottom:0em">
+                Zhang W*, Xu J, Xue S, Xie Y, Zhou Y, Lin H, Lin Q, Guan L*, Li Z, Lin Z, Chen Y*, Kolosov Oleg V.; Xu G, Huang Z*</p>
+              </p>
+            </div>
+
+<div class="paper-box" style="margin-top:0em">
+            <div class="paper-box-image">
+              <div>
+                <div class="badge">Physical Review B</div><img src="images/2026-7-PRB.png" alt="sym"
+                  width="100%" />
+              </div>
+            </div>
+            <div class="paper-box-text">
 
   <p><a href="https://doi.org/10.1103/k713-wl4g"><p style="text-align:justify;text-justify:inter-ideograph;">Tailoring magnetocrystalline anisotropy and anisotropic magnetocaloric effect in Ni-doped Fe<sub>3</sub>⁢GaTe<sub>2</sub> single crystals </p></a>
                <p>Physical Review B, 2026, 114: 014409.</p>
