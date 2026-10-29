@@ -88,6 +88,27 @@ redirect_from:
 <div class="paper-box">
 </div>
 
+<div class="paper-box" style="margin-top:0em">
+            <div class="paper-box-image">
+              <div>
+                <div class="badge">Materials Today Physics</div><img src="images/202610MTP.png" alt="sym"
+                  width="100%" />
+              </div>
+            </div>
+            <div class="paper-box-text">
+
+  <p><a href="https://doi.org/10.1016/j.mtphys.2026.102297"><p style="text-align:justify;text-justify:inter-ideograph;">Bending-induced pseudo-piezoelectricity in suspended FeTe<sub>x</sub> nanosheets</p></a>
+               <p>Materials Today Physics, 2026.</p>
+               <p>Chen J, Ye J, Ma Y, Chen C, Lu S, Guan L*, Zhang W, Lu H, <strong><u>Lin Z</u></strong>*, Chen H*, Su G, Zhou Y, Montero-Cabrera Luis A., Kolosov Oleg V., Peng L, Zeng L, Gan Z*, Cao Z, Zhang J*, Chen Y*, Huang Z.</p>
+              </p>
+              <ul>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;"> we select CVD-grown layered FeTe and nonlayered FeTe<sub>2</sub> nanosheets as model systems to investigate how interlayer sliding affects the flexoelectricity. </p></li>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;">nonlayered FeTe<sub>2</sub> exhibits a linear flexoelectric response proportional to the strain gradient, whereas layered FeTe displays an anomalous nonlinearity in its pseudo-piezoelectric intensity.</p></li>
+                <li><p style="text-align:justify;text-justify:inter-ideograph;margin-bottom:-0.5em"> This anomalous behavior is accompanied by a thickness-dependent Young's modulus in FeTe and is attributed to interlayer sliding during deformation. </p></li>
+              </ul>
+            </div>
+</div>
+
 
 <div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
   <p><a href="https://www.nature.com/articles/s41535-026-00947-8">
