@@ -88,6 +88,15 @@ redirect_from:
 <div class="paper-box">
 </div>
 
+<div style="border-bottom: 1px #efefef solid;margin-top:0.5em">
+  <p><a href="https://www.nature.com/articles/s41535-026-00947-8">
+  Geometry‐ and spin‐orbit torque‐engineered multistate antisymmetric magnetoresistance in a van der Waals magnet‐based heterostructure</a> <br>
+                <p>Advanced Functional Materials, 2026, e79399.</p>
+                <p style="margin-bottom:0em">
+                Huang J, Yun C*, Wang C, Su Z, Lu J, Zhao Q, Wu K, Wang Y*, Guo H, <strong><u>Lin Z</u></strong>, Ding S*, Wu R, Luo Z, Yang J, Hou Y*.</p>
+              </p>
+            </div>
+
 <div class="paper-box" style="margin-top:0em">
             <div class="paper-box-image">
               <div>
@@ -98,7 +107,7 @@ redirect_from:
             <div class="paper-box-text">
 
   <p><a href="https://doi.org/10.1016/j.mtphys.2026.102297"><p style="text-align:justify;text-justify:inter-ideograph;">Bending-induced pseudo-piezoelectricity in suspended FeTe<sub>x</sub> nanosheets</p></a>
-               <p>Materials Today Physics, 2026.</p>
+               <p>Materials Today Physics, 2026, 68, 102297.</p>
                <p>Chen J, Ye J, Ma Y, Chen C, Lu S, Guan L*, Zhang W, Lu H, <strong><u>Lin Z</u></strong>*, Chen H*, Su G, Zhou Y, Montero-Cabrera Luis A., Kolosov Oleg V., Peng L, Zeng L, Gan Z*, Cao Z, Zhang J*, Chen Y*, Huang Z.</p>
               </p>
               <ul>
